@@ -1,0 +1,2559 @@
+THE WEST WING
+"WAYS AND MEANS"
+TELEPLAY BY: AARON SORKIN
+STORY BY: ELI ATTIE & GENE SPERLING
+DIRECTED BY: ALEX GRAVES
+
+
+TEASER
+
+FADE IN: EXT. FEDERAL DISTRICT COURT, PENNSYLVANIA AVENUE - DAY
+A black sedan pulls up in front of the building. A mass of press and reporters swarm 
+the vehicle, shouting. The car pulls up to the curb and two men exit. One of them is 
+CLEMENT ROLLINS.
+
+REPORTER 1
+Mr. Rollins. Mr. Rollins, can you tell us when subpoenas are going to be issued?
+
+CLEMENT ROLLINS
+No, I can’t.
+
+REPORTER 2
+Can you tell us if subpoenas are going to be issued at all?
+
+ROLLINS 
+[smiling] No, I can’t.
+
+CUT TO: INT. FEDERAL DISTRICT COURT, PENNSYLVANIA AVENUE LOBBY - CONTINUOUS
+Oliver Babish is leaning on a pillar in the lobby. He checks his watch. Rollins enters 
+and walks across the lobby, past the spot where Oliver is standing. Oliver follows 
+Rollins. They walk together. 
+
+OLIVER
+We’ve shown nothing but good faith.
+
+ROLLINS
+[slightly surprised] Mr. Babish!
+
+OLIVER
+Nothing but good faith, Clem.
+
+ROLLINS
+Do you want to speak privately?
+
+They walk down a HALLWAY.
+
+OLIVER
+Why am I reading that subpoenas are about to be handed out? 
+
+ROLLINS
+Oliver... 
+
+OLIVER
+Look. First of all, your office is leaking like a rowboat.
+
+ROLLINS
+You’ve got a complaint?
+
+OLIVER
+Yes, I do. And I just filed it in the U.S. District Court, but that’s not what I’m here 
+to talk to you about.
+
+ROLLINS
+The leaks aren’t coming from the jurors. They don’t even know why they’re here.
+
+OLIVER
+You were able to impanel a grand jury without telling them what they were showing up for?
+
+They enter A MEETING ROOM. 
+
+ROLLINS
+The voir dire was entirely fair, if anything favored the subjects. What you’ve been 
+reading is the work of a few overzealous and... and irresponsible members of the 
+conservative press in minor media outlets...
+
+Oliver throws a paper down.
+
+OLIVER
+[angry] It’s the Wall Street Journal! The White House has been cooperating fully. We’ll 
+voluntarily hand over everything a subpoena could cover! My staff is working around the 
+clock organizing documents!
+
+ROLLINS
+And if your staff feels something’s protected by executive privilege?
+
+OLVIER
+What if I told you the President was considering waiving executive privilege?
+
+ROLLINS
+Is he waiving attorney-client privilege? Spousal privilege?
+
+OLIVER
+I’m saying...
+
+ROLLINS
+How about doctor-patient privilege?
+
+OLIVER
+Clem, they have shown nothing but good faith.
+
+ROLLINS
+I can’t give out extra credit for that.
+
+They stare at each other in silence. Rollins exits the office to the hallway. 
+
+ROLLINS
+[to guy in the hall] Let’s go. 
+
+Rollins and staffers proceed to walk down the hall as Oliver exits the meeting room.
+They walk past a sign reading "GRAND JURY: IN SESSION" and enter a CONFERENCE ROOM 
+through a set of large wooden doors. A table full of men and women are seated there, 
+waiting. Rollins enters and addresses them. 
+
+ROLLINS
+[clears throat] Good morning, ladies and gentlemen, my name is Clement Rollins. I’m the 
+special prosecutor, appointed by the United States Attorney General, in the matter of 
+Docket CRSP 00101. This morning, with your permission and on your behalf, I would like 
+to issue the first round of subpoenas. These subpoenas compel both testimony and 
+production of documents by the individuals named herein. They are as follows:
+
+We FOCUS in as Rollins produces a list and reads from it. 
+
+ROLLINS
+Josiah Bartlet. Abigail Anne Bartlet. Elizabeth Bartlet-Westin. Eleanor Emily Bartlet. 
+Zoey Patricia Bartlet. Leo Thomas McGarry. Joshua Lyman. Claudia Jean Cregg. Samuel 
+Norman Seaborn. Toby Zachary Ziegler...
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+MONDAY
+
+FADE IN: INT. A STORAGE AREA IN THE OEOB - DAY
+Donna is moving boxes from one place to another. 
+
+JOSH [OS]
+Donna?
+
+DONNA
+[pen in her teeth] Yeah!
+
+JOSH
+What’s going on?
+
+DONNA
+Well, in one of these boxes are the President’s public schedules, and in one of these 
+boxes are his publicly issued schedules to see if there are inconsistencies between the 
+two.
+
+JOSH
+Were you here all night?
+
+DONNA
+Is it daytime?
+
+JOSH
+It’s 7:30.
+
+DONNA
+Usually when I stay up all night I’m able to pass a 19th century English literature 
+midterm. Josh...
+
+JOSH
+Yeah?
+
+DONNA
+I’m not going to have to take a 19th century English literature midterm, am I?
+
+JOSH
+No.
+
+DONNA
+‘Cause in one of these boxes are memos and handwritten notes pertaining to the 
+President’s 100,000 new teachers initiative, since it’s a major policy initiative 
+launched right after a suspected MS attack.
+
+JOSH
+Can I ask you something?
+
+DONNA
+I had a plan.
+
+JOSH
+When you say in one of these boxes...
+
+DONNA
+I had a plan! Each box was numbered. There is a piece of paper with a number and a 
+corresponding description of the contents of each box.
+
+JOSH
+Well, where is the piece of paper? [Donna glares at him.] It’s... in one of these boxes.
+
+DONNA
+I had a plan. [moves yet another box, angrily] I grew up on a farm.
+
+JOSH
+You grew up in a condo.
+
+DONNA
+I grew up near a farm. I was cute. And I was peppy. And I always did well on my 19th 
+century English literature midterms till you came along and sucked me into your life of 
+crime!
+
+JOSH
+Hey, I’m not the one...
+
+DONNA
+White collar crime boy. [gets another box] You know what they do to a girl like me on 
+that cellblock? I’ve seen those movies!
+
+JOSH
+Yeah, me too.
+
+DONNA
+I’ll bet you have!
+
+JOSH
+Look...
+
+DONNA
+Sell my farm-girl ass for a carton of Luckys.
+
+JOSH
+Hey, seriously, you need to sleep for a while.
+
+DONNA
+I can’t yet. ‘Cause in one of these boxes are FedEx receipts and mailroom records for 
+any gifts or packages sent to senior staff, [starts yelling] and in one of these boxes 
+is a piece of paper which says which box it’s in!
+
+JOSH 
+[scared off] I’ll be in the office.
+
+DONNA
+Your office is down the corridor about 200 feet from here. Try not to commit any felonies 
+on the way.
+
+JOSH
+I’ll do my best. [leaves]
+
+CUT TO: INT. HALLWAY - CONTINUOUS
+Sam catches up with Josh. 
+
+SAM
+Josh.
+
+JOSH
+Donna’s like two, three days from unspooling. It’s pretty fun to watch, but can you loan 
+me some senior assistants from Communications?
+
+SAM
+Yeah. So listen, there’s a fire in Yellowstone Park.
+
+JOSH
+Well, put it out.
+
+SAM
+Technically, I’m not a professional firefighter, though there was a time I wanted to be.
+
+JOSH
+When?
+
+SAM
+When I was four.
+
+JOSH
+When I was four, I wanted to be a ballerina.
+
+SAM
+Yeah?
+
+JOSH
+I don’t like to... talk about it.
+
+SAM
+There was a dry lightning strike in a lodgepole pine forest. Fire spread to 500 acres but 
+it’s all inside the resource benefit zone.
+
+JOSH
+Is it all under control?
+
+SAM
+Well, as a matter of fact, last night the park’s superintendent - in consultation with 
+Bill Horton and several deputies from the Department of the Interior decided to let it 
+run its course.
+
+JOSH
+They’re letting it burn?
+
+SAM
+It’s not necessarily our policy to put these things out.
+
+They walk in JOSH'S BULLPEN AREA.
+
+JOSH
+Putting out fires isn’t necessarily our policy?
+
+SAM
+Fire’s good for the environment under certain circumstances. Forests have a natural cycle 
+that requires purging burns to reinvigorate growth.
+
+JOSH
+[pours himself coffee] Someone just said that to you, right?
+
+SAM
+Yeah.
+
+JOSH
+What do we need to do?
+
+SAM
+The President needs to talk on the phone with the governor.
+
+JOSH
+Why?
+
+SAM
+So that the President can say he talked on the phone with the governor.
+
+JOSH
+I’ll take care of it.
+
+SAM
+Ballerina?
+
+JOSH
+I’d kind of like that not to get around. [walks off]
+
+SAM
+Yeah, fat chance of that. [walks off]
+
+A MOVING SHOT to C.J.'S OFFICE. Oliver and Ainsley are inside with C.J.
+
+OLIVER
+You can emphasize that it’s not like being served.
+
+C.J.
+How is it not like being served?
+
+OLIVER
+A subpoena is just a legal agreement to produce certain testimony and documents.
+
+C.J.
+Yeah, but isn’t it like the way a mugger uses a gun to produce your wallet?
+
+OLIVER
+You say we’ll cooperate fully. You say subpoenas don’t indicate otherwise. You say 
+they’re a commonly used legal tool to define the scope of the inquiry!
+
+C.J.
+Oliver, political reporters don’t care about the scope of the inquiry; they hear 
+‘subpoenas’...
+
+OLIVER
+Look...
+
+C.J.
+My trouble with your spin is that we’re not going to get anywhere putting on a calm face. 
+We need to pick a fight!
+
+AINSLEY
+Why?
+
+C.J.
+Because in politics, if you’re not on offense, you’re on defense.
+
+OLIVER
+Your problem there is that Clem Rollins doesn’t foam at the mouth. He’s a good guy and he 
+comes off as a good guy.
+
+AINSLEY
+Plus he was appointed by your own Attorney General which is going to make it tough to fit 
+him with a black hat.
+
+C.J.
+Let me think for just a second. [walks to the door] What do Republicans say about him?
+
+AINSLEY
+Well, we don’t all hang out at a little club...
+
+C.J.
+What do they say about him?
+
+AINSLEY
+He’s well-respected, he’s deliberate, he takes his duty seriously, he wants to get the 
+truth and he wants to avoid any appearance of impropriety or partisanship.
+
+C.J.
+Excuse me! [storms out of the office]
+
+OLIVER
+Where are you going?
+
+C.J.
+We need a different enemy. [leaves]
+
+CUT TO: INT. LEO'S OFFICE - DAY
+Josh and Leo are walking in. 
+
+LEO
+When are you going to meet on the estate tax?
+
+JOSH
+Five minutes.
+
+LEO
+With Toby?
+
+JOSH
+Yeah.
+
+LEO
+Just remember it’s a compromise, Josh, it’s done. You may not like it, but...
+
+JOSH
+It’s a compromise.
+
+LEO
+[gets his briefcase] I’m saying the two of you, when you don’t like something, have a 
+tendency to...
+
+JOSH
+Show our displeasure?
+
+LEO
+Piss people off!
+
+JOSH
+That’s a bad rep. I’m sweet as pecan pie.
+
+LEO
+[puts on his coat] Yeah?
+
+JOSH
+I hate these people, Leo. And when this thing is done, I’m going to personally screw them 
+with their pants on!
+
+C.J.
+[comes in] Excuse me.
+
+LEO
+Hey, C.J..
+
+C.J.
+Leo. [to Josh] Giselle.
+
+JOSH
+Yeah, I’m outta here. [leaves]
+
+C.J.
+You have a second?
+
+LEO
+Yeah. Walk with me.
+
+C.J. follows Leo out into the HALLWAY.
+
+C.J.
+Oliver Babish and Ainsley Hayes were just in my office.
+
+LEO
+On spin?
+
+C.J.
+Yeah.
+
+LEO
+What have you got?
+
+C.J.
+Nothing. You know why?
+
+LEO
+Rollins likes us. 
+
+C.J.
+I don’t know if he likes us but he doesn’t hate us.
+
+LEO
+Well, that’s just because he doesn’t know us.
+
+Leo walks on, but C.J. grabs his arm and swings him into an empty office. 
+
+C.J.
+Leo, we need to be investigated by someone who wants to kill us just to watch us die. 
+We need someone perceived by the American people to be irresponsible, untrustworthy, 
+partisan, ambitious and thirsty for the limelight. Am I crazy or is this not a job for 
+the U.S. House of Representatives?
+
+LEO
+Well, they’ll get around to it sooner or later.
+
+C.J.
+So let’s make it sooner. Let’s make it now. Rollins is driving them slow, he won’t talk 
+to the press, they’re ready to jump ... I swear to god, Leo, I think we can move the show!
+
+LEO
+[beat] You got a briefing now?
+
+C.J.
+Yeah.
+
+LEO
+Show me what you’re starting with.
+
+C.J.
+Yeah.
+
+They walk off in different directions.
+
+CUT TO: INT. TOBY'S OFFICE - DAY
+Toby is in his coat, picking up documents from his desk. 
+
+TOBY
+I’m leaving now!
+
+BONNIE [OS]
+You need this. [hands him a blue folder]
+
+TOBY
+I’m leaving for this meeting.
+
+BONNIE 
+[takes a blue folder away from him] You don’t need this.
+
+TOBY
+This meeting when I will compromise!
+
+BONNIE
+Do you have 10-60?
+
+TOBY
+Yes, I do. Why do we compromise? [chuckles] Because we are ordered to, because 
+compromising on the estate tax prevents Republicans from going for an even bigger 
+tax cut which would help rest the White House from our compromising little hands... 
+so I go to this meeting...
+
+GINGER
+You need this. [hands him a pink folder]
+
+TOBY
+The estate tax which Republicans have cleverly dubbed the Death Tax there’s nothing 
+that... heh, the Republicans do better than naming things... So I go to this meeting... 
+[walks out of the area, then comes back] because I agree with Republicans and Congress! 
+America is about self-sufficiency, about lifting yourself up by the bootstraps just as 
+long as your children’s children never have to work a day in their lives. [gets a scarf 
+from Ginger] So I go to this meeting...
+
+BONNIE
+Toby...
+
+GINGER
+He’s rolling.
+
+TOBY
+Oh, I go to this meeting, Ginger, and though I compromise, I draw a line in the sand, 
+I’m there to insure that only multi-millionaires and not billionaires are exempt from 
+the estate tax.
+
+BONNIE 
+[from Toby’s office] Toby!
+
+TOBY
+[walking out] Reelect the President, Bonnie. He’s on the side of millionaires and not 
+billionaires!
+
+BONNIE 
+[shouting] Toby, they cancelled the meeting!
+
+TOBY
+[turns around] What do you mean?
+
+BONNIE
+It’s the chairman’s office. They’re canceling the meeting.
+
+Josh, wearing his coat, comes in. 
+
+JOSH
+They cancelled the meeting.
+
+TOBY
+Bonnie’s got them on the phone; what’s going on?
+
+JOSH
+They say it’s his daughter’s wedding.
+
+TOBY
+His daughter’s wedding is on Saturday.
+
+JOSH
+They say he wants to leave early.
+
+TOBY
+They’re lying.
+
+JOSH
+[sits] I know.
+
+TOBY
+[walks behind his desk] What’s going on?
+
+JOSH
+[sighs] I think they want to take it off the table.
+
+TOBY
+And do what?
+
+JOSH
+The White House is weak. What would you do?
+
+TOBY
+You think they want to repeal the estate tax? [beat, sits]
+
+CUT TO: INT. THE BRIEFING ROOM - DAY
+C.J. is on the TV screen. 
+
+C.J.
+Good morning!
+
+REPORTER
+C.J., is the White House concerned about the subpoenas?
+
+C.J.
+No, in fact we’ve already sent over 80 cartons of documents to Clem. [clamor] I’m sorry, 
+to Mr. Rollins. Eighty cartons of documents that weren’t even subpoenaed and we intend to 
+continue cooperating with him fully. Bobbi?
+
+BOBBI
+Why are the subpoenas necessary?
+
+C.J.
+They’re a commonly used legal tool to define the scope of the inquiry. Steve?
+
+STEVE
+What about the Congressional hearings?
+
+C.J.
+Well, obviously we don’t think they’re necessary, but that’s not for us to say...
+
+STEVE
+Do you...
+
+C.J.
+... and we take a different view than Congressional Republicans do of this Special 
+Prosecutor’s performance thus far: we believe he’s running a thorough and impartial 
+investigation and he should be allowed to finish his work.
+
+STEVE
+I’m sorry, C.J., you say ‘a different view.’ Is Congress unhappy with the Special 
+Prosecutor?
+
+C.J.
+You’d have to ask Congress that. Mark?
+
+We PAN to Leo in the back of the room, looking at C.J. with pride. 
+
+MARK
+C.J., can you comment on the contents of the 80 cartons already sent to the Special 
+Prosecutor... 
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. MARGARET'S OFFICE - DAY
+TUESDAY
+Margaret is at her desk. Margaret is looking at Bruno, who is standing hear a file 
+cabinet. She gets up, walks over to the cabinet and fishes a piece of paper out of the 
+top drawer. 
+
+MARGARET
+You still don’t know my name, do you?
+
+BRUNO
+It’s Gertrude.
+
+MARGARET
+It’s not. [returns to her desk]
+
+LEO
+[walks in] Calls?
+
+Margaret hands him notes. 
+
+BRUNO
+I need to talk to you.
+
+Leo and Bruno walk into LEO'S OFFICE.
+
+LEO
+This estate tax repeal out of committee is gonna be a thing.
+
+BRUNO
+I’ve got another thing.
+
+LEO
+Bruno, they cancelled the meeting yesterday! We think the House Republicans are going to 
+try to repeal the estate tax.
+
+BRUNO
+The Pacers played last night against the Cleveland Cavaliers. 
+
+LEO
+Really?
+
+BRUNO
+Yeah.
+
+LEO
+[indifferently] Who won?
+
+BRUNO
+Indiana, by 5 in double overtime.
+
+LEO
+Well, now the repeal of the estate tax seems somehow insignificant.
+
+BRUNO 
+[holds up a videotape] Can I stick this in?
+
+LEO
+Yeah.
+
+BRUNO 
+[places the tape in the VCR and picks up the remote] You paying attention?
+
+LEO 
+[looking at papers] Yeah.
+
+BRUNO
+[works the remote] Does this thing work?
+
+LEO
+No.
+
+BRUNO
+Okay... if it did, what you’d see is Victor Campos sitting courtside with Buckland.
+
+LEO
+Campos took some courtside seats.
+
+BRUNO
+Campos traveled from Los Angeles to Indianapolis to watch Cleveland and Indiana. They 
+don’t travel from Cleveland to Indianapolis to watch Cleveland and Indiana, I don’t care 
+if they gave Campos a jersey and let him play point guard.
+
+LEO
+He loves the President. He got the California primary for him!
+
+BRUNO
+He’s dating Buckland now.
+
+LEO
+Because they went to a basketball game?
+
+BRUNO
+The President’s Community Empowerment board?
+
+LEO
+Yes.
+
+BRUNO
+The board helps run the President’s initiative to steer private investment job to inner 
+cities?
+
+LEO
+Yes.
+
+BRUNO
+This commission is his dream come true.
+
+LEO
+And we gave him a seat on it.
+
+BRUNO
+And he turned you down. He turned you down.
+
+LEO
+When?
+
+BRUNO
+Shortly after....
+
+LEO
+...the game ended in double overtime! Ah, dammit! Margaret! [walks out of the office]
+
+BRUNO [to himself]
+Margaret... Margaret!
+
+CUT TO: INT. SAM'S OFFICE - DAY
+A television shows a forest on fire. 
+
+SAM
+[into phone] Yeah. Okay. 
+
+Leo and Bruno come in.
+
+SAM
+[into phone] Okay, Jamie, I have to get off, thanks. [hangs up] The fire’s in 1500 acres.
+
+LEO
+Sam. Victor Campos had a meeting last night with Jack Buckland, then he passed on the 
+Community Empowerment Board.
+
+SAM
+Really?
+
+LEO
+Yeah. What do you think he’s doing? 
+
+SAM
+Can you set up a meeting for me?
+
+LEO
+Yeah.
+
+BRUNO
+I want one of my people there with him.
+
+LEO
+At the meeting?
+
+BRUNO
+Yeah.
+
+LEO
+Why?
+
+BRUNO
+‘Cause I do.
+
+LEO
+Sam can do this.
+
+BRUNO
+I’m not saying he can’t, but I want one of my people there to make sure I get the story 
+straight.
+
+LEO
+Sam will have the meeting and report back.
+
+BRUNO
+Sam will have the meeting and one of my people will be there and they will report back. 
+It’s time to distinguish between the White House and the campaign.
+
+LEO
+Sam does this for us.
+
+BRUNO
+Does he do it right?
+
+LEO
+Oftentimes.
+
+SAM
+You guys know I’m sitting right here, right?
+
+LEO
+We’re gonna set up a meeting [walks out with Bruno]
+
+SAM
+Right. And we might want to think about putting this fire out!
+
+CUT TO: INT. STORAGE AREA IN THE OEOB - DAY
+Ainsley is walking in. 
+
+AINSLEY
+Donna?
+
+DONNA 
+[pointing from atop a ladder] Don’t touch that stack over there!
+
+AINSLEY
+I heard you need help.
+
+DONNA
+That stack is the Secret Service logs of all visitors who came into the building to see 
+Charlie. [climbs down] 
+
+AINSLEY
+You feel like being fixed up with a hot guy?
+
+DONNA
+As opposed to this stack which is the Secret Service logs for... what did you say?
+
+AINSLEY
+His name is Cliff Calley, we went to law school together, and he broke up with his 
+girlfriend.
+
+DONNA 
+[smiles] Where does he work?
+
+AINSLEY
+He is cute as hell. 
+
+DONNA
+Where does he work?
+
+AINSLEY
+On the hill. House Ways and Means.
+
+DONNA
+He works for the Minority counsel’s office.
+
+AINSLEY
+Not exactly. 
+
+DONNA
+Where does he work?
+
+AINSLEY
+Well, let me say this. He works with the Minority counsel’s office.
+
+DONNA
+Ainsley... 
+
+AINSLEY
+He works for the Majority counsel’s office.
+
+DONNA
+He’s a Republican.
+
+AINSLEY
+We are the majority. 
+
+DONNA
+Look...
+
+AINSLEY
+By a very small margin.
+
+DONNA
+He works for the Majority counsel’s office in Ways and Means?
+
+AINSLEY
+Yes.
+
+DONNA
+Josh’s in a 12-round fight with Ways and Means!
+
+AINSLEY
+If you’re not comfortable with this...
+
+DONNA
+Josh, who picked me out of nowhere, who works day and night and is under more pressure 
+than ever and who hates these people. [beat] I don't know, is he funny?
+
+AINSLEY
+Yeah. Should I tell him to call you?
+
+DONNA
+Let him call if he wants, but I'm just, you know... phone rings, I answer it - could be 
+anybody! [walks off into the room]
+
+AINSLEY
+Okay.
+
+DONNA 
+[pointing] Don't touch that stack!
+
+CUT TO: INT. HALLWAY - CONTINUOUS
+C.J. catches up with Ainsley. 
+
+C.J.
+I was just coming to see you.
+
+AINSLEY
+What do you need?
+
+They walk up the stairs.
+
+C.J.
+I'm putting you on Capital Beat tonight.
+
+AINSLEY
+The subpoenas?
+
+C.J.
+"Clem Rollins is running ..." Listen to me. "Clem Rollins is running a thorough, fair, 
+and impartial investigation, he's a man of great integrity."
+
+AINSLEY
+"We're willing to cooperate with the Special Prosecutor."
+
+C.J.
+"We're eager to cooperate with the Special Prosecutor." Don't oversell it.
+
+In the JOSH'S BULLPEN AREA, Ainsley walks off. Bruno approaches C.J., and they walk out. 
+
+BRUNO
+I need to bring Victor Campos out here, what do you got?
+
+C.J.
+They're going to introduce racial profiling. 15-minute op in the Rose Garden. 
+
+BRUNO
+Campos has 48 pictures in the Rose Garden. 
+
+C.J.
+Senate hearings on trade agreements between the US and Brazil. Campos can discuss his 
+objections to the President’s position.
+
+BRUNO
+Yeah, I don’t want to remind people that Campos objects to his position. What else?
+
+C.J.
+I don’t... Hey, you know what? The unveiling of the HELP initiative.
+
+BRUNO
+HELP?
+
+C.J.
+Hispanic Education Longevity Program. It lowers the dropout rate for Latino high school 
+students. 
+
+BRUNO
+Man, you have got a killer body, you know that?
+
+C.J.
+In fact, I do. 
+
+C.J. walks into THE BRIEFING ROOM.
+
+C.J.
+Good morning!
+
+REPORTERS
+Good morning.
+
+C.J.
+Before I forget Victor Campos has been added to the guest list for the unveiling of the 
+Hispanic Education Longevity Program. That’s Thursday, day after tomorrow. Mark?
+
+MARK
+C.J., is the White House filing any complaints over the leaks coming from the Special 
+Prosecutor’s office? [clamor]
+
+C.J.
+I can tell you that Oliver Babish and Mr Rollins had several productive conversations 
+about that.
+
+STEVE
+Do they speak often?
+
+C.J.
+Well, they’re old friends.
+
+CUT TO: INT. THE ROOSEVELT ROOM - DAY
+Doug, Toby, and Connie are inside. 
+
+CONNIE
+What was the compromise that was on the table?
+
+DOUG
+Right now, if your estate’s worth less than a million dollars, you’re exempt. The 
+Republicans wanted five million, they settled on two and a half.
+
+CONNIE
+Seems reasonable!
+
+TOBY 
+[pacing behind her] It wasn’t reasonable.
+
+DOUG
+Look...
+
+TOBY
+It wasn’t in driving distance of reasonable.
+
+DOUG
+These people have paid taxes on this money already. They paid it in income tax, they 
+paid it in property tax, capital gains, they gotta pay...
+
+TOBY
+Don’t say it...
+
+DOUG
+A death tax?
+
+TOBY
+98% of estates pay no taxes at all. We’re talking about people who are loaded!
+
+DOUG
+You think just because people can afford a tax, they should be levied?
+
+TOBY
+I think if we’re going to spend millions of dollars on tax breaks, we should consider 
+spending it on people who don’t have millions of dollars.
+
+DOUG 
+[sarcastically] A million dollars isn’t what it used to be.
+
+TOBY
+And they don’t make good yachts anymore. [Josh walks in.] What’d they say?
+
+JOSH
+The... meeting is not going to be rescheduled.
+
+TOBY
+How do they know?
+
+JOSH
+Legislative Affairs has it from three rural House Democrats that Ways and Means is 
+trolling for votes.
+
+TOBY
+On a complete repeal?
+
+JOSH
+Yeah.
+
+TOBY 
+[sighs] Screw it. We went from a million to two-five, what if we throw in another...
+
+JOSH
+No.
+
+TOBY
+I’m saying... Maybe we expand the compromise...
+
+JOSH
+They’re not going to reschedule the meeting!
+
+TOBY
+Well, how do we know until we... 
+
+CONNIE
+Because it’s not about the estate tax. They want what they want and they can get what 
+they want now, right?
+
+JOSH
+The meeting is not going to be rescheduled. [to Doug] What do you think?
+
+TOBY
+I can tell you what he thinks. He thinks we roll with it. He thinks a president can’t be 
+against tax cuts in an election year, he thinks since our key districts have farms that 
+are going to be inherited, we have to... He thinks we roll with it.
+
+DOUG
+I think he should take out the A-bomb. I think he’s got to do something he’s never done 
+even once before. "You think I’m weak? How about I shove Article 1, section 7 up your 
+ass?" Screw the compromise! I think he’s got to veto.
+
+JOSH 
+[beat] Toby, I just... don’t know on how many fronts we can fight a war. You want to find out?
+
+TOBY
+Yeah.
+
+Toby and Josh walk outside.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: EXT. PARK IN WASHINGTON D.C. - DAY
+WEDNESDAY
+Two men approach C.J. 
+
+MAN 1
+C.J.! [C.J. turns.] We had a meeting at the OEOB. We were going to come by and see you. 
+There’s been some concern on the Hill.
+
+C.J.
+About what?
+
+MAN 1
+Over the last couple of days, the press has been real soft on Rollins.
+
+MAN 2
+Particularly with regard to his relationship to the White House.
+
+C.J.
+And there’s concern on the Hill?
+
+MAN1
+Democrats are worried Republicans will use this as an excuse to start their own hearings 
+earlier than expected...
+
+MAN 2
+We’re just saying if the White House could seem a little less eager to cooperate, a 
+little less confident about the guy’s integrity...
+
+C.J.
+Yeah.
+
+MAN 1
+I mean, if you could downplay his friendship with Babish... Have a good night.
+
+C.J.
+You, too.
+
+The men go back to the Capitol Hill, C.J. smiles and returns to the White House.
+
+CUT TO: INT: HALLWAY - DAY
+Sam runs up to C.J..
+
+SAM
+C.J..
+
+C.J.
+How’d the call with the Governor go?
+
+SAM
+It didn’t go that well.
+
+C.J.
+Why not?
+
+SAM
+He’s demanding we put the fire out. The President tried to calm him down but he kept 
+accusing us of advocating fringe environmental policies.
+
+C.J.
+Are we?
+
+SAM
+It’s not clear. But, for the moment, the President and Governor had a productive 
+conversation, he’s monitoring the situation with the Secretary of the Interior.
+
+AINSLEY 
+[from behind] Excuse me!
+
+SAM
+Hey!
+
+AINSLEY
+You need a haircut.
+
+SAM
+Shouldn’t you be someplace keeping me out of jail?
+
+AINSLEY
+I’m taking a break.
+
+SAM
+Okay. [heads off]
+
+Ainsley follows C.J. into C.J.'S OFFICE.
+
+AINSLEY
+You wanted to see me?
+
+C.J.
+You did well last night on Capital Beat. [closes the door]
+
+AINSLEY
+Thanks.
+
+C.J.
+Babish and Rollins wrote a paper together for the Yale Law Review.
+
+AINSLEY
+You should get it out there.
+
+C.J.
+Yeah, the problem is I can’t just make photocopies and distribute it.
+
+AINSLEY
+What do you need?
+
+C.J.
+I want you to get with one of your friends in the pressroom from a conservative paper. 
+
+AINSLEY
+You really think we have a secret handshake, don’t you?
+
+C.J.
+Do you?
+
+AINSLEY
+Yes.
+
+C.J.
+Get alone with one of those guys, go off record, and say you can’t believe how the 
+President can be claiming to waive Executive Privileges yet still reserve the right to 
+withhold certain documents. Can you do that?
+
+AINSLEY
+I can’t believe how the President can be claiming to waive Executive Privileges yet still 
+reserve the right to withhold certain documents.
+
+C.J.
+Yeah, do it quietly and kind of shake your head in disbelief.
+
+AINSLEY 
+[shakes her head dutifully all the while speaking] I can’t believe how the President can 
+be claiming to waive Executive Privileges yet still...
+
+C.J. 
+[follows her motions with her own head] You don’t have to keep shaking your head, just a little in the beginning.
+
+AINSLEY 
+[shakes her head a little] I can’t believe how the President can...
+
+C.J.
+Yeah, but think about...
+
+AINSLEY
+Okay, I’ve got it.
+
+C.J.
+Thank you.
+
+Both smile, and Ainsley leaves.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet is sitting at his desk, searching for a pen in his jacket’s pockets.
+
+BARTLET
+Charlie!
+
+CHARLIE [VO]
+[comes in] Yes, sir.
+
+BARTLET
+Are we out of pens? 
+
+Charlie pulls a pen out of the penholder on Bartlet’s table and hands it to him.
+
+BARTLET
+That’s a good pen, I need an everyday pen.
+
+CHARLIE
+I’ve got pens. [starts off to his desk]
+
+BARTLET
+You’ve got crappy pens, with a plastic top. I need a solid pen that feels good in my 
+hand, but it’s not so formal I feel like a dandy.
+
+CHARLIE
+I’m making some trips to the pen store, aren’t I, Mr. President?
+
+BARTLET
+I used to have the perfect pens. Every day right here, in my pocket. I loved those pens! 
+Balance, great action, paper soaked up the ink what the hell happened to those pens? Do 
+they not make them anymore? I kept that company in business.
+
+CHARLIE
+Sir, when do you think you might begin interviewing candidates to replace Mrs. Landingham?
+
+BARTLET
+You know, I just haven’t gotten to it.
+
+CHARLIE
+Obviously, the office would set up the meeting...
+
+BARTLET
+It’s just been busy.
+
+CHARLIE
+Maybe we’d bring in somebody like a headhunter to do it...
+
+BARTLET
+Is there a rush on this? [stands up]
+
+CHARLIE
+You need a secretary, sir. 
+
+Charlie follows BARTLET out to the PORTICO.
+
+BARTLET
+I have five secretaries, to say nothing of the Secretaries of State, Defense, Treasury, 
+and Education.
+
+CHARLIE
+Sir?
+
+BARTLET
+Yeah?
+
+CHARLIE
+Things are getting missed. It’s nobody’s fault, and everyone’s been trying to cover them, 
+but things are getting missed.
+
+BARTLET
+Things have been fine. I’m gonna have dinner and I’ll be back in the office after, okay?
+
+CHARLIE
+Yes, sir. [stays in his place while Bartlet heads off to the residence] 
+
+BARTLET
+Are you having dinner?
+
+CHARLIE
+Down at the mess.
+
+BARTLET
+I’ll see you later [walks away]
+
+CHARLIE
+Mr President?
+
+BARTLET 
+[stops and turns] Yeah.
+
+CHARLIE
+She put the pen in your pocket every morning. She slipped it in there.
+
+Bartlet turns slowly and walks away.
+
+CUT TO: INT. SAM'S OFFICE - DAY
+Sam is reading and eating, Connie comes in and sits across from him.
+
+CONNIE
+How you doing?
+
+SAM
+Good, how about you?
+
+CONNIE
+Good. [beat] So the thing about me...
+
+SAM
+Yeah?
+
+CONNIE
+Is I’m a brilliant political mind.
+
+SAM
+Yeah?
+
+CONNIE
+Ph.D. in Political Economy from Oxford, that’s not an easy get.
+
+SAM
+No.
+
+CONNIE
+Bruno and Doug knows that I can handle the tough meetings, that’s why they’re sending me 
+with you to meet Victor Campos.
+
+SAM
+Yeah.
+
+CONNIE
+I have an exceptional mind.
+
+SAM
+But?
+
+CONNIE
+I don’t know who Victor Campos is.
+
+SAM 
+[smiles a little] Yeah.
+
+CONNIE
+Look, pal, I went to Oxford, okay? Which is in England!
+
+SAM
+Hey, you weren’t kidding about that exceptional mind.
+
+CONNIE
+Sam?
+
+SAM
+England’s in Europe, right?
+
+CONNIE
+Sam?
+
+SAM 
+[stands up to get a binder from the shelf] He’s the head of the AFSE - American 
+Federation of Service Employees, Local 1262. [sits down again] 
+
+CONNIE
+He’s the head of a Local?
+
+SAM
+Yeah.
+
+CONNIE
+And he rates a meeting with a senior staffer?
+
+SAM
+A democrat can’t get elected to anything in California without him. He can pick up the 
+phone and have 5,000 people at your rally in an hour. He’s got a state-of-the art vote 
+mobilizing operation in place, a massive room with computer banks tracking voter 
+registration. With his endorsement comes 350 thousand calls, callbacks, mailings and 
+e-mails.
+
+CONNIE
+Is there anything in particular I should do at this meeting?
+
+SAM 
+[gets up] Don’t get in my way. [leaves]
+
+CUT TO: EXT. THE FARRAGUT GRILL - NIGHT
+A taxi cab stops at the Farragut Grill. Donna gets out, tries to count the money to give 
+the driver, finally gives him everything she has and walks to the entrance, putting 
+lipstick on. She fixes her hair in the glass door, while CLIFF CALLEY walks out.
+
+CLIFF 
+[hails the cab] Taxi! 
+
+The cab leaves. Cliff turns around.
+
+CLIFF
+Arghh. [beat, looks at Donna] Excuse me, are you Donna Moss, by any chance?
+
+DONNA
+Yeah.
+
+CLIFF
+I’m Cliff Calley.
+
+DONNA
+I’m sorry I’m late. [They shake hands.]
+
+CLIFF
+No, that’s all right.
+
+DONNA
+Were you waiting long?
+
+CLIFF
+No, no, like... It was like an hour and a half or something.
+
+DONNA
+There are these boxes...
+
+CLIFF
+I’m sorry?
+
+DONNA
+There are these boxes that I... Doesn’t matter. You were leaving.
+
+CLIFF
+No, I just came out to stretch my legs.
+
+DONNA
+You shouted for a cab.
+
+CLIFF
+I like to test them.
+
+DONNA
+[laughs] I usually look a lot better than this. I mean, I can look good.
+
+CLIFF
+I don’t have any trouble believing that. But listen, it sounds like maybe you’re having 
+some problems with boxes, and I know how that can be, so if you’d rather do this...
+
+DONNA
+Will you buy me a drink?
+
+CLIFF
+Sure! 
+
+They head back into the restaurant.
+
+CUT TO: INT. THE BRIEFING ROOM - NIGHT
+
+BOBBI 
+C.J., can you clear up whether the Special Prosecutor can compel the President’s staff to 
+disclose conversations he’s had regarding his MS?
+
+C.J.
+Well, Executive Privilege protects all communications that are necessary to enable a 
+President to do his job, but as I said the President’s waiving Executive Privilege. Mark?
+
+MARK
+Can you tell us if...
+
+BOBBI
+Excuse me, Mark. I need to follow up on that. How can Bartlet be claiming to waive 
+Executive Privileges yet still reserve the right to withhold certain documents? Isn’t he 
+just trying to protect himself?
+
+C.J.
+Actually, he's trying to protect the office of the presidency. Information pertaining to 
+national security, for instance.
+
+BOBBI
+Stop being coy, C.J..
+
+C.J.
+I was born this way.
+
+BOBBI
+You don't think Clement Rollins will be angry, and with every reason to be, if the White 
+House leaves out certain documents?
+
+C.J.
+I think if you want to know what Clement Rollins thinks, you should read some of his 
+writings on the subject. He was a University of Chicago Law School professor and I'm not 
+sure, you can check me on this but I think he was editor of the Yale Law Review. 
+
+The reporters write her words down. C.J. looks satisfied.
+
+C.J.
+That's a full lid, everybody, have a good night. 
+
+She heads off the podium and closes the door to the HALLWAY, and a piece of paper she 
+throws across the hall lands directly in the waste basket.
+
+CAROL 
+C.J.? Governor of Wyoming has been on TV. [comes up]
+
+C.J.
+Is he mad at us?
+
+CAROL
+He's pretty irate.
+
+C.J.
+Good irate, or...
+
+CAROL
+He's irate.
+
+C.J.
+All right. Circulate a memo to anyone who's going to see a microphone. 
+
+They walk down the hall, Carol is taking notes.
+
+C.J.
+The National Fire Plan is based on Recommendations from five Federal agencies. It clearly 
+states that 80 years of fire suppression hasn't worked; for centuries, wildfires have 
+been a natural part of the evolution of the forest ecosystems.
+
+CAROL
+When something catches on fire, it's no longer out policy to put it out?
+
+C.J.
+That's the kind of thing they shouldn't say. Put that in the memo with a circle and a 
+line through it.
+
+C.J. walks into her OFFICE, where Oliver is standing. 
+
+OLIVER
+C.J....
+
+C.J.
+Oliver.
+
+OLIVER
+Thank god for Lexis-Nexis, huh?
+
+C.J.
+I'll say.
+
+OLIVER
+How long did it take to find the paper I wrote with Rollins?
+
+C.J.
+About an hour. They'll make their deadlines.
+
+OLIVER
+You know...
+
+C.J.
+Yeah?
+
+OLIVER 
+[beat] I was going to say, you took a beating the last few months...
+
+C.J.
+Yeah.
+
+OLIVER
+And I was wondering if you were trying to get back in the game with one swing.
+
+C.J.
+Is that what you were wondering?
+
+OLIVER
+Yeah.
+
+C.J.
+Anything else?
+
+OLIVER
+No. [smiles and leaves] 
+
+CUT TO: INT. LEO'S OFFICE - NIGHT
+Josh and Toby walk in wearing coats.
+
+LEO [VO]
+What do you know?
+
+JOSH
+We spent the last few hours with the Minority whip and some deputies. [sits down]
+
+LEO
+They have the votes for a repeal?
+
+JOSH
+They have 218 without breaking a sweat.
+
+TOBY 
+[sits] It's 290 to override.
+
+LEO
+Where are they getting them?
+
+JOSH
+The Republicans are calling an 'all-hands,' we're assuming they'll get the full 226 plus 
+Fayette, Genesee and Trent. California...
+
+TOBY
+A state I begged you to let secede from the Union.
+
+JOSH
+The... entire California delegation wants a compromise. If they don't get one, they vote 
+to repeal.
+
+TOBY
+We lose about another 13 votes from rural districts. Maybe 3 of them will switch back to 
+us if it was close but they'd get killed next November and I wouldn’t ask them to do it.
+
+LEO
+That's 283. Where are the other 7 votes against us?
+
+JOSH
+That's the thing.
+
+TOBY
+It's from inside the Black Caucus. That's where the 7 votes are.
+
+LEO
+I want you two to see Mark Richardson first thing in the morning.
+
+JOSH
+We already set it up.
+
+LEO
+When you're done, we'll make a recommendation to the President, he'll make his decision 
+to fight or live to fight and that'll be that. [Everyone stands.]
+
+JOSH
+These are members of the Congressional Black Caucus... can you think of any reason why 
+they'd oppose the estate tax?
+
+LEO
+Sure.
+
+JOSH
+What?
+
+LEO
+First generation of black millionnaires is about to die.
+
+MARGARET 
+[comes in] Leo?
+
+LEO
+Is he back?
+
+MARGARET
+Yeah.
+
+LEO
+Thanks. 
+
+Josh and Toby leave.
+
+CUT TO: INT. OUTER OVAL OFFICE - NIGHT
+Bartlet comes in. 
+
+BARTLET
+Charlie.
+
+CHARLIE
+Yes, sir.
+
+BARTLET
+I'm expecting a call from Bill Horton and I left the National Fire Plan in the dining 
+room.
+
+CHARLIE
+I'll run over and get it.
+
+BARTLET
+Thanks. 
+
+Charlie leaves, Bartlet reads from inside the folder. As soon as the door closes, Bartlet 
+turns to Mrs. Landingham's empty desk, looks at it, slides his hand over it. Leo comes by. 
+
+LEO
+Good evening.
+
+BARTLET
+The governor of Wyoming was an inch an a half away from calling me a pyromaniac tonight.
+
+LEO
+That's surprising 'cause we really had respect from him before.
+
+BARTLET
+I'm saying somewhere out there is a registered voter who's thinking, 'You know, I thought 
+I really liked this Bartlet fellow, but now that I see he's in favor of fire...'
+
+LEO
+He thinks it's gonna adversely affect tourism.
+
+BARTLET
+It's the end of the season and the fire isn't anywhere near tourists. Letting this fire 
+burn is good for the environment. You know how I know?
+
+LEO
+How?
+
+BARTLET
+Because smart people told me. Please god, Leo, let them be right.
+
+LEO
+When are you talking to Horton?
+
+BARTLET
+Any minute.
+
+LEO
+You want me to handle the call?
+
+BARTLET
+Yeah.
+
+LEO
+I'll be in my office.
+
+Leo leaves. Bartlet looks at the empty desk again, and sits behind it. He opens the 
+drawer and finds a box with pens in it. He takes one of the pens, holds it a while, then 
+puts it in his pocket, closes the box and returns it to the drawer.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: EXT. DOWNTOWN STREET AND PARK - NIGHT
+Cliff and Donna are slowly walking through the park, talking. 
+
+DONNA
+Why are you a Republican?
+
+CLIFF
+I’m sorry?
+
+DONNA
+Why are you a Republican?
+
+CLIFF
+Because I hate poor people. I hate them, Donna. They're all so...poor. And many of them 
+talk funny, and don't have proper table manners. My father slaved away at the Fortune 
+500 company he inherited so I could go to Choate, Brown, and Harvard, and see that this 
+country isn't overrun by poor people and lesbians. 
+
+Donna smiles.
+
+CLIFF
+No, I-I'm a Republican because I believe in smaller government. This country was founded 
+on the principle of freedom, and freedom stands opposed to constraints, and the bigger 
+the government, the more the constraints.
+
+DONNA
+Wow.
+
+CLIFF 
+[a little surprised] You agree with that?
+
+DONNA
+No, it's crap, but you're really cute.
+
+CLIFF
+Yeah, I know. [chuckles softly] 
+
+DONNA
+I had a hunch you did. 
+
+CLIFF
+Oh.
+
+DONNA
+Listen, you know who my boss is, right?
+
+CLIFF
+I do.
+
+DONNA
+And that he's one of the point men in this fight with Ways and Mean over the estate tax?
+
+CLIFF
+The death tax.
+
+DONNA
+He doesn't like to call it that.
+
+CLIFF
+We've been ordered to. There was a memo.
+
+DONNA
+[smiles] Right... Anyway and not to editorialize but since we're fighting for the 
+betterment of ordinary people while you're voraciously protecting the grotesque wealth 
+of the few, I wasn't sure if this was awkward for you.
+
+CLIFF
+Listen, Robin Hood...
+
+DONNA
+You don't think it's a good tax?
+
+CLIFF
+It was, in 1916, when this country's wealth was concentrated and we wanted to prevent 
+the emergence of an aristocratic class, however...
+
+DONNA
+Says Choate, Brown, and Harvard.
+
+CLIFF
+The wealth is now spread among farmers, small business owners, farmers, merchants, and 
+did I mention farmers?
+
+DONNA
+So a second date wouldn't be awkward for you?
+
+CLIFF
+[chuckles] Uh... This is my last week working for Ways and Means. 
+
+DONNA
+Really?
+
+CLIFF
+I’ve been traded.
+
+DONNA
+To where?
+
+CLIFF
+House Government Oversight.
+
+DONNA
+What'd they trade you for?
+
+CLIFF
+Some toner, I think.
+
+DONNA 
+[smiling] No, I mean why?
+
+CLIFF
+I don't know. We got a call from the Majority Leader's office. They wanted another 
+litigator at Government Oversight and they didn't... they didn't say why...
+
+He looks concerned, as he suddenly realizes why he was traded. 
+
+DONNA
+Maybe it was just an oversight. 
+
+Cliff doesn't react. He just stares at the ground.
+
+DONNA
+Oh, come on! "Maybe it was just an oversight"? I don't even get a courtesy laugh?
+
+CLIFF 
+[with regret in his voice, shaking his head] The boxes.
+
+DONNA 
+[still smiling] What about 'em?
+
+CLIFF
+I have to say goodnight now.
+
+He shakes his head a little and walks away. Her face falls and she looks bewildered. 
+The Capitol is lit up in the background.
+
+THURSDAY
+
+CUT TO: INT. THE MURAL ROOM - DAY
+Sam and Connie are sitting next to each other on a sofa. VICTOR CAMPOS is seated across 
+from them. A staffer brings in glasses of water, then leaves. 
+
+VICTOR CAMPOS
+You didn't bring me out from L.A. to talk about the Hispanic Educational Longevity Program.
+
+SAM
+Victor, I was wondering why you passed on the Commission?
+
+CAMPOS
+[chuckles bitterly] You didn’t bring me out here to talk about H.E.L.P and you didn’t 
+bring me out here to talk about the Commission.
+
+SAM
+And you didn't go to Indiana to watch a basketball game.
+
+CAMPOS 
+[leans forward, takes a glass of water] It was a good game. 
+
+SAM
+Don't get cute with me.
+
+CAMPOS
+Watch your mouth.
+
+SAM
+No, I don't think I will, Victor. We fought a war together. What the hell happened to 
+loyalty?
+
+CAMPOS 
+[sets the water glass down on the table] You tell me.
+
+SAM
+You know what? The President promised to ban permanent striker replacement workers, and 
+he did it.
+
+CAMPOS
+Thank you. So the jobs he isn't shipping overseas will be safe and secure.
+
+SAM
+Who else was talking about prenatal care for illegal immigrants in Davenport, Iowa?
+
+CAMPOS
+That isn't where it needs to be talked about.
+
+SAM
+He put an empowerment zone in Pacoima and no one has worked harder to raise the minimum 
+wage.
+
+CAMPOS
+¡Mi gente ganan más que el mínimo sueldo! 
+[My people earn more than the minimum wage!] 
+
+SAM
+¡Te subió al podio en la maldita convención, Victor! 
+[You were up on the podium at the damn convention, Victor!] 
+
+CAMPOS
+¡Porque necesitaban una cara morena! 
+[Because they needed a brown face!] 
+
+SAM
+¡Estas equivocado!
+[You're wrong!] 
+
+CAMPOS
+No lo estoy.
+[No, I'm not.] 
+
+SAM
+The lowest Latino unemployment in history, more small business loans for Hispanic 
+entrepreneurs, and the biggest drop in Latino poverty in two decades!
+
+CAMPOS
+That's what I got in the last election. What do I get in this one?
+
+Sam stares at Campos for a few moments. 
+
+SAM 
+[leans back, quieter] What happened to loyalty?
+
+CAMPOS
+You can't deposit it in a savings account. [beat] What do I get?
+
+SAM
+What do you want?
+
+CAMPOS
+The high school dropout rate among Hispanics is higher than it is for African-Americans.
+
+SAM
+We’re gonna double the funding for the National High School Initiative. What else?
+
+CAMPOS
+Children who came to the United States after welfare reform -
+
+SAM
+There's gonna be a major push on the Hispanic Children's Health Act.
+
+CAMPOS 
+[warily] What’s a "major push"?
+
+SAM
+He’s gonna mention it in the State of the Union. What else?
+
+CAMPOS
+Complete amnesty...
+
+SAM 
+[shaking his head] No way.
+
+CAMPOS
+Complete amnesty...
+
+SAM
+Victor...
+
+CAMPOS 
+[pointing his finger, raising his voice] Complete amnesty for all undocumented immigrants 
+from the Americas. Mexico, Chile, El Salvador...
+
+SAM
+Look...
+
+CAMPOS
+The Legal Amnesty Fairness Act is in the Senate right now!
+
+SAM
+We can't back a bill that treats Hispanic immigrants any differently than...
+
+CAMPOS
+Sam...
+
+SAM
+There's no way we can do it.
+
+CONNIE
+Sure we can.
+
+SAM 
+[without looking at her] I'm sorry?
+
+CONNIE
+We can do it.
+
+SAM
+We really can't.
+
+CONNIE
+We really can.
+
+SAM 
+[to Campos] Would you excuse us just a second?
+
+Connie and Sam stand up and walk out into the HALLWAY.
+
+CONNIE 
+[whispering] Hi.
+
+SAM
+When I said, "Stay out of my way," did you think I meant...
+
+CONNIE
+It's a bold stroke that'll cost you some independents, but I...
+
+SAM
+Just so he can expand his union membership?
+
+CONNIE
+It’ll also expand the Democratic Party. Millions of illegal immigrants could come out of 
+hiding. That’s millions of potential voters who are going to vote for you. Three million 
+voters in California that's 13% of the vote. 19% in Arizona. You know as well as I do the 
+Republican Party is gonna try to outflank us on this. You know it's the right thing to 
+take to the President, so why are you giving him a hard time?
+
+SAM
+He’s giving me a hard time.
+
+CONNIE
+He’s doing what he’s supposed to do. Recognize you're weaker than you were three years 
+ago, have a little humility, suck it up, and give him what he wants, which is gonna help 
+you in the long run anyway! 
+
+Sam considers her comment for a brief moment. Then he turns back toward the room, where 
+Campos is pacing. 
+
+SAM
+Victor. 
+
+Campos slowly walks over to where Sam is standing in the doorway.
+
+SAM
+What do we get?
+
+CAMPOS
+Excuse me?
+
+SAM
+If I take this to the President, what do we get?
+
+CAMPOS
+California and its 435 delegates.
+
+SAM
+I shouldn't have blown up at you before.
+
+CAMPOS
+Nobody'll know.
+
+SAM
+Yeah?
+
+Campos nods and walks away with a half a smile. 
+
+CAMPOS
+Loyalty.
+
+CUT TO INT. THE ROOSEVELT ROOM - DAY
+Josh and Congressman Mark Richardson are seated at one end of the table. Toby is pacing 
+behind Josh.
+
+RICHARDSON
+Josh, you think the Black Caucus votes as a block, and that they only care about the 
+cities. 
+
+JOSH
+Surely, Congressman, the African-American community can think of better ways to spend 
+twenty-eight billion dollars than a tax break that’ll benefit fewer than a thousand 
+African-American families. 
+
+RICHARDSON
+You’re doing it again.
+
+JOSH
+Mark...
+
+RICHARDSON
+The African-American community doesn't think one way about anything. We’re talking about 
+a few members of the Caucus.
+
+JOSH
+That was pretty surprising. 
+
+RICHARDSON
+A few members who feel that African-American homeownership is at it’s highest level ever. 
+That more African-Americans are opening small businesses than ever before. And if they 
+can’t pass it on, how will they build up power and clout and self-sufficiency as a 
+community?
+
+JOSH
+You think a few black millionaires justifies a multi-billion-dollar boondoggle?
+
+RICHARDSON
+Well, as long as there's a Congress, there are going to be multi-billion-dollar 
+boondoggles. We'd just like to share in them a little bit, please.
+
+TOBY 
+We're bleeding here, Mark.
+
+RICHARDSON
+What?
+
+TOBY
+We're bleeding here, for God's sake. You can work with us or you can be ignored by a 
+Republican President, but those are your choices.
+
+RICHARDSON
+How bad is it?
+
+TOBY
+Buckland's coming after us. He’s been meeting with Victor Campos. [sits]
+
+RICHARDSON
+And while you guys are defending yourselves against special prosecutors and Jack 
+Buckland, what happens to the people who got you here?
+
+TOBY
+Who are you talking to, Mark? We're not gonna forget about failing schools in central 
+cities. [raises his voice and pounds the table with his fist] We're not gonna forget 
+about after-school care, health care for uninsured kids. We're not gonna forget about 
+drug treatment, or urban redevelopment, or community policing!
+
+RICHARDSON
+Yeah?
+
+TOBY
+You gotta not forget that we're bleeding!
+
+RICHARDSON
+The Black Caucus doesn't vote as one mind. I can't promise anything.
+
+JOSH
+The veto's an awfully big risk to take... if you can't promise anything.
+
+RICHARDSON
+Then the veto's an awfully big risk to take.
+
+Toby and Josh look at each other, silently. Toby stands up.
+
+CUT TO: INT. HALLWAY - DAY
+Leo and Bartlet walk by with HORTON. Bartlet is leading the way. They make their way to 
+the Oval Office as they talk. 
+
+LEO
+Has the fire abated at all?
+
+HORTON
+Not yet.
+
+LEO
+How far has it spread?
+
+HORTON
+6500 acres. 
+
+BARTLET
+So it's starting to close in on the boundary?
+
+HORTON
+Yes, sir, Mr. President...It’s not too late to reverse your decision.
+
+LEO
+Do you think he should?
+
+HORTON
+No.
+
+LEO
+Why?
+
+As they walk into THE OVAL OFFICE, Charlie hands Bartlet some papers in a file folder.
+
+HORTON
+There’s a cold front moving down in from Alberta with a 50% chance of showers. 
+Temperatures in the area have already started to drop and if the rain reaches Yellowstone 
+by tonight, it’ll be enough to quell the fire.
+
+Bartlet is reading the documents as Leo and Horton keep talking. 
+
+LEO
+And if it doesn't, we put it out, and the President looks like an idiot for waiting this 
+long.
+
+BARTLET 
+[removes his glasses, gestures toward Horton] Yeah, but we're gonna make sure he looks 
+like an idiot, too, right?
+
+LEO
+Yeah.
+
+BARTLET 
+[smiling, to Horton] Wyoming is just going to have to have some faith that the Department 
+of the Interior knows what it’s doing.
+
+HORTON
+Yes, sir.
+
+BARTLET
+Thank you, Mr. Secretary.
+
+HORTON
+Thank you, Mr. President.
+
+Bartlet shakes his hand. Horton nods and leaves. Josh is standing at the door to the 
+office, along with Toby and Doug. Bartlet notices them as they walk in. 
+
+BARTLET
+Josh.
+
+JOSH
+Yes, sir?
+
+BARTLET
+A ballerina? 
+
+Bartlet walks around to his desk chair, puts his glasses on again, and sits down. He 
+starts going through some papers. Leo remains standing on the other side of the desk. 
+
+JOSH
+Yeah, I... I didn't... know... what it was at the time. I-I-I liked the word...
+
+BARTLET
+We'll go with that for now.
+
+TOBY
+Mr. President, we’re here to recommend that you threaten to veto any repeal of the 
+estate tax.
+
+BARTLET 
+[takes off his glasses, looks up] Really?
+
+TOBY
+Yes, sir.
+
+LEO
+What happened with Richardson?
+
+JOSH
+No guarantees. He wants to see what we’re gonna do next.
+
+Leo and Bartlet absorb this information. They both look very serious. 
+
+TOBY
+Let's make the threat.
+
+BARTLET 
+[to Doug, pointing] You like this?
+
+DOUG 
+[emphatically] Yes, sir.
+
+BARTLET
+I thought you don't oppose a tax cut in an election year?
+
+DOUG
+Well, let’s be clear. We’re not talking about opposing a tax cut. We’re talking about 
+vetoing one. Your first veto ever. That's... shooting the moon.
+
+Toby rubs his head as Doug speaks. 
+
+BARTLET 
+[nods] I’ll say.
+
+DOUG
+I like the bold gesture. I think you gotta get out the stamp.
+
+JOSH 
+[with a slight smirk at Doug] You sign it. You don't do it with a stamp.
+
+DOUG
+I thought it was a stamp.
+
+BARTLET
+Actually, you stamp it, then sign it.
+
+TOBY
+Who gives a damn, sir? This is a tax cut that benefits only 4500 families.
+
+BARTLET
+It doesn't matter if most voters don't benefit. They all believe that someday they will. 
+That's the problem with the American dream. It makes everyone concerned for the day 
+they're gonna be rich... The governors of Wyoming, Idaho, Montana, and Utah, along with 
+the Senate Majority Leader and Speaker of the House, are calling me a "fringe" 
+environmentalist, 'cause I'm listening to the Secretary of the Interior and the Secretary 
+of Agriculture, along with the U.S. Forest Service, the Chief Ranger, and the Parks 
+Superintendent.
+
+Bartlet is looking through his desk drawers. He finally finds a square wooden box and 
+places it on his desk. 
+
+BARTLET
+They say letting the fire burn is good for the environment. And I'm betting on a weather 
+report, of all things. It's just one of those times.
+
+Bartlet opens the box, takes out an inkpad and a rubber stamp, and sets them out on his 
+desk. Leo, Josh, Toby and Doug watch him, solemnly. Bartlet takes the pen out of his 
+jacket pocket, looks at it for a long moment, places it on top of the inkpad, and closes 
+the box.
+
+CUT TO: INT. COMMUNICATIONS OFFICE - NIGHT
+Staffers, including Carol and Bonnie, are milling about and walking through the Bullpen. 
+C.J. is holding a bottle of beer and looking in various desk drawers for a bottle opener. 
+Oliver walks in. 
+
+C.J.
+You don’t have a bottle opener, do you?
+
+OLIVER
+No.
+
+C.J.
+I know some men carry those... 
+
+OLIVER
+I don’t.
+
+C.J.
+...pocket knives. 
+
+OLIVER
+You screwed around with an independent legal proceeding, and you used one of my deputies 
+to do it.
+
+C.J.
+I worked the press.
+
+They’re standing next to each other, looking up at a television monitor that’s mounted on 
+the wall. 
+
+OLIVER
+You know, there was an irony in that Clem Rollins was the right man for the job.
+
+C.J.
+You think I care less about irony?
+
+OLIVER
+You think just because the White House feels more comfortable when they're in an ugly 
+political fight, that means we're gonna win it?
+
+C.J. 
+[starts to walk away] Anybody have a bottle opener?
+
+Josh walks in, looking distracted. Donna spots him and walks after him. 
+
+DONNA
+Josh?
+
+JOSH 
+[turning slightly, still walking] Yeah?
+
+DONNA
+Which Committee had jurisdiction?
+
+JOSH
+For the hearings? 
+
+DONNA
+Is it Judiciary? 
+
+Leo walks in to the Bullpen and starts talking to C.J., who’s standing in the doorway to 
+Sam’s office. Sam walks past them out into the bullpen. Josh and Donna are standing under 
+the television monitor. 
+
+JOSH
+You’d think so, but Thomas's committee wanted it, so the Majority Leader...
+
+DONNA
+Thomas's committee’s?
+
+JOSH
+House Government Reform and Oversight.
+
+Donna looks deflated and shocked. Sam walks up behind Donna, bumping her slightly, 
+then steps to one side of her so he can see the television. 
+
+SAM
+Volume!
+
+Bonnie turns up the volume with the remote control. The Bullpen has been filling up with 
+staffers who are focusing their attention on a press conference, which is being broadcast 
+via C-SPAN. The speaker is Congressman Randall Thomas [R-Michigan]. He’s standing outside 
+at a podium with several people behind him. 
+
+RANDALL THOMAS [on T.V.]
+This is an election year, and in some states the voting starts in a few months. People 
+deserve answers now, and not at the snail's pace of Jed Bartlet's hand-picked 
+prosecutor... I am announcing that the House Government Reform and Oversight Committee 
+will be gaveled to session to conduct immediate hearings...
+
+C.J. opens her beer. She’s standing shoulder to shoulder with Sam, Josh, Connie, Doug, 
+Carol, Toby, Ginger, Leo, Donna, Bonnie, and many other members of the West Wing staff 
+all of them staring up at the television, looking determined. Oliver leans against a 
+doorframe in the back of the room, his hands in his pockets, watching the press 
+conference.
+
+THOMAS [on T.V.]
+...into the possible use of taxpayer resources... 
+
+C.J. 
+[quietly, staring up at the screen] Come and get us.
+
+THOMAS [on T.V.]
+...to defraud the public.
+
+C.J. takes a sip of beer. They all stare at the television as Thomas continues to speak. 
+
+THOMAS [on T.V.]
+It is time to put an end to this White House's abuse of power. It is time for this White 
+House to answer to the American people.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are properties of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television, and NBC. No copyright infringement is intended.
+
+Episode 3.03 -- “Ways and Means”
+Original Airdate: October 24, 2001, 9:00 EST
+
+Transcribed by: Lindy, Irene and Amanda
+December 17, 2001

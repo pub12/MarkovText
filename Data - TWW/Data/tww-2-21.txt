@@ -1,0 +1,2505 @@
+THE WEST WING
+"18TH AND POTOMAC"
+TELEPLAY BY: AARON SORKIN
+STORY BY: LAWRENCE O'DONNELL JR.
+DIRECTED BY: ROBERT BERLINGER
+
+TEASER
+
+FADE IN: EXT. THE WHITE HOUSE PORTICO - NIGHT
+
+	THE WHITE HOUSE
+	1:20 A.M.
+
+An agent opens the door and speaks into his mic.
+
+AGENT
+Eagle's moving.
+
+Bartlet and Leo come outside and walk.
+
+BARTLET
+He talked to her on the phone?
+
+LEO
+He talked to her at the airport.
+
+BARTLET
+But he called her on the phone?
+
+LEO
+To get her to the airport.
+
+BARTLET
+Yeah, but I'm saying, did she hang up the phone, turn to her friends and say, 'You're 
+never gonna believe why I'm getting on a plane?'
+
+LEO
+He told her she was coming out to do some polling on subsurface agriculture.
+
+BARTLET
+What the hell is that?
+
+They walk into THE OVAL OFFICE. Bartlet puts down some papers.
+
+LEO
+It's vegetables that grow underground. He told her she was coming out here to find out 
+if Americans were eating more beets.
+
+BARTLET 
+[searching his front pockets for a pen] Is this a joke?
+
+LEO
+It was Josh, Mr. President. It was a job done well. You want to start not trusting Josh? 
+[beat] Let's go.
+
+BARTLET
+Where are we going?
+
+LEO
+The basement.
+
+BARTLET
+Why?
+
+LEO
+'Cause I don't like the way it looks the seven of us meeting in the middle of the night.
+
+BARTLET
+You like the way it looks if we're meeting in the basement?
+
+LEO
+Let's go.
+
+They walk out.
+
+CUT TO: INT. THE WHITE HOUSE BASEMENT - NIGHT 
+Sam and Toby walk out of the elevator.
+
+SAM
+These numbers are going to be meaningless.
+
+TOBY
+Yeah.
+
+SAM
+The governor from an industrial state. It's posed as a hypothetical before people have any 
+education on...
+
+TOBY
+[puts on his jacket] Yeah.
+
+SAM
+Plus there is no way to factor existing approval numbers, particularly when it comes 
+to matters of trust.
+
+TOBY 
+[to the agent at the door] Saggitarius.
+
+The agent opens the door, Sam and Toby walk inside and down the stairs. C.J., Josh, 
+Joey Lucas and Kenny are inside.
+
+TOBY
+Are they on their way?
+
+JOSH
+Yeah.
+
+TOBY
+They're on their way?
+
+C.J.
+Yeah.
+
+Toby sighs heavily as everyone sits down.
+
+TOBY
+Joey, your flight was all right? 
+
+She doesn't look at him, and he taps her on the shoulder.
+
+TOBY
+Your flight was okay?
+
+SAM
+[to Joey, as Kenny translates] These numbers aren't going to mean anything, right? 
+With the hypothetical and the lack of context? Plus the preexisting level of trust.
+
+C.J.
+Yeah.
+
+SAM
+I'm saying he's got numbers like Walter Cronkite.
+
+JOEY
+Yeah.
+
+JOSH
+Is there anything in there that we're gonna like?
+
+JOEY [KENNY]
+We are, in fact, eating more beets.
+
+JOSH
+Okay.
+
+Bartlet and Leo come inside. Everyone rises.
+
+BARTLET
+Good evening.
+
+JOSH
+Mr. President, you remember Joey Lucas?
+
+BARTLET
+Yeah.
+
+JOSH
+And her interpreter Kenny?
+
+LEO
+Joey, did you make photocopies of that?
+
+JOEY
+No, sir.
+
+LEO
+Good. Let's get started.
+
+Everyone sits.
+
+JOEY [KENNY]
+Mr. President, I polled 1,170 registered voters in Michigan, giving their governor a 
+hypothetical concealed...
+
+BARTLET
+Excuse me. How many people in this room know Kenny's last name? 
+
+Everyone looks puzzled.
+
+LEO
+It's fine.
+
+BARTLET
+I believe this operation is no longer covert.
+
+JOEY [KENNY]
+Mr. President, Kenny's been with me for 11 years. To trust me is to trust him.
+
+BARTLET
+Josh?
+
+JOSH
+Yeah.
+
+BARTLET 
+[to Joey] Go ahead.
+
+JOEY [KENNY]
+1,170 registered voters in Michigan were polled, giving their governor a hypothetical 
+concealed degenerative illness. These are the results. [reads] "Do you agree that it's 
+okay for the governor to lie about his health?" 17% agree, 83% disagree. "Would you be 
+as likely or less likely to vote for the governor now that you know he has a degenerative 
+illness?" 71% say less likely. The largest block of likely voters are women over 55. 
+78% of those women say they wouldn't vote for a candidate with MS.
+
+C.J.
+We just lost Florida.
+
+JOEY [KENNY]
+This may be the worst stat, sir. 74% believe MS to be fatal.
+
+BARTLET
+They may be right.
+
+JOEY [KENNY]
+62% of Democrats aren't gonna vote for you. 65% of those describing themselves as liberal 
+aren't gonna vote for you because you lied. 
+
+BARTLET
+Joey, is there any good news in there at all?
+
+JOEY
+No, sir.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. THE OVAL OFFICE - DAY
+Bartlet is standing near his desk, Leo is sitting on one of the couches next to Robbie 
+Mosley, Jake, and across from a civilian advisor. More people are standing near the walls.
+
+LEO
+Who's in Port-au-Prince right now?
+
+ROBBIE
+The U.N. Observer group.
+
+LEO
+Which consists of...
+
+ROBBIE
+400 technical advisors and observers and 65 unarmed security specialists.
+
+LEO
+And the OAS?
+
+ROBBIE
+They've got about 200 observers.
+
+BARTLET
+[sits in the nearby chair] What happened last night?
+
+CIVILIAN ADVISOR
+Citing improper permits, Colonel Bazan's soldiers surrounded Carrefour Liberte.
+
+ROBBIE
+Liberty Square.
+
+BARTLET
+Yeah.
+
+CIVILIAN ADVISOR
+...to prevent a victory rally by supporters of Dessaline. Some of the crowd refused to 
+disperse when shots were fired.
+
+LEO
+Anybody killed?
+
+ROBBIE
+Two people.
+
+CIVILIAN ADVISOR
+Additionally, Rene Ducasse, the newly designated Minister of Justice, was arrested, and 
+soldiers have surrounded the house of the Chief Justice. They're saying to protect him 
+from death threats. Our intelligence says he's under house arrest.
+
+ROBBIE
+Most troubling in personnel carriers with Haitian troops parked in front of virtually 
+every police station in Port-au-Prince. This is a sign that the army plans to take power 
+from the Gendarme Nationale.
+
+BARTLET
+Where is the president-elect?
+
+JAKE
+Sir, we can't find him.
+
+BARTLET
+Sorry?
+
+ROBBIE
+At this moment, we can't find Dessaline.
+
+BARTLET
+And that's not the most troubling...
+
+LEO
+Jake, what the hell do you mean you can't find...
+
+JAKE
+He never showed up for the 4:00 p.m. courtesy conference with Gilbert Tass and calls 
+made to the party headquarters and both of his houses went unanswered.
+
+CIVILIAN ADVISOR
+Armed forces radio says he's fled the country, but the Dominicans say no.
+
+LEO
+What about intelligence?
+
+ROBBIE
+It's not like we can just call around. It's chaos down there, nobody knows anything.
+
+BARTLET
+Leo.
+
+LEO
+Let's evacuate the non-essential personnel from the embassy.
+
+Bartlet nods and glances around.
+
+JAKE
+Mr. President, any move to evacuate the embassy, even the non-essentials, will be a 
+highly visible signal that the U.S. has no confidence in the Dessaline government.
+
+BARTLET
+At the moment, there is no Dessaline government; there is no Dessaline! And I just got 
+done pulling nine dead bodies out of Colombia. Evacuate the non-essentials. Get some 
+Marines at the Embassy. And somebody brief Fitzwallace!
+
+He stands, everyone else rises.
+
+ROBBIE
+Yes, sir.
+
+MEN
+Thank you, Mr. President.
+
+Everyone begins to leave.
+
+CUT TO: INT. BASEMENT - DAY 
+Josh walks up to the agent guarding the room.
+
+JOSH
+Saggitarius.
+
+The agent opens the door. Josh walks inside and sits at the table, where Toby and C.J. 
+are sitting. Sam is pacing around them..
+
+SAM
+Why not a Presidential address? Ten - 15 minutes. 'I have this illness, I concealed it, 
+I apologize. Let me tell you about it. Let me reduce your fear.'
+
+C.J.
+It's too cold.
+
+SAM
+It's not too cold!
+
+C.J.
+He needs to be with the First Lady.
+
+SAM
+In some decorative room? Sitting with his wife weakens him. Let's put him behind the 
+Kennedy desk. Let's put him in the East Room. Let's put him in the Briefing Room.
+
+C.J.
+Sam, he's gonna go on T.V. and say he lied, I don't want him doing it behind the Seal 
+of the President.
+
+SAM
+You think without the Seal, people are gonna forget he's the President?
+
+C.J.
+We'll do a 30-minute live special from one of the news magazines.
+
+JOSH
+Live, live to tape or tape?
+
+C.J.
+Live, I don't want a producer editing what he says.
+
+JOSH
+What if we want to edit what he says?
+
+C.J.
+That's our tough luck.
+
+JOSH
+When?
+
+SAM
+How about Thursday night?
+
+C.J.
+Wednesday night.
+
+SAM
+Why?
+
+C.J.
+[irritated] 'Cause Thursday night is when they pay their bills, and it's going to be 
+tough enough getting 30 minutes and not telling them why we're not cutting into their 
+bread and butter during May sweeps.
+
+SAM
+Oh, who gives a damn about May sweeps?
+
+C.J.
+They do, Sam! 
+
+Sam glares at C.J. with unease, but says nothing.
+
+TOBY
+All right. 30 minutes, Dateline special Wednesday night, night after tomorrow, the 
+President and the First Lady in the Mural Room.
+
+C.J.
+And we follow that with a press conference.
+
+JOSH
+Why?
+
+C.J.
+To control the story as long as possible. Once he gets started with Russert or Diane 
+or Stone Phillips or whoever the hell does this, I'm gonna need every reporter in the 
+Western Hemisphere in the room where I can see him.
+
+TOBY
+We put a team of medical experts up there.
+
+C.J.
+We have 48 hours to find them.
+
+SAM
+Hang on. If we take him from the Mural Room to the press conference, isn't a smart 
+reporter going to ask, 'Mr. President, are you planning on seeking reelection?'
+
+C.J.
+[very irritated] A smart reporter... Sam, Ted Baxter is gonna ask, 'Mr President, are 
+you planning on seeking reelection?"
+
+SAM
+So, we're gonna need an answer to that too.
+
+CUT TO: INT. THE WHITE HOUSE LOBBY - DAY
+Charlie and Mrs. Landingham are walking through the doors.
+
+CHARLIE
+Are you getting an eight-speaker stereo?
+
+MRS. LANDINGHAM
+No.
+
+CHARLIE
+Six speakers?
+
+MRS. LANDINGHAM
+No.
+
+CHARLIE
+How many speakers?
+
+MRS. LANDINGHAM
+I have two ears, how many speakers do I need?
+
+CHARLIE
+At least six and a subwoofer.
+
+MRS. LANDINGHAM
+I'm not getting a subwoofer.
+
+CHARLIE
+How about the tow package?
+
+MRS. LANDINGHAM
+The tow package?
+
+CHARLIE
+To tow your boat.
+
+MRS. LANDINGHAM
+I don't have a boat.
+
+CHARLIE
+What about a camper?
+
+MRS. LANDINGHAM
+No.
+
+CHARLIE
+What do you tow?
+
+MRS. LANDINGHAM
+Groceries.
+
+CHARLIE
+You can probably put those in the trunk.
+
+MRS. LANDINGHAM
+Yeah.
+
+They reach the OUTER OVAL OFFICE as Josh walks by.
+
+CHARLIE
+Tainted windows?
+
+JOSH
+Hey.
+
+MRS. LANDINGHAM
+Hello, Josh.
+
+CHARLIE
+Mrs. Landingham's picking up her new car today.
+
+JOSH
+Really?
+
+MRS. LANDINGHAM
+Yes, and I wish I haven't told anyone. Why do men think women can't buy a car without 
+a man?
+
+JOSH
+It's an old stereotype, Mrs. L. Did you get the extended service warranty?
+
+MRS. LANDINGHAM
+No.
+
+JOSH
+Women.
+
+MRS. LANDINGHAM
+What do you want?
+
+JOSH
+I got a message Leo wanted to see me.
+
+MRS. LANDINGHAM
+He's in his office.
+
+JOSH
+Did you get the tow package?
+
+CHARLIE 
+[to Mrs. Landingham] See?
+
+MRS. LANDINGHAM 
+[to Josh] He's in his office.
+
+CUT TO: INT. LEO'S OFFICE - DAY
+
+LEO
+Margaret!
+
+Margaret comes in.
+
+LEO
+Where's Josh?
+
+MARGARET
+He's on his way.
+
+Josh shows up at the door.
+
+LEO
+He remembers where my office is, right?
+
+JOSH
+Leo, calm down. I'm right here.
+
+MARGARET
+He's right here.
+
+LEO
+Get out. 
+
+Margaret leaves. 
+
+LEO
+[to Josh] This report is staggering.
+
+JOSH
+I know.
+
+LEO
+Justice has 31 lawyers and staff. Tobacco has 1,893 lawyers and 2,783 paralegals. 
+This is no typo, right?
+
+JOSH
+No.
+
+LEO
+We spent 8.7 million on our side counsel, they spent 192. The 61.3 million they spent 
+on travel expenses is twice as much as we spent on our entire case.
+
+JOSH
+Yes.
+
+LEO
+Who oversees the Justice department Budget?
+
+JOSH
+The Subcommittee on Commerce, Justice, State, and the Judiciary.
+
+LEO
+Who's the ranking minority member?
+
+JOSH
+Ritter.
+
+LEO
+Talk to him. Find out what the problem is.
+
+JOSH
+Yeah. [turns to leave]
+
+LEO 
+[gets up] Josh? How's it going downstairs?
+
+JOSH 
+[comes back and hunches over the desk] We'll have an answer on it by the end of the day. 
+It's looking like 30 minutes on Dateline and a press conference, but Leo, it's also 
+looking like any scenario is going to require a firm position from the President on 
+reelection.
+
+LEO
+Well, we'll have that answer by the end of the day, too.
+
+JOSH
+Will we?
+
+LEO
+Yes.
+
+JOSH
+Leo...
+
+LEO
+He just had Joey's numbers in the middle of the night. Give him the day!
+
+JOSH
+Don't you think it would help if we had a discussion among the...
+
+Knock on the door. Both Leo and Josh turn, startled. Margaret comes in with a note.
+
+JOSH
+A discussion among the rest of us...
+
+Leo reads and crumples the note.
+
+LEO
+Excuse me. [walks out]
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. THE OVAL OFFICE - DAY
+Leo is standing in the Oval Office, looking out the window at Bartlet, who enters from 
+outside with Charlie.
+
+BARTLET
+What?
+
+LEO
+Two of Dessalines' bodyguards were shot. We think he's headed to our embassy.
+
+BARTLET
+How do we know?
+
+LEO
+Peter Bratt got a message through.
+
+BARTLET
+What is Peter Bratt doing down there?
+
+LEO
+He went down for the inauguration, and he may well have Dessaline in the trunk of 
+his car.
+
+BARTLET
+In the trunk of his car?
+
+LEO
+Yes, sir.
+
+BARTLET
+Did we evacuate the non-essentials?
+
+LEO
+They're on their way. A C-9's waiting for them on the runway. Mr. President, if we 
+don't take Dessaline, he'll be convicted in a 20-minute trial, imprisoned for life, 
+or probably executed by the Junta.
+
+ROBBIE
+I'm sorry sir, but this is an internal affair in Haiti, and the U.S. has no place 
+choosing sides.
+
+LEO
+Of course we're choosing sides! There was a free election! We saw to it there was a 
+free election, and Dessaline won!
+
+ROBBIE
+If we grant asylum we'd officially be in a standoff with Bazan.
+
+JAKE
+And the best way for Bazan to elevate his stature in Haiti is to stage a standoff 
+with the U.S.
+
+ROBBIE
+Plus Bazan can surround the embassy, saying he's searching for a wanted criminal, 
+and obviously he can take everyone in the embassy hostage.
+
+In the background, Charlie walks to a man and whispers in his ear, motioning to a phone.
+
+LEO
+Mr. President, there will never be real elections in Haiti if the military thinks it 
+can simply kill the winner. Also I'd like to point out, sir, that we encouraged 
+Dessaline to run--in fact we strongly encouraged it--and now he's in the trunk of a car.
+
+CIVILIAN ADVISOR
+[holding up the phone] The car's at the gate. I got the gate right here.
+
+BARTLET
+Let him in.
+
+ROBBIE
+Sir...
+
+BARTLET
+Let him in!
+
+CIVILIAN ADVISOR
+[into phone] Tell them to let him in.
+
+A long pause as everyone waits.
+
+CIVILIAN ADVISOR
+He's in.
+
+CUT TO: INT. BASEMENT - DAY
+C.J., Toby, and Sam all sit around the table.
+
+TOBY
+Do we put Hoynes up there?
+
+SAM
+At the press conference?
+
+TOBY
+Do we put Hoynes up there?
+
+SAM
+There's never been a more important time to emphasize the Vice Presidency.
+
+C.J.
+The Vice President's presence underlines the health risks to the President.
+
+SAM
+And it's good to underscore that the President anticipated this problem with the 
+selection of the Vice President.
+
+C.J.
+But it'll also serve to underscore that he anticipated the problem and didn't tell 
+anybody about it.
+
+SAM
+Hoynes was one of the first people to know. If he's there it's a breathing demonstration 
+that he signed off on the president's health and joined the ticket.
+
+C.J.
+And he'll get bombarded with questions about what he did or didn't know, and the press 
+corps will impanel themselves as a grand jury.
+
+SAM
+Then let them, C.J.! We did something wrong or we didn't.
+
+C.J.
+Well fantastic, Sam, I didn't realize it was that simple!
+
+Knocking. A man enters and hands C.J. a note. Toby hands her her glasses and she reads 
+the paper.
+
+C.J.
+There's a situation developing in Port-Au-Prince, I have to get ready to brief. [exits]
+
+TOBY
+Sam, can Josiah Bartlet function as President?
+
+SAM
+I'm not a medical expert.
+
+TOBY
+Right.
+
+Toby stands and moves around.
+
+SAM
+Toby, there is a responsibility and the future and an obligation to the party, and if 
+he is not gonna run, then he's gotta point to Hoynes and say, 'This is our guy.'
+
+TOBY
+And what if they ask Hoynes, 'In the meantime, can Bartlet function as President?'
+
+SAM
+He'll say yes.
+
+TOBY
+What if he says, 'I'm not a medical expert'?
+
+CUT TO: EXT. WASHINGTON, D.C. BUILDING - DAY
+Josh comes out with SENATOR ANDY RITTER.
+
+ANDY RITTER
+The President of Haiti was taken to the embassy in the trunk of a car?
+
+JOSH
+Yes.
+
+RITTER
+I've lived too long.
+
+JOSH
+Well don't go anywhere, cause I need you.
+
+RITTER
+I mean it, Lyman, this is gonna get worse before it's gonna get better.
+
+JOSH
+You may be right, but Haiti's actually not what I wanted to talk to you about.
+
+RITTER
+Tobacco?
+
+JOSH
+Yeah, Andy. The president wants to get behind a 30 million dollar appropriations bill 
+the Justice Department's had in your committee for a few months now. They need the 
+money to continue the case.
+
+RITTER
+I know.
+
+JOSH
+Has the chairman scheduled a vote?
+
+RITTER
+He's not gonna.
+
+JOSH
+He's not gonna schedule a vote?
+
+RITTER
+Kalmbach's gonna dance with the girl that brung him.
+
+JOSH
+How much tobacco money has he taken?
+
+RITTER
+From the last campaign?
+
+JOSH
+Yeah.
+
+RITTER
+$460,000 in PACs.
+
+JOSH
+Is there a nose count?
+
+RITTER
+Yeah, it's eight to seven against.
+
+JOSH
+Along party lines?
+
+RITTER
+No, believe it or not. We've got two Republicans, they've got two Democrats.
+
+JOSH
+They've got two Democrats?
+
+RITTER
+Warren and Rossitter.
+
+JOSH
+Warren and Rossitter aren't even from the South.
+
+RITTER
+They have ideological problems with the case.
+
+JOSH
+This is a phenomenally important case. It's historic. It has to be won. And we're 
+fighting with paper clips and a slingshot.
+
+RITTER
+We were wondering when you guys were going to notice.
+
+Ritter pats Josh on the shoulder and walks off, as Josh looks after him.
+
+CUT TO: INT. TOBY'S OFFICE - DAY
+Donna sits, waiting for Toby. He walks in, shutting the door. Donna stands.
+
+TOBY
+Hi.
+
+DONNA
+Hi. 
+
+TOBY
+Have a seat.
+
+DONNA
+I was told you wanted to see me.
+
+TOBY
+Yeah, Donna. Uh, I'm going to tell you something shocking except we don't have time 
+to be shocked. So I need you to just hear it and go back to work.
+
+DONNA
+Yeah.
+
+TOBY
+Eight years ago, the President was diagnosed with M.S. He concealed it during the 
+election, but we're going public Wednesday night with a live network interview and 
+a press conference. This is what Josh is gonna be working on 24 hours and he's gonna 
+need your help and he's gonna need you to know, and so I'm telling you...
+
+DONNA
+Yeah.
+
+TOBY
+You're the first person on the assistant level to find out. Margaret doesn't know, 
+Bonnie and Ginger don't know. Donna, Mrs. Landingham doesn't know.
+
+DONNA
+Is the President in a lot of pain or discomfort right now?
+
+TOBY
+No. He's in remission.
+
+DONNA
+Okay. [standing] Is there anything else?
+
+TOBY
+I want to press upon you how important it is that this not be discussed beyond...
+
+DONNA
+Yeah.
+
+Donna exits the room, shutting the door behind her.
+
+CUT TO: INT. OUTER OVAL OFFICE - DAY
+Charlie is seated behind a computer at his desk.
+
+CHARLIE
+You want to know where you made your mistake?
+
+MRS. LANDINGHAM
+I didn't make a mistake.
+
+CHARLIE
+You probably did, and here's where you went wrong.
+
+MRS. LANDINGHAM
+Where?
+
+CHARLIE
+You went to the dealership alone.
+
+MRS. LANDINGHAM
+Yes. 
+
+CHARLIE
+That was a mistake.
+
+MRS. LANDINGHAM
+'Cause a dealer would load me up with a lot of extras I don't need?
+
+CHARLIE
+That's right.
+
+MRS. LANDINGHAM
+Like a tow package?
+
+They walk and talk into THE OVAL OFFICE.
+
+CHARLIE
+How are you gonna tow your camper without a tow package?
+
+MRS. LANDINGHAM
+I have never been camping.
+
+CHARLIE
+Neither have I, and I was hoping you'd take me. I'd be sitting there fishing and 
+listening to the Orioles on a transistor radio.
+
+MRS. LANDINGHAM
+What would I be doing?
+
+CHARLIE
+Warding off bears, that kind of thing. How much did you pay?
+
+MRS. LANDINGHAM
+We don't talk about money, dear.
+
+CHARLIE
+Can you tell me how much you paid below sticker?
+
+MRS. LANDINGHAM
+I didn't pay anything below sticker.
+
+CHARLIE
+What do you mean?
+
+MRS. LANDINGHAM
+In my defense, I didn't pay anything above sticker, either.
+
+CHARLIE
+Mrs. Landingham, seriously.
+
+MRS. LANDINGHAM
+Charlie...
+
+CHARLIE
+No, seriously, you paid sticker price?
+
+MRS. LANDINGHAM
+Yes.
+
+CHARLIE
+Why?
+
+MRS. LANDINGHAM
+That was the price.
+
+CHARLIE
+Mrs. Landingham...
+
+MRS. LANDINGHAM
+It says so, right on the sticker.
+
+CHARLIE
+Who pays sticker price?
+
+MRS. LANDINGHAM
+I do!
+
+CHARLIE
+You gotta let me go back there with you.
+
+MRS. LANDINGHAM
+I wasn't duped, Charlie.
+
+CHARLIE
+You paid sticker price!
+
+MRS. LANDINGHAM
+I'm a government employee.
+
+CHARLIE
+That doesn't necessarily mean you're a fool.
+
+MRS. LANDINGHAM
+No, but it means I'm not allowed to accept gifts of a certain value.
+
+CHARLIE
+It's not a gift.
+
+MRS. LANDINGHAM
+Of course it is. The price tag says one thing, and the dealer is giving it to me for 
+something less.
+
+CHARLIE
+That's what happens when you buy a car.
+
+MRS. LANDINGHAM
+Not me.
+
+C.J.
+[entering] I was looking for Leo.
+
+CHARLIE
+He's in the Situation Room.
+
+C.J.
+That's usually a good sign.
+
+CUT TO: INT. THE SITUATION ROOM - DAY
+In a very busy Situation Room, the officers are seated around the table.
+
+LEO
+How many are they saying?
+
+MAN
+They can't say.
+
+LEO
+Well how many are they estimating?
+
+MAN
+It changes every minute.
+
+NANCY
+[entering from the side] Well, how many this minute?
+
+MAN
+Nancy, the cavalry.
+
+NANCY
+You guys need some adult supervision?
+
+LEO
+No, we need the cavalry.
+
+NANCY
+Nah. Jeff, what's the latest estimate?
+
+JEFF
+It's about 500 soldiers, maybe 300 of them with AR-15s.
+
+LEO
+We sold those to them, right?
+
+NANCY
+Well, until a few hours ago they were on our side.
+
+LEO
+Still...
+
+NANCY
+Yeah. The AR-15s aren't the only things they've got. They've got two Bradleys with 
+120-millimeter cannons and a couple of artillery tubes.
+
+LEO
+What do we have?
+
+NANCY
+Thirty-seven Marines with M-14s and Beretta side-arms.
+
+LEO
+What happens when the first shot is fired?
+
+NANCY
+Sally, get me hooked up to Operations.
+
+SALLY 
+Yes, ma'am.
+
+NANCY
+[to Leo] Embassy Marines aren't lawn jockeys. They're not decorative. They're trained, 
+in restraint, and they're trained well.
+
+SALLY [VO]
+Operations, ma'am.
+
+NANCY
+Thank you.
+
+LEO
+Nancy, if they take the embassy, how are we gonna know? Are they going to send some 
+kind of note?
+
+NANCY
+[to staffer] Sidney, I need com-con status. This is a few minutes old. 
+
+SIDNEY
+Yes, ma'am.
+
+NANCY
+[to Leo] There's no note, Leo. They're taking the embassy. [into phone] Fitz, this is 
+Nancy. I think we should mobilize the 8-80th Hostage Task Force out of Parris Island.
+
+The camera zooms into Leo's face, as we...
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: INT. THE BRIEFING ROOM - DAY
+C.J. is on the podium.
+
+C.J.
+The U.S.S. Enterprise as well as the amphibious carriers out of Mayport, Florida, are 
+being dispatched to the region and are expected to be there in 36 hours and aircraft 
+will be in the combat radius of 300 to 400 miles within 12 hours and you'll get more 
+details on that when the Pentagon briefs at three.
+
+REPORTERS
+C.J.! C.J.!
+
+C.J.
+Katie.
+
+KATIE
+Should we be reading anything into the fact that the Pentagon's briefing and not State?
+
+C.J.
+State will brief later in the day. 
+
+REPORTERS
+C.J.! C.J.!
+
+MARK
+Is one option recognizing the Bazan government?
+
+C.J.
+There is no Bazan government.
+
+MARK
+Yeah, but is one option being...
+
+C.J.
+You're not taking me there, Mark.
+
+STEVE
+C.J., is the US prepared to invade Haiti?
+
+C.J.
+It should be clear that we're talking about two separate issues: one is a democratically-
+elected president whose people are being denied their leader by an armed militia, the 
+other is the lives of the Americans in the embassy and the American marines who are 
+guarding them.
+
+STEVE
+You didn't answer my question.
+
+C.J.
+How about that? I'll be back in a few hours. 
+
+C.J. walks off the podium and out the room as the reporters clamor. Out in the HALLWAY, 
+Carol hands C.J. a note.
+
+C.J.
+Is he here?
+
+CAROL
+He's in the Mural room. 
+
+C.J.
+Do I look all right?
+
+CAROL
+You look pretty tired.
+
+C.J.
+That's what you're saying to me?
+
+CUT TO: INT. THE MURAL ROOM - DAY
+PAUL HACKETT, head of a television network, is standing along with Bonnie.
+
+BONNIE
+You sure there's nothing I can get for you, Mr. Hackett?
+
+HACKETT
+No, Bonnie, thanks, I'm fine.
+
+C.J. walks in, and shakes his hand.
+
+C.J.
+Paul.
+
+HACKET
+Good afternoon, Claudia.
+
+C.J.
+Bonnie, thank you. Would you step outside the door, please, and knock if anybody wants 
+to come in?
+
+BONNIE
+Sure. [exits]
+
+HACKETT 
+[as they both sit down] She took me in through the basement.
+
+C.J.
+Yeah.
+
+HACKETT
+I've been in this building two or 300 times, never came in through the basement. 
+What do you got in front?
+
+C.J.
+The White House Press Corps.
+
+HACKETT
+Yeah?
+
+C.J.
+I need 30 minutes night after tomorrow.
+
+HACKETT
+C.J., what the hell are you guys planning for Haiti?
+
+C.J.
+It's not Haiti.
+
+HACKETT
+What is it?
+
+C.J.
+I'm not gonna tell you.
+
+HACKETT
+What am I supposed to tell my news director?
+
+C.J.
+Tell him it's your network.
+
+HACKETT
+It's not my network, it belongs to the company, it belongs to stockholders. So what am 
+I supposed to tell my news director?
+
+C.J.
+That we need 30 minutes Wednesday night. On Wednesday morning, I'll tell you why. You 
+pick the interviewer, they'll have 10 hours to prepare.
+
+HACKETT
+Just the President?
+
+C.J.
+The President and the First Lady.
+
+HACKETT
+On our set?
+
+C.J.
+In this room.
+
+HACKETT
+So we just get the interviewer and the network logo?
+
+C.J.
+No network logo.
+
+HACKETT
+C.J....
+
+C.J.
+Paul, I've got to get two other networks and CNN to pick this up live; bad enough it's 
+gonna be your guy and not theirs, but they'll run an old Petticoat Junction before they 
+put your network brand on their air.
+
+HACKETT
+C.J....
+
+C.J.
+Yeah.
+
+HACKETT
+Between friends...
+
+C.J.
+Yeah.
+
+HACKETT
+Is the water over your head?
+
+C.J.
+No. The water is exactly at my head.
+
+HACKETT
+I'll talk to Jeremy.
+
+They stand and shake hands.
+
+C.J. 
+Paul, we'll start to leak Wednesday morning to soften up the ground a little bit. 
+Anything leaks before then and I'll take my business across the street.
+
+HACKETT
+Yeah.
+
+CUT TO: EXT. THE CAPITOL HILL - DAY
+
+JOSH [VO]
+Well, I was surprised when Andy gave me the nose count...
+
+CUT TO: INT. CONFERENCE ROOM - CONTINUOUS
+Josh is in his meeting about tobacco.
+
+JOSH
+...because I wasn't aware of any ties to tobacco you have.
+
+WARREN
+We don't.
+
+JOSH 
+Yeah.
+
+WARREN
+I don't. [to Rossitter] Do you?
+
+ROSSITTER
+No, no, we grow no tobacco in my state, and I'd have to check but I don't think I've 
+taken contributions.
+
+WARREN
+However, we are both former U.S. Attorneys, and it's the suit itself we find troubling.
+The suit alleges that the tobacco companies have been engaged in a broad conspiracy of 
+lies since the 1950s.
+
+JOSH 
+Yes.
+
+WARREN
+How exactly are the Justice Department litigators going to demonstrate that?
+
+JOSH
+Well... Uh... I'm not a litigator and I don't work at the Justice Department, and 
+there's a reason why both those things are true... but I wouldn't think it'd be that 
+hard to prove that the tobacco companies have lied since we already know they did!
+
+ROSSITTER
+Every Surgeon General since 1964 has warned the public about smoking and since 1966 
+through Congressional mandate a pack of cigarettes has to carry a warning label. 
+Turning around now and saying 'we've been had,' is frankly ridiculous.
+
+JOSH 
+Are you saying that people who start smoking and get addicted to nicotine are too 
+stupid to live?
+
+ROSSITTER
+No, I'm saying they're too stupid to be protected by the courts.
+
+JOSH 
+Too stupid to be... Every day, the Justice Department uncovers evidence that cigarette 
+companies knew far better than the rest of us, that smoking causes death and disease. 
+To say nothing of the CEOs being the last seven people on earth to discover that 
+nicotine was addictive.
+
+WARREN
+Josh. Your administration wants to prosecute a suit they know is hopeless, so they can 
+score points at the expense of an industry that funds your opponent. It's politically 
+correct extortion. And that's why it's unlikely the Appropriations bill will make it 
+out of the subcommittee.
+
+JOSH 
+It's almost three o'clock. By seven, 3000 new people will have taken up smoking; 2800 
+of them will be under 18. [beat] Thanks. [gets up and leaves]
+
+CUT TO: INT. THE WHITE HOUSE BASEMENT - DAY
+Abbey and her Secret Service detail are walking to a room outside of which a guard stands.
+
+GUARD
+Good afternoon, ma'am.
+
+AGENT
+Sagittarius.
+
+Abbey walks in. Her agent remains outside. Sam jumps as he sees her.
+
+SAM 
+Good afternoon, Mrs. Bartlet.
+
+ABBEY 
+What do we use this place for, when we're not using it for this?
+
+SAM 
+I think.... I know we used it to plan some of the Millenium things.
+
+ABBEY 
+Didn't it used to be the photo office?
+
+SAM 
+I don't know, ma'am; I could check it out.
+
+ABBEY 
+Would you like to sit down? [sits]
+
+SAM 
+Yeah. 
+
+Sam sits across from her. He shifts his papers, plays with his pen, while she looks at 
+him intently.
+
+SAM
+What we're talking about is 30 minutes with an interviewer. The questions will be 
+entirely about the medical history, there'll be no questions about the law.
+
+ABBEY 
+C.J. got them to agree to that?
+
+SAM 
+She will Wednesday morning, when she tells them what it's about.
+
+ABBEY 
+Why will they agree?
+
+SAM 
+'Cause if they don't, they'll lose the story.
+
+ABBEY 
+It's all right with me.
+
+SAM 
+So I'd like to go through the story, get a sense of what you're going to say, run it 
+by Oliver Babish and spend the next couple of days going over it with you.
+
+ABBEY 
+That sounds fine, Sam, but you know, I'm kinda seeing someone right now...
+
+SAM 
+Yeah.
+
+ABBEY 
+It's not serious, but it could be, you know what I'm saying?
+
+SAM 
+Ma'am.
+
+ABBEY
+[sighs] Ten years ago, he began experiencing fatigue, and signs of paraparesis of the 
+anterior femoral muscles.
+
+SAM 
+In laymen's terms?
+
+ABBEY 
+He had a tingling pain in his thigh. 
+
+SAM 
+And those symptoms subsided.
+
+ABBEY 
+Yes.
+
+SAM 
+And two years later?
+
+ABBEY 
+My husband experienced neuropathy and presented symptoms of optic neuritis with partial 
+unilateral nerve paresis.
+
+SAM 
+Mrs. Bartlet...
+
+ABBEY 
+Doctor Bartlet.
+
+SAM
+Yes, ma'am. The language you use...
+
+ABBEY 
+Why aren't the President and I doing this together?
+
+SAM 
+I'm sorry?
+
+ABBEY 
+Somebody's doing this with the President, and I was asking, why we're not doing it at 
+the same time. Is it so you can compare our stories?
+
+SAM 
+Yes. The language you use...
+
+ABBEY 
+Two years later, he felt numbing and dizziness.
+
+CUT TO: INT. OUTER OVAL OFFICE - DAY
+Charlie and Mrs. Landingham are sitting across from each other, reading papers. Suddenly...
+
+CHARLIE 
+Look...
+
+MRS LANDINGHAM 
+Section 2635 of the guidelines laid out in the Ethical Conduct for Employees of the 
+Executive Branch - Final regulations issued by the U.S. office of Government Ethics...
+
+CHARLIE 
+Mrs. Landingham...
+
+MRS. LANDINGHAM 
+Section 2635 wherein White House employees are specifically enjoined from receiving 
+or soliciting gifts over $20 in value. They wanna give me a $19 discount on my car - 
+I'll take it!
+
+Leo walks in, Charlie stands to usher him inside.
+
+CHARLIE 
+He's waiting for you.
+
+LEO 
+Thank you.
+
+Leo walks in THE OVAL OFFICE.
+
+BARTLET
+What happened?
+
+LEO 
+We shot three Haitian soldiers on the runway.
+
+BARTLET 
+They boarded the plane?
+
+LEO 
+Ground traffic control stopped the plane. 
+
+Bartlet throws off his glasses.
+
+LEO
+When the soldiers boarded, they were told they'd illegally boarded a U.S. Air Force C9. 
+They were told to drop their weapons; they were told again. Two staff sergeants in 
+the bulkhead had a clear shot and took 'em. They dumped the bodies on the tarmac and 
+made an emergency takeoff.
+
+BARTLET 
+Leo...
+
+LEO 
+Sir...
+
+BARTLET 
+That wasn't supposed to happen!
+
+LEO 
+Look, if...
+
+BARTLET 
+I evacuated the non-essentials specifically so that wouldn't happen!
+
+LEO 
+And we came two minutes...
+
+BARTLET 
+I gave the order six hours ago!
+
+LEO 
+They had to...
+
+BARTLET
+[shouting] Six hours ago I gave the order! What the hell were they still doing 
+on the runway?!
+
+LEO 
+They had to be collected, sir, they weren't all in one place.
+
+BARTLET 
+We shot three men...
+
+LEO 
+That's what you do!
+
+BARTLET 
+We what?
+
+LEO 
+A foreign hostile puts his foot on an American military plane- that's an attack! 
+And rules of engagement give us every right to repel.
+
+BARTLET 
+And I'm sure these guys had their handbooks with them!
+
+LEO 
+These guys were there to keep the plane on the ground.
+
+BARTLET 
+The plane is up in the air?
+
+LEO 
+Yes, sir.
+
+BARTLET 
+What's happening on the ground?
+
+LEO 
+We're communicating through diplomatic back channels. 
+
+BARTLET 
+Who are we using?
+
+LEO 
+The Canadian Ambassador, Dominican intelligence.
+
+BARTLET 
+And what does Bazan want?
+
+LEO 
+Dessaline.
+
+BARTLET 
+On what charge?
+
+LEO 
+That, as Treasury Minister, he embezzled 18 million dollars earmarked for humanitarian aid.
+
+BARTLET 
+I'm sold.
+
+Leo picks up the phone.
+
+LEO 
+Margaret, get me the Secretary of State.
+
+BARTLET 
+You're right, you know, I should be bringing them in on reelection. I should be talking 
+to them.
+
+LEO 
+Yeah.
+
+BARTLET 
+I don't want to make the same mistakes over again.
+
+LEO 
+Yeah, not when there are so many new mistakes we can make.
+
+BARTLET 
+Yeah. Let's start tonight. Around nine o'clock we'll meet in the residence.
+
+LEO
+[into phone] Scott! I'm with the President, we're going to need to invoke 1070 at OAS.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT. OUTER OVAL OFFICE - NIGHT
+CNN's coverage of the unrest in Haiti is playing at low volume on the television set next 
+to the desk. Mrs. Landingham walks briskly behind her desk and starts tidying a few things. 
+She looks up as the door to the hallway opens and Bartlet strides in.
+
+MRS. LANDINGHAM
+Good evening, Mr. President.
+
+BARTLET
+Bob Cratchit.
+
+MRS. LANDINGHAM
+Oh, sir, surely you have better things to do than annoy me.
+
+BARTLET
+Never... You bought a new car?
+
+MRS. LANDINGHAM
+Yes, sir.
+
+BARTLET
+And you paid sticker price.
+
+Bartlet reaches into his jacket pocket and retrieves a sheet of paper.
+
+MRS. LANDINGHAM
+Section 2635...
+
+BARTLET
+You need to look at the next page - subsection B, paragraph four, Mamie Yokum.
+
+Bartlet puts on his glasses.
+
+MRS. LANDINGHAM
+[leaning toward him] You know, I could beat you up anytime I want, sir.
+
+BARTLET
+Secret Service'd have you down like a calf at a rodeo.
+
+Mrs. Landingham chuckles softly as she turns her back to him to look at something on the 
+table next to her desk.
+
+BARTLET
+[reading] "The definition of 'gift' excludes opportunities and benefits including favorable 
+rates and commercial discounts available to the public at large."
+
+As Bartlet reads, Mrs. Landingham rolls her eyes and sighs in mild annoyance. Then she turns 
+around as he holds up the sheet of paper as proof.
+
+MRS. LANDINGHAM
+I did look at the next page.
+
+BARTLET
+And?
+
+MRS. LANDINGHAM
+[wagging her finger] I work next door to the Oval Office, sir. Caesar's wife must be 
+above reproach.
+
+Mrs. Landingham walks back behind her desk.
+
+BARTLET
+[removes glasses] Is the reason you didn't tell me you were getting a new car... you...? 
+Did you think I was gonna think it was an extravagance?
+
+Mrs. Landingham looks a bit sheepish.
+
+BARTLET
+You don't think I think you should have a new car? [pause] Delores, have you ever had 
+a new car?
+
+MRS. LANDINGHAM
+[smiling at the memory] No... No, Henry would go to Calvin Hilly in Concord and Calvin 
+would give him a good deal on something reliable.
+
+BARTLET
+How about you let me find out what you were supposed to pay and write you a check for 
+the difference?
+
+MRS. LANDINGHAM
+Oh, no. Thank you, but I'm buying this car myself. This car is gonna feel good.
+
+BARTLET
+[smiling] Is it a nice one?
+
+MRS. LANDINGHAM
+It's a beauty. It's blue. It has air conditioning. I told 'em I could just roll down the 
+windows, but it comes with it anyway.
+
+Bartlet chuckles quietly and affectionately to himself, amused.
+
+MRS. LANDINGHAM
+Consumer Reports rates it very high. It's very safe. And when you get inside, there's 
+this...
+
+Mrs. Landingham gestures, trying to find the right word.
+
+BARTLET
+Smell?
+
+MRS. LANDINGHAM
+How did you know?
+
+BARTLET
+It's the smell of freedom... and the chemicals they treat the dashboard with.
+
+Mrs. Landingham smiles as she buttons up her coat.
+
+BARTLET
+When are you picking it up?
+
+MRS. LANDINGHAM
+Right now.
+
+BARTLET
+Do me a favor, would you? Come back here after you pick it up. I'd like to talk to you 
+about something.
+
+MRS. LANDINGHAM
+Yes, sir.
+
+Bartlet wanders into THE OVAL OFFICE.
+
+BARTLET
+And put the car in the driveway. I'd like to kick the tires.
+
+MRS. LANDINGHAM
+Why?
+
+BARTLET
+[jovially] It's an expression, Fannie Mae! Go get your car!
+
+Mrs. Landingham smiles, picks up her purse, and leaves.
+
+CUT TO: INT. WHITE HOUSE, BASEMENT CONFERENCE ROOM - NIGHT
+Abbey and Sam are seated across from each other at the table.
+
+ABBEY
+[gesturing professorially] What happens is, basically, that small stones in the inner ear 
+which respond to gravity become dislodged and that'll cause benign positional vertigo.
+
+Sam wearily removes his glasses and rests his forehead on his hand.
+
+ABBEY
+You all right?
+
+SAM
+[tries to shake off his weariness] Yes, ma'am.
+
+ABBEY
+[with a twinkle in her eye] Sure you don't want some acetylsalicylic acid?
+
+Sam stares at her blankly.
+
+ABBEY
+Aspirin, my brother.
+
+SAM
+[smiling slightly] What a dumb major you had.
+
+Abbey chuckles as the door opens and Oliver appears holding a thick volume.
+
+OLIVER
+Good evening.
+
+ABBEY
+[lightly] Ah, Oliver... Do you know what peripheral neuropathy indicates?
+
+OLIVER
+[walking down stairs] No, but I don't really care that much. Sam, would you mind for 
+a minute?
+
+SAM
+No.
+
+ABBEY
+[self satisfied] B-12 deficiency.
+
+OLIVER
+[to Sam] Thank you.
+
+SAM
+Sure.
+
+Sam walks up the stairs and leaves. Abbey sighs.
+
+OLIVER
+Mrs. Bartlet, I want to talk to you about...
+
+ABBEY
+[firmly] Dr. Bartlet.
+
+Oliver stares at her, but doesn't respond.
+
+ABBEY
+When did I stop being "Dr." Bartlet? When in the campaign did I decide that women were 
+gonna like me more if I called myself "Mrs."? When did I decide that women were that 
+stupid?
+
+OLIVER
+[firmly] Ma'am, I want you to get your own lawyer.
+
+ABBEY
+I have my own lawyer.
+
+OLIVER
+Pat's a family lawyer. I want you to get someone for this. I'll give you eight names. 
+You, Pat, and the President whittle it down to three. I'll pick the one.
+
+ABBEY
+Can we do this after the broadcast Wednesday night?
+
+OLIVER
+No. I want you to do it right away - because I don't think you should do the broadcast 
+Wednesday night.
+
+ABBEY
+Why?
+
+OLIVER
+Because I don't think you should answer questions without a lawyer.
+
+ABBEY
+Sam said they're not gonna get into issues of legality.
+
+OLIVER
+I don't know how they're gonna avoid it.
+
+ABBEY
+[leans forward] Oliver...
+
+Oliver sets the book on the table, turns his back to her and walks to one end of the 
+room to pour himself a cup of coffee.
+
+OLIVER
+Herman Vikram was the original specialist, right?
+
+ABBEY
+Yeah.
+
+OLIVER
+It was Vikram who put him on prednisone?
+
+ABBEY
+Yeah.
+
+OLIVER
+Then almost four years ago, you put him on Interferon Beta 1-b.
+
+ABBEY
+Yeah.
+
+OLIVER
+Betaseron.
+
+ABBEY
+Yeah.
+
+Oliver turns around and walks back toward ABBEY.
+
+OLIVER
+You did it, not Vikram.
+
+ABBEY
+It was in consultation with Vikram.
+
+OLIVER
+But Vikram didn't write the prescription.
+
+ABBEY
+I thought, under the circumstances, it would be wrong to involve another doctor.
+
+Oliver sits down and flips through several books on the table.
+
+OLIVER
+So you wrote these prescriptions to yourself, and then had them filled where?
+
+ABBEY
+The Dunwich Women's Health Clinic.
+
+OLIVER
+And then had them shipped to various locations?
+
+ABBEY
+[a bit defensively] It was the campaign.
+
+OLIVER
+One location was... Phoenix.
+
+ABBEY
+Probably.
+
+OLIVER
+Another was St. Louis?
+
+ABBEY
+Yeah.
+
+OLIVER
+You violated the medical ethics rules of three State Boards: New Hampshire, Arizona, 
+and Missouri.
+
+Abbey stares blankly at him. She looks a bit disconcerted, but reveals little else.
+
+OLIVER
+[reading from a volume in front of him] "The board may take disciplinary action against 
+any person who is engaged in dishonest or unprofessional conduct."
+
+ABBEY
+[sternly] They were extraordinary circumstances, Oliver. I gave my husband excellent 
+medical care and I'll line up tenured professors who will say so.
+
+OLIVER
+Did you keep medical records?
+
+ABBEY
+No.
+
+OLIVER
+[reading] "...or any person who has failed to maintain adequate medical records or 
+documentation on diagnostic and therapeutic treatment." [looks up and meets her gaze] 
+The AMA's code of ethics pretty well spells out the egregiousness of treating your 
+own family members.
+
+ABBEY
+We do it anyway. We write prescriptions for migraines, antibiotics...
+
+OLIVER
+Can I ask you, as the President's physician, have you ever asked him if he's ever had 
+extramarital affairs?
+
+Abbey fixes him with an especially steely gaze.
+
+ABBEY
+No.
+
+OLIVER
+Isn't that a crucial question in the diagnosing of autoimmune diseases?
+
+Abbey stares silently at him for several moments, trying to control her emotions.
+
+ABBEY
+[slowly, tersely, with a hint of sadness] I'd like to be next to my husband when he 
+does this.
+
+OLIVER
+[firmly] I'd like you to get your own lawyer.
+
+ABBEY
+[after a long pause] Is there anything else?
+
+OLIVER
+No. [closes book] Thank you, Dr. Bartlet.
+
+Oliver stands up and leaves. Abbey doesn't move at all as he departs. After the door 
+closes behind him, she bows her head slightly.
+
+CUT TO: EXT. THE WHITE HOUSE AND THE WASHINGTON MONUMENT - NIGHT
+CUT TO: INT. JOSH'S OFFICE - CONTINUOUS
+The office is dark except for the light from a single desk lamp. Josh is sitting at 
+his desk with his head in his hands, staring blankly at the papers in front of him. 
+Donna walks in through the open door, sets a folder on the desk, and removes a 
+document from the folder.
+
+DONNA
+You need this?
+
+JOSH
+[fatigued, a bit dazed] I didn't even see you there.
+
+DONNA
+I haven't seen you all day.
+
+JOSH
+I've been with... [clears throat] ...you know, tobacco.
+
+Donna jots a note on the document and shows it to him again.
+
+DONNA
+You need this?
+
+JOSH
+Yeah.
+
+Josh distractedly takes to document from her.
+
+DONNA
+Josh, the President wants you at a meeting tonight in the Residence around 9:00.
+
+JOSH
+[trying to seem nonchalant] I'll... tell you what that is. That's the Blue Ribbon 
+Commission on Reform. Let me tell you, I'm gonna be collecting benefits or, you know, 
+not by the time we get this Blue Ribbon thing up.
+
+DONNA
+Josh.
+
+JOSH
+Yeah?
+
+DONNA
+[after a long pause, smiles awkwardly] Um... I'm trying to... See, this is why I'll 
+never have a career as a...
+
+JOSH
+Donna, what?
+
+DONNA
+Sagittarius.
+
+Josh looks startled and sad. They stare at each other for several moments.
+
+JOSH
+[whispering] Are you all right?
+
+DONNA
+[nodding, still meeting his gaze] Yeah... There's an empty office next to the conference 
+room downstairs. I moved two couches in and there's some pillows and blankets.
+
+JOSH
+C.J. putting the lid on?
+
+DONNA
+Right now...
+
+Josh bites his lip.
+
+DONNA
+...and Leo's ready for you now.
+
+Donna turns and leaves. Josh stares sadly after her.
+
+CUT TO: INT. PRESS ROOM - NIGHT
+C.J. is behind the podium briefing reporters.
+
+C.J.
+The OAS has agreed to meet in an emergency session tomorrow morning, but we're still 
+waiting for confirmation.
+
+STEVE
+Can you tell us exactly what you're gonna say to them?
+
+C.J.
+Yes, but first we're gonna say it to them.
+
+MARK
+C.J., one more question on the Haitian casualties.
+
+C.J.
+Sorry, Mark. We've run out of time, but we'll pick it up with our lightning round 
+tomorrow. I'm calling a full lid. Any developments throughout the night and you'll 
+be paged. Thank you for your patience, everybody.
+
+As C.J. walks toward the door, a few reporters call her name and toss out questions.
+
+STEVE
+Thank you, C.J.
+
+KATIE
+Thank you, C.J.
+
+CAROL
+[standing by door] Leo's ready for you.
+
+C.J.
+[opening door] Thanks.
+
+CUT TO: INT. LEO'S OFFICE - NIGHT
+The desk is covered in layers of paperwork. Toby is pacing near the sofa when Leo 
+comes in and walks briskly to his desk. His back is turned. Toby closes the door.
+
+TOBY
+Leo. This is insane, plain and simple.
+
+LEO
+What's insane? Oh, never mind. What isn't?
+
+Leo turns around.
+
+TOBY
+You don't think it's crazy?
+
+LEO
+I don't even know what we're talking about.
+
+TOBY
+We're firming up strategy on what will define the future of this presidency and we don't 
+know if this President is interested in the future. We have to have a discussion and we 
+have to have it tonight.
+
+LEO
+We're having a discussion.
+
+Leo turns back toward his desk.
+
+TOBY
+When?
+
+LEO
+Tonight.
+
+TOBY
+Okay then.
+
+The door opens and Josh walks in.
+
+JOSH
+Good evening.
+
+Leo turns around to look at Josh, then walks behind his desk.
+
+LEO
+Good evening, Josh.
+
+JOSH
+Leo, would you excuse us for a second? Toby, can I talk to you outside?
+
+Toby silently follows Josh into the hall and closes the door behind himself. Neither 
+of them raises their voice above a low whisper.
+
+JOSH
+You told Donna.
+
+TOBY
+Yeah.
+
+JOSH
+Why didn't you let me?
+
+TOBY
+You hadn't yet.
+
+JOSH
+[bows head] How'd she take it?
+
+TOBY
+If everybody out there takes it the way she did, we may be okay. If a few more people 
+in here took it the way she did, that'd be all right, too.
+
+Toby starts walking back toward the door.
+
+JOSH
+[blinks] Was that for me?
+
+TOBY
+That was for me.
+
+Josh follows Toby back inside the office.
+
+LEO
+Tobacco.
+
+Josh closes the door. Leo and Toby sit down in chairs.
+
+JOSH
+Kalmbach's not gonna let it come to a vote in the subcommittee, which at the moment 
+is fine, 'cause if he did, it'd be 8-7 against.
+
+LEO
+Party lines?
+
+JOSH
+[sits down on sofa] No... We have Stacy and Miner but Warren and Rossitter are voting 
+against. They have ideological problems with the case... What do you wanna do now?
+
+LEO
+Stick some dynamite up Warren and Rossitter's ass.
+
+JOSH
+Yeah, the problem is, Rossitter sits on the Judiciary Committee and I don't know how 
+many enemies on Judiciary we wanna make right now.
+
+Toby listens with his head in one hand.
+
+LEO
+[firmly] Both of you listen. We're not gonna stop, soften, detour, postpone, circumvent, 
+obfuscate, or trade a single one of our goals to allow for whatever extracurricular 
+nonsense is coming our way in the next few days, weeks, and months.
+
+C.J. comes in and sits down while Leo is talking.
+
+TOBY
+[mildly annoyed] When did we decide this?
+
+LEO
+[pauses] Just now. [to Josh] Light 'em up. [to C.J.] You got a recommendation for me?
+
+C.J.
+30 minutes Wednesday night. Live.
+
+LEO
+Live to tape?
+
+C.J.
+Live.
+
+JOSH
+The Mural Room?
+
+C.J.
+Yeah. They pick the interviewer, it's carried on all the networks and CNN. I give it to 
+them ten hours before.
+
+TOBY
+And that's followed by a press conference.
+
+C.J.
+There isn't another step we can take until we know what the President's intentions are. 
+We need a discussion, and I hate to sound shrill, but it can't wait another night.
+
+TOBY
+We're having a discussion.
+
+C.J.
+When?
+
+JOSH
+Tonight.
+
+C.J.
+Really?
+
+LEO
+Yeah.
+
+C.J.
+That's great.
+
+The door opens and Sam walks in. He doesn't sit down.
+
+SAM
+Good evening.
+
+LEO
+Sam, what do you know?
+
+SAM
+I know that fluid accumulating in the semicircular canals of the vestibulo-cochlear 
+nerve is usually what'll account for dizziness.
+
+Leo, Toby, and Josh all roll their eyes with mild exasperation and empathy.
+
+SAM
+Leo, I want to state right here, right now, in terms so plain and clear as to command 
+their assent...
+
+LEO
+[wearily] We're having a meeting tonight.
+
+SAM
+The whole country's gonna assume he's not running when he announces the thing.
+
+LEO
+[wearily, but a bit louder] We're having a meeting.
+
+SAM
+The press is gonna assume...
+
+LEO
+[emphatically] We're having a meeting!
+
+SAM
+Really?
+
+LEO
+Yeah.
+
+SAM
+That's great.
+
+LEO
+Yeah.
+
+C.J. stares blankly at Josh and Toby, who both glance at Leo.
+
+LEO
+[glances at his watch] Why doesn't everybody grab something to eat, be back at 9:00, and 
+you'll get called to come over to the residence.
+
+C.J. and Toby stand up and leave, along with Sam.
+
+LEO
+Josh, walk out with me.
+
+Josh stands up. Leo walks behind his desk to gather up a few things.
+
+LEO
+I mean it - set one off under these guys.
+
+JOSH
+How about I have C.J. make a statement at her briefing?
+
+LEO
+[looks up] A strong statement.
+
+As they walk out of the office into the HALLWAY, they toss out possible language for the 
+statement.
+
+JOSH
+"The President calls on Congress to fund the Justice Department's tobacco lawsuit at the 
+levels necessary to continue this litigation."
+
+LEO
+"The American people deserve their day in court."
+
+JOSH
+[more animated] "And this Administration won't sit on the bench while well-fed members of 
+the Appropriations Committee choke off funding for a lawsuit aimed at the perpetrators of 
+hundreds of thousands of negligent homicides while filling their campaign war chests."
+
+LEO
+Light 'em up!
+
+Leo walks off in one direction. Josh pounds the door frame, then walks off in the 
+opposite direction.
+
+CUT TO: INT. OUTER OVAL OFFICE - NIGHT
+Charlie is standing behind his desk staring silently at the phone receiver in his hand. 
+Leo walks in.
+
+LEO
+Charlie?
+
+CHARLIE
+[evenly, calmly] Leo, there was an accident at 18th and Potomac. Mrs. Landingham was 
+driving her car back here.
+
+LEO
+What happened?
+
+CHARLIE
+There was a drunk driver and they ran the light at 18th and Potomac. They ran it at a 
+high speed.
+
+LEO
+Charlie, is she all right?
+
+CHARLIE
+No... She's dead.
+
+Leo stares at Charlie for several moments, completely stunned. Leo wavers back and forth 
+just a bit, trying to absorb Charlie's words. He looks lost, overwhelmed, totally shaken, 
+but he finally musters his ability to speak.
+
+LEO
+[a bit hoarse] Is he alone?
+
+CHARLIE
+Yeah.
+
+Leo turns, walks past Mrs. Landingham's desk, and walks out onto the portico. Charlie watches 
+Leo leave, then quickly hangs up the phone.
+
+CUT TO: EXT. THE WHITE HOUSE PORTICO - CONTINUOUS
+A few Secret Service agents and Marine guards are standing at attention at several designated 
+points on the portico. Pools of light illuminate the darkness as Leo slowly and reluctantly 
+makes his way toward THE OVAL OFFICE. He appears dazed and he moves with the stiffness of a 
+much older man. His clothes seem to hang on him. As he reaches the French doors, the light from 
+the office reveals the apprehension and dread on his face. Bartlet is standing, with his back 
+turned, reading a document and talking on the phone. Leo does not move for several seconds; 
+he appears even older and more frail through the wavy glass in the French doors. When he finally 
+reaches for the door knob, Bartlet notices him and gestures for him to come in, which he does. 
+Leo closes the door. Bartlet hangs up the phone, removes his glasses, and turns toward Leo. 
+Through the wavy glass, Bartlet's features are distorted somewhat as he listens to Leo speak. 
+Bartlet cocks his head slightly to one side as Leo breaks the sad news.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are properties of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television, and NBC. No copyright infringement is intended.
+
+Episode 2.21 -- “18th and Potomac”
+Original Airdate: May 9, 2001, 9:00 PM EST
+
+Transcript By: The Vault
+July 19, 2002

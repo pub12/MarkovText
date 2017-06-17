@@ -1,0 +1,2372 @@
+THE WEST WING
+"DEBATE CAMP"
+TELEPLAY BY: AARON SORKIN
+STORY BY: WILLIAM SIND & MICHAEL OATES PALMER
+DIRECTED BY: PARIS BARCLAY
+
+TEASER
+
+FADE IN: INT. DEBATE PREP ROOM - DAY
+
+	SAYBROOK INSTITUTE FOR PUBLIC POLICY
+	FAITH, NORTH CAROLINA 1:00 P.M.
+
+Sam and Bartlet are up front standing behind two podiums. The rest of the staff,  
+Congresswoman Andy Wyatt, Joey Lucas and Kenny, are sitting in the audience listening.
+
+BARTLET
+Affirmative action and quotas are about two different things. Affirmative action is about 
+providing people an opportunity they might not otherwise get.
+
+SAM
+I don't know how you can talk about providing opportunity, while at the same time supporting 
+racial profiling.
+
+BARTLET
+What that hell is...? I don't support racial profiling.
+
+SAM
+Your nominee for Attorney General did. Can you tell us why you nominated him?
+
+BARTLET
+Why?
+
+SAM
+Yes.
+
+BARTLET
+'Cause bite me, that's why.
+
+ALL
+Whoa...
+
+C.J.
+It's a legitamate question.
+
+BARTLET
+It's been almost four years Sam, how long do you want to say "I told you so?"
+
+JOSH
+He wasn't saying "I told you so," sir. We need an answer on Rooker.
+
+BARTLET
+What wrong with "bite me?"
+
+JOSH
+I think we'd lose.
+
+TOBY
+Not in New Jersey. 
+
+Josh looks at him with a smile.
+
+C.J.
+"It's never been shown that racial profiling works, and I'm against it."
+
+JOSH
+That answer's pretty simple, isn't it?
+
+C.J.
+We can make it more complicated.
+
+ANDY
+A lot of people in... Mr. President, do you mind if I...?
+
+JOSH
+No...
+
+BARTLET
+I think she was talking to me there, Dexter. What?
+
+ANDY
+A lot of people in law enforcement believe profiling helps them do their job better. 
+Not everyone's against it.
+
+BARTLET
+I'm against it.
+
+JOEY (KENNY)
+And so are the voters, but I think what...
+
+BARTLET
+How you doing there Joey? Kippy?
+
+JOSH
+Kenny.
+
+BARTLET
+Okay.
+
+JOEY (KENNY)
+I think, Mr. President, that what Congresswoman Wyatt was saying is that if we can figure 
+out a way to make this answer about the drug war, then we can talk about successes.
+
+BARTLET
+Is that what you were saying, Andy?
+
+ANDY
+Yes, sir.
+
+C.J.
+Yeah, but Richie will bring it back to Rooker and the fact that you don't know what your 
+position on racial profiling...
+
+BARTLET
+I do know what my position is.
+
+TOBY
+We're losing the question. Fundamentally, it's "What was the story with Rooker?"
+
+C.J.
+We gave him our full support until it became clear that an increasingly divided Congress 
+was going to shoot down our nominee.
+
+TOBY
+We didn't give him our full support. We withdrew the nomination.
+
+JOSH
+Why not blow past the nomination fight and give a strong...
+
+C.J.
+Blow past the nomination fight?
+
+JOSH
+...and give a strong, unambiguous statement in support of law enforcement?
+
+TOBY
+'Cause that's not going to be the vote.
+
+JOSH
+Nobody's for stronger, fairer law enforcement.
+
+TOBY
+That's not going to be the question.
+
+SAM
+Why not just say we screwed up? (imitating Bartlet) "Mr. Rooker's a devoted crimer fighter-- 
+we had our differences-- but on this, all Americans can agree..."
+
+Leo enters, holding a note, and walks towards Bartlet.
+
+BARTLET
+Excuse me...
+
+SAM
+...Yes sir?
+
+BARTLET
+Were you doing me just then?
+
+SAM
+I was offering an answer...
+
+BARTLET
+You were doing me.
+
+SAM
+I may have slipped into it, yes.
+
+BARTLET
+Anybody else do a pretty good Bartlet? It's talent night here at Debate Camp, anybody want to 
+do a little skit? 
+
+Leo hands Bartlet the note, then whispers into his ear. Bartlet reads the note. 
+
+BARTLET
+Apparently, eight Israeli Thunder fighters--these are also known as American-made Boeing F15E 
+Strike Eagles--have hit two terrorist bases in the north and south of Qumar. And while no Qumari 
+government personel or institutions were destroyed, Qumar, of course, considers an attack on its 
+soil to be an act of war. So we are, as always, one bad bottle of Tequila away from all-out war 
+in West Asia. (to Sam) Would you like to take this one or shall I?
+
+SAM
+Why don't you get this one. I'll get... the next one.
+
+BARTLET
+Okay.
+
+LEO
+We've got a secure link.
+
+BARTLET 
+(leaving room) I agreed to be locked up with you people for 48 hours. How much time do I 
+have left?
+
+LEO
+47 hours, 41 minutes.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE 
+
+FADE IN: EXT. SAYBROOK INSTITUTE - DAY
+Bartlet, Leo and advisors walk outside on the camp grounds.
+
+LEO
+Hutchinson and Berryhill are hooked in along with Nancy and Fitzwallace and we're still 
+getting Peter from State.
+
+BARTLET
+Defense condition three for the bases in Qumar is what?
+
+LEO
+Mike
+
+MIKE
+It deploys the Independence to the Gulf. They've got 75 aircraft.
+
+BARTLET
+What's happening on the ground?
+
+MAN 
+AC Recon Striker says 30,000 troops are massing at the Syrian border.
+
+BARTLET
+That was fast.
+
+LEO
+They're not there yet.
+
+MIKE
+We're getting MILSAT confirmation. 
+
+Everyone enters the barn, which has an IMPROMPTU SITUATION ROOM.
+
+OFFICER
+Ten hut. 
+
+All officers salute.
+
+MAN 2
+Mr. President, you have secretaries Hutchinson and Berryhill, Director Kato, Chairman 
+Fitzwallace and Dr. McNally.
+
+BARTLET
+Alright. Well, we've got ourselves a Marx Brothers' movie.
+
+KEN HUTCHINSON
+(over phone) Sir, It's Ken. On your order, we'll put CTU on high alert.
+
+BARTLET
+You have the order. Oh, Fitz.
+
+FITZWALLACE
+(over phone) Yes, sir?
+
+BARTLET
+How're you doing?
+
+FITZWALLACE
+Fine. Thank you, sir. And you?
+
+BARTLET
+Well, we've made camp in North Carolina for prep, so I've been thinking about killing myself, 
+but let me ask you something. Besides Qumar, Iran, Syria, Hezbullah, they've all got short 
+and medium-range missiles. If Israel feels threatened by them, what happens?
+
+FITZWALLACE 
+They launch a pre-emptive strike.
+
+LEO
+Yeah, but before that happens, Qumar shows its teeth, right?
+
+FITZWALLACE
+Yeah.
+
+LEO
+Yeah. So what happens then?
+
+FITZWALLACE
+They'll want something from us in exchange for standing down.
+
+BARTLET
+Well, for the moment, they haven't stood up, but in the meantime, let's think of something 
+we can give them when they do.
+
+LEO 
+(angrily) That's what we should do in the meantime?
+
+BARTLET
+(warning tone) Leo...
+
+LEO
+We should think of something we can *give* them?!
+
+BARTLET
+Honey, if we're going to have this fight, can we not do it in front of the Joint Chiefs? 
+It just scares the hell out of them.
+
+LEO
+Yes.
+
+BARTLET
+Mr. Chairman, would you put our bases in Qumar at Defense Condition 3 with the U.S. Military 
+at Defcon Four?
+
+FITZWALLACE
+Yes, sir.
+
+BARTLET
+Thank you. 
+
+He, Leo and other advisors sit at the table.
+
+CUT TO: EXT. SAYBROOK INSTITUTE - DAY
+Andy leaves a room to go outside. Toby follows her.
+
+TOBY
+Andy...
+
+ANDY
+Yeah?
+
+TOBY
+A couple of things. I need you to look at a couple of answers on defense readiness. I need 
+concrete examples of waste in Pentagon procurement. We need two more members of the IRC for 
+post spin. I need you to fill out this marriage license and paperwork for a joint checking 
+account and review this 60-second answer on Rwanda.
+
+ANDY
+Okay, okay, okay and um, under no circumstances, and sure.
+
+TOBY
+See, by my count, you said under no circumstances to the IRC post spin and sure....
+
+ANDY
+I said under no circumstances to marrying you again.
+
+TOBY
+May I ask why?
+
+ANDY
+I've had the unique experience of having done it once before.
+
+TOBY
+Yes, well...
+
+ANDY
+I have to get to the things you gave me. A person's running for President. 
+
+She walks away. Sam comes out of the building.
+
+TOBY
+Hey, that was good, Sam. Stay up in his face. Don't back off.
+
+SAM
+You want to shoot for two minutes? There's a hoop in the back.
+
+TOBY
+Yeah.
+
+Josh comes up to them with a basketball. 
+
+JOSH
+He's right. Don't back off.
+
+SAM
+Yeah. (to Toby) What's going on with you and Andy?
+
+TOBY
+Nothing.
+
+SAM
+I think you're wrong.
+
+TOBY
+I'm not.
+
+SAM
+I think you're getting back together.
+
+TOBY
+We're not.
+
+SAM
+But you want to.
+
+TOBY
+Yes.
+
+SAM
+I think... Wait. What?
+
+TOBY
+See, sometimes if I slam on the brakes, you run right past.
+
+JOSH
+Okay, fill us in on everything you've got so far between the two of you.
+
+TOBY
+(sarcastically) Yeah, that's what's going to happen right now. 
+
+He walks towards the basketball hoop. They follow.
+
+SAM
+Well, if you do that...
+
+TOBY
+Are you going to stay up in his face?
+
+SAM
+Did you hear me say I would?
+
+TOBY
+No, actually.
+
+SAM
+Well, I will. Listen, let me tell you something. What I said wasn't personal.
+
+TOBY
+Who said it was?
+
+SAM
+He did. He said, "It's been four years and when am I going to stop saying, 'I told you so?'" 
+And that wasn't... I was... Let's say we're new. We made mistakes. We'd just gotten to... 
+We weren't even in the White House when we heard Rooker. It was like January 5.
+
+They arrive at the hoop.
+
+TOBY
+(with certainty) It was the 15th. It was January 15th.
+
+SAM
+How do you remember?
+
+TOBY
+I just do.
+
+FADE TO: INT. BARTLET'S TEMPORARY OFFICE - FOUR YEARS AGO
+Four years ago, on January 15th, Toby, Josh, and Sam are in Bartlet's temporary office. 
+Leo walks inside.
+
+LEO
+I think Cornell Rooker's going to be the AG. How about that?
+
+TOBY
+What do you mean?
+
+LEO
+He's on the phone with the governor right now.
+
+SAM
+We're settled on that?
+
+LEO
+Yeah, it's Cornell Rooker, if that's what he's saying on the phone. If he's saying no, 
+then it's going to be somebody else.
+
+JOSH
+Well analyzed.
+
+SAM
+I thought there might be more conversations about the more conservative tendancies.
+
+LEO
+Like privacy?
+
+SAM
+Yeah.
+
+C.J.
+(walks in) He's a Democrat with a record the right win can't complain about. (sits)
+
+MARGARET
+(enters) Excuse me, Josh. I'm looking for Donna.
+
+JOSH
+Donna is at the White House, as a matter of fact.
+
+C.J.
+(surprised) She's at the White House?!
+
+JOSH
+Yup.
+
+C.J.
+She knows the old tenants are still there, right?
+
+JOSH
+She's being taken out to lunch by her predecessor, a guy who's the assistant to Mac McConnell, 
+the assistant to the Deputy C.O.S.
+
+C.J.
+Nobody did that with me. (to Leo) Anybody do that with you?
+
+LEO
+(shakes his head) Sam...
+
+JOSH
+(interrupts) He's who the judiciary calls when they want to put a stamp on a yes. He has a 
+record conservatives can't complain about.
+
+SAM
+Folks, our opponent had a record conservatives can't complain about, but he lost.
+
+ASSISTANT
+(knocks on door frame) Excuse me. Mr. Ziegler?
+
+TOBY
+Yeah?
+
+ASSISTANT 
+Congresswoman Wyatt is here in person without an appointment, and she's asking to see you.
+
+TOBY
+Yeah. (irritated) Congresswoman Wyatt is also Mrs. Ziegler. Just... uh, I'll be right out.
+
+ASSISTANT
+Yes, sir. (leaves)
+
+TOBY
+You think we're going to get hit from the left?
+
+SAM
+I do.
+
+JOSH
+I don't.
+
+SAM
+Look...
+
+JOSH
+He gets a honeymoon. Let's take advantage.
+
+SAM
+You're missing the point.
+
+JOSH
+What?
+
+SAM
+I think he'll be confirmed. We might even get the honeymoon from the left.
+
+JOSH
+But?
+
+SAM
+I'm not sure he's the right guy.
+
+BARTLET
+(enters) We got Rooker. 
+
+He leaves. Sam looks disappointed.
+
+CUT TO: INT. THE WHITE HOUSE - FOUR YEARS AGO
+
+JEFF JOHNSON
+(enters lobby) Donna?
+
+DONNA
+Yeah.
+
+JEFF
+Jeff Johnson. Come on back.
+
+DONNA
+This is incredibly nice of you.
+
+JEFF
+Well, the guy before did it for me, so who knows? Maybe you'll do it for someone else in 
+four years. 
+
+DONNA
+Eight years.
+
+JEFF
+Whatever. 
+
+They enter the BULLPEN AREA.
+
+DONNA
+Is this where I'll be working?
+
+JEFF
+Who knows? The White House reinvents itself with every administration. It's never the same. 
+There are some things I can tell you that won't be in the briefing. You want to hear them?
+
+DONNA
+Sure.
+
+JEFF
+Never wear your badge off campus. It's like wearing a bull's eye. Don't let your kids get 
+the mail out of your mailbox. You don't know what separatist just sent you a chain mail.
+
+DONNA
+I don't have kids.
+
+JEFF
+Good, because there are days when you're gonna need to get here at eight, maybe even earlier, 
+and not go home till six or seven. What else? The iodine tablet. Some people take 'em; some 
+people don't. I did, but you can ask your doctor.
+
+DONNA
+What's the iodine for?
+
+JEFF
+Uh, it protects your thyroid from the radiation.
+
+DONNA
+And why is there radiation?
+
+JEFF
+There's an XW-9 warhead in a silo 93 feet below the Eisenhower putting green. They say it's not 
+enough radiation to hurt you, but do you really want to take chances with something like that?
+
+DONNA
+Really? Wow. God, no.
+
+JEFF
+Listen, before I forget, I've gotten hit up for a favor. My girlfriend's a stringer for a teen 
+magazine. It's called 21.
+
+DONNA
+Sure.
+
+JEFF
+With all the people coming in, they want to do a story and you've been visible and with the 
+way you look... Any chance she could get a ten-minute phoner?
+
+DONNA
+No problem. You can give her the number.
+
+JEFF
+Great. You ready for lunch?
+
+DONNA
+Yeah.
+
+JEFF
+Where to?
+
+DONNA
+You tell me. I don't know anything.
+
+JEFF
+Okay.
+
+CUT TO: INT. OUTSIDE THE INTERIM OFFICE - FOUR YEARS AGO
+
+TOBY
+Everything alright?
+
+ANDY
+Yeah. I couldn't get you on your phone and I was on the tenth floor. They need another sample.
+
+TOBY
+(wary) Why?
+
+ANDY
+There was blackout in Alexandria and the incubator was without power for 45 minutes.
+
+TOBY
+Can we maybe talk about this over here? 
+
+They walk away from the door to the offices.
+
+TOBY
+A blackout in Alexandria? 
+
+ANDY
+It's a cab ride. Just go over. You're in. You're out. No sweat.
+
+TOBY
+No it's not no sweat. In fact, it's a bit gruesome.
+
+ANDY
+(amused) It's gruesome?
+
+TOBY
+It's... something. You get off on the 4th floor, which is clearly marked for all the other 
+passengers on the elevator to read that it's the fertility clinic. And you're trying to show 
+with your body language that it's not you and that's impossible to show with body language. 
+An 84-year-old Welsh nurse hands you a brown paper bag with a cup and a video and points you 
+toward a room, where I won't even tell you the name they have for this room.
+
+ANDY
+What's the name?
+
+TOBY
+I won't tell you.
+
+ANDY
+Why?
+
+TOBY
+It's not a good out loud word. You take the longest walk of your life back to the Welsh nurse, 
+who takes the cup out of the bag and says, "Very nice."
+
+ANDY
+Honey, I need you to do this now. There's a timing thing.
+
+TOBY
+Can't it possibly wait until next week...
+
+ANDY
+(overlapping him) I thought maybe today I could...
+
+TOBY
+(snaps angrily) It's January 15th, Andy. I can't have a baby today. He's getting sworn in five 
+days. I'm not saying never. I'm saying, can we wait five days?
+
+ANDY
+(conceding) Sure. How's it going?
+
+TOBY
+Rooker's going to be the AG. 
+
+He walks away toward the offices. 
+
+CUT TO: EXT. OUTSIDE THE DEBATE CAMP - PRESENT
+
+KENNY 
+(calls out) Mr. Ziegler?
+
+TOBY
+Yeah?
+
+KENNY 
+I'm sorry for shouting. Joey says she's ready.
+
+TOBY
+I'm sorry?
+
+JOSH
+Electoral math.
+
+Josh, Sam and Toby grab their jackets and stuff and follow Kenny. 
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. SAYBROOK INSTITUTE - DAY
+An interactive map of the U.S. is on the wall.
+
+JOSH
+When do you suppose Georgia got so far out of reach? Was it 'cause we... burned it down?
+
+SAM
+I was going to say.
+
+JOEY
+Okay, let's start. (KENNY) I'm taking Ohio out of the red and putting it back in play.
+
+Joey touches the screen, changing Ohio from red, back to gray.
+
+TOBY
+How much money is it going to take to win there?
+
+JOEY
+A lot more than we have there. We're on the air in 18 of the top 25. There's no new money 
+to spend on this. We're going to have to move it...
+
+TOBY
+I'm going to stop you there. Joey, I-I can't go to him with it.
+
+JOEY (KENNY)
+Let me go to him with it. Let Bruno.
+
+C.J.
+No, I'm with Toby. I don't think you understand how the President feels about his home state. 
+He's a New Hampshire Bartlet. It's been home for centuries. He's a Democrat elected to the 
+statehouse with close to 60% and the fact that the state's in play is a real embarrasment for 
+him. He doesn't want to campaign there because that's embarassing too, but we really can't...
+
+JOEY (KENNY)
+C.J., I'm trying to tell you it's not in play anymore.
+
+JOSH
+Joey, no kidding-- if you asked the President which he'd rather win, New Hampshire or the 
+election, he'd have to think before he answered. Put a pin in it; we'll come back after prep. 
+Thanks.
+
+The staffers get up and walk to the prep room. Joey touches the screen changing 
+New Hampshire from undecided to Ritchie's.
+
+CUT TO: INT. DEBATE PREP ROOM - CONTINUOUS
+
+LARRY
+President Bartlet, the next questions to you. Governor Ritchie contends there's a crisis in 
+the American family that parents aren't spending enough time with their kids.
+
+JOSH
+We're trying this again. Sorry.
+
+LARRY
+Yeah. And that your solution is essentially to have government raise children.
+
+BARTLET
+Well, that's an extraordinary and unsurprisingly dumb interpretation of what it is my 
+administration's trying to accomplsh. 
+
+The staffers applaud.
+
+BARTLET
+It's hard enought to rasie kids today with help from family leave, subsidized daycare, preschool-- 
+we need more of it, not less.
+
+SAM
+The government can't raise kids, Mr. President-- parents have to.
+
+BARTLET
+I have three grown daughters, Governor. You really want to tell me how I should raise my family? 
+You're really comfortable with that?
+
+JOSH
+There it is.
+
+BARTLET
+You want to tell other American fathers and mothers what they're doing wrong?
+
+SAM
+Sir, I did not say...
+
+BARTLET
+I didn't think you did. So, why don't we stick to what government can do-- which is collect money 
+and distribute it-- and stop wasting time by sentimentalizing family.
+
+ALL
+Whoa, whoa, whoa.
+
+LARRY
+That's... not good, sir.
+
+SAM
+We just lost the vote of every stay-at-home mom and their husbands who are henpecked.
+
+BARTLET
+Who are you now?
+
+SAM
+Yes, sir.
+
+TOBY
+I like the aggressive answer. It's just right.
+
+LARRY
+We're letting Ritchie put him on the oppisite side of values. Lead with "I'm the proud father of..."
+
+BARTLET
+That wasn't the question, Larry. The question was, "What do I have against families?" and 
+the answer is I have nothing against them at all.
+
+C.J. has gotten up and walk to the back where Josh is.
+
+C.J.
+Josh...
+
+BARTLET
+They simply aren't mentioned in the Executive Powers section.
+
+C.J.
+Larry's right, we have to put him on the right side of this. He is on the right side of this, 
+but we need help with the answer.
+
+JOSH
+You're asking me to do that which I don't want to do, right?
+
+C.J.
+Yes.
+
+JOSH
+Okay.
+
+C.J.
+I have a press briefing.
+
+CUT TO: INT. PRESS ROOM - FLASHBACK
+
+	BARTLET WHITE HOUSE
+	TWO DAYS AFTER INAUGURATION
+
+C.J. walks into the dark Press Room. She begins a mock press briefing with only Carol sitting 
+in the audience.
+
+C.J.
+Good afternoon. Today is January 22nd. Let me brief you on the President's morning schedule. 
+He started with... How's that?
+
+CAROL
+Good.
+
+C.J.
+Yeah?
+
+CAROL
+Yeah.
+
+C.J.
+You sure?
+
+CAROL
+Yeah.
+
+C.J.
+You don't care.
+
+CAROL
+No.
+
+C.J.
+Okay.
+
+CAROL
+I've got boxes to unload.
+
+C.J.
+I'm going to stay here and practice.
+
+Carol gets up and leaves the room.
+
+C.J.
+No, David, the President was very clear about that. Mark, then Katie. Mark, Katie, Jessie, 
+Phil, Steve, Betsy, Julie, Julie, Julia, Kevin, Paul, Tom, Sondra, Suzanne... (sighs) Mike, 
+Danny... Elizabeth. 18th seat. 18 you can vote... "vote" sounds like "moat"... which is a 
+trench-- Trent.
+
+BILL STARK
+(enters) Excuse me, C.J.
+
+C.J.
+Yeah?
+
+BILL STARK
+Bill Stark. I'm with "Kingspeak." We're a magazine that reaches over 600,000 Christians 
+Evangelicals. I'm sorry I missed your first briefing. I heard you did well.
+
+C.J.
+I can do better.
+
+BILL
+I wanted to tell you that on December 10th, all 600,000 will be praying for you.
+
+C.J.
+Really?
+
+BILL
+That's right.
+
+C.J.
+I don't understand.
+
+BILL
+Well, once a year, we identify the 365 most influential people in media and we assign each of 
+them a calendar day and we pray for them.
+
+C.J.
+I really don't know what to say in response to that sort of kindness.
+
+BILL
+Well... maybe the Administration will reconsider their position on some issues?
+
+C.J.
+Like what?
+
+BILL
+Um... school prayer?
+
+C.J.
+I think the President's pretty much made up his mind.
+
+BILL
+Millions of Americans want it. There are a lot of votes there.
+
+C.J.
+Yes, but we got as many as we needed for now, so...
+
+BILL
+Just wanted to say hi.
+
+C.J.
+I'll see you around.
+
+BILL
+Oh, by the way... Just so you don't think we disagree on everthing, I think Cornell Rooker 
+is terrific.
+
+C.J.
+Really?
+
+BILL
+Back in the day we served on a city counsel together. First African-American man I've ever 
+heard make sense on racial profiling.
+
+CUT TO: INT. THE OVAL OFFICE - FLASHBACK
+
+MRS. LANDINGHAM
+Look at this. Leonardo DaVinci. "Madonna and child with a pomegranate."
+
+BARTLET
+It's nice.
+
+MRS. LANDINGHAM
+Here's Botticelli. "Adoration of the Magi."
+
+BARTLET
+What are we doing right now?
+
+MRS. LANDINGHAM
+We're choosing pictures from the collection at the National Gallery.
+
+BARTLET
+They'll loan stuff?
+
+MRS. LANDINGHAM
+Anything you want in the National Gallery or the whole Smithsonian.
+
+BARTLET
+Really?
+
+MRS. LANDINGHAM
+Yeah.
+
+BARTLET
+I want Apollo 11.
+
+MRS. LANDINGHAM
+Well, you can't have that.
+
+BARTLET
+Then don't bother me.
+
+MRS. LANDINGHAM
+Sir...
+
+BARTLET
+I'm meeting with the leadership, I'm signing six Executive Orders I don't yet understand...
+
+Someone knocks on the door. Leo enters.
+
+LEO
+Mr. President.
+
+BARTLET
+God, I thought that was a closet.
+
+LEO
+It's my office!
+
+BARTLET
+All right, the rooms got four doors, it's huge.
+
+LEO
+I want to run through these Executive Orders.
+
+Bartlet notices C.J. hanging outside the Oval Office door.
+
+BARTLET
+Do you understand them?
+
+LEO
+Not quite yet.
+
+BARTLET
+C.J., what are you doing?
+
+C.J.
+I'm sorry, sir. I just wanted to see Leo.
+
+BARTLET 
+[points to Leo] He's standing right there.
+
+C.J.
+Yeah.
+
+BARTLET
+Would you get your ass in here? Could everyone stop acting strange?
+
+LEO
+What's up?
+
+C.J.
+A reporter for a conservative Christian magazine introduced himself and happened to serve on 
+a city counsel with Rooker, which is true-- it was in Miami.
+
+BARTLET
+Yeah.
+
+C.J.
+The reporter said that he liked Rooker's position on racial profiling.
+
+LEO
+That's strange.
+
+C.J.
+No, it's not. We found the transcript. "I'm not saying it should be active policy, but there 
+is no question in my mind that in certain situations, racial profiling can be helpful to law..."
+
+BARTLET
+Law enforcement?
+
+C.J.
+Yeah.
+
+BARTLET
+It's our second day, how do you think it's going so far?
+
+LEO
+We'll get into it.
+
+BARTLET
+Yes.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: EXT. WASHINGTON, D.C. - DAY 
+Amy is riding her bike.
+
+AMY
+And down the stretch, here she comes. Here comes Gardner. She's going to take the yellow 
+jersey pass the picturesque farms and hillsides and Champs d'leamp and the white cliffs of 
+Dover. Where do the American's find this kind of spirit? 
+
+Her cell phone rings.
+
+AMY
+Her cell phone's ringing now-- probably a sponsor. Hello?
+
+JOSH
+It's Josh.
+
+AMY
+Hello.
+
+JOSH
+You're breathing very hard.
+
+AMY
+I'm riding.
+
+JOSH
+Then what are you doing?
+
+AMY
+Later?
+
+JOSH
+Yeah.
+
+AMY
+With Peter Harlow.
+
+JOSH
+How's Peter's wife?
+
+AMY
+They're separated.
+
+JOSH
+Yes, I know.
+
+AMY
+What do you need?
+
+JOSH
+How do we stand strong for the modern family in all its quirks and not seem like we're dissing 
+everyone born before 1962?
+
+AMY
+By doing it.
+
+JOSH
+You'll think about it?
+
+AMY
+Yeah.
+
+JOSH
+Thank you.
+
+CUT TO: INT. NORTHWEST LOBBY - FLASHBACK
+
+	BARTLET WHITE HOUSE
+	FIVE DAYS AFTER INAUGURATION
+
+Sam is in the lobby trying to figure out a map of the West Wing, when Josh walks up.
+
+JOSH
+You're going to this meeting?
+
+SAM
+Yeah.
+
+JOSH
+WW-160, you been able to find it?
+
+SAM
+I don't even know where I am right now.
+
+JOSH
+I'm looking on this side again.
+
+SAM
+Do you mind if I talk to you while we walk?
+
+JOSH
+Well, we may as well get used to having meetings in the corridors from now on. It may be our 
+only hope. I know now why they made the Oval Office a special shape.
+
+SAM
+Six new editorials-- NAACP, the Urban League, La Raza...
+
+JOSH
+NAACP doesn't want to see a black Attorney General?
+
+SAM
+No, I think they do, but they also stand for the ones who get pulled over for having too nice a car.
+
+JOSH
+Thank you.
+
+SAM
+Intergovernmental's also...
+
+JOSH
+I'm talking to intergovernmental. Does anybody know where WW-160 is?! Hi. I'm Josh Lyman. You all 
+work for me. Does anybody know where WW-160 is?
+
+GINGER
+I haven't seen it.
+
+JOSH
+That one hasn't seen it. She's... you know, she's keeping an eye out though.
+
+SAM
+I don't think he's going to be confirmed. I think the first thing that's going to happen to us 
+is we're going to lose the confirmation battle... And spend the next four years with two outs 
+and a full count. If we pull him out now, it's a story for a day and a half, until we announce 
+the next guy. If we wait a week...
+
+JOSH
+This is the guy. This is the story.
+
+SAM
+Good. 'Cause you know why? 'Cause hubris always wins in the end. The Greeks taught us that.
+
+Josh and Sam walk into LEO'S OFFICE.
+
+JOSH
+We were looking for West Wing 160.
+
+LEO
+Yeah, I think it's in the Kremlin. Let's just meet here.
+
+JOSH
+Leo, this is a strong deserving nominee. Sam, it's not hubris. He should be Attorney General.
+
+SAM
+Yeah, but he's not going to be. So let's take it from there.
+
+LEO
+No, the President doesn't want to give it up yet.
+
+TOBY
+Let's line up people for IP, the mornings... "Cornell Rooker has an exceptional record as a 
+U.S. attorney... a leader in fighting employment discrimination...was college chair of... 
+He's tough on crime, he's fair on justice." That's the line. Say that. Do not say that. What 
+the hell was that? "He's tough on crime, he's fair on justice." Sings a song, has a moustache? 
+What is that supposed to...
+
+C.J.
+Toby's gone to the zoo.
+
+LEO
+Yeah, I think we may have killed these two guys with Inauguration.
+
+SAM
+Leo, I beseech you-- let me take a pass at some remarks the President can make withdrawing 
+the nomination. We're going to do it anyway, let's do it now.
+
+JOSH
+Here it is. "Take a thorough look at Cornell Rooker's record, you'll see...
+
+TOBY
+Yes.
+
+JOSH
+...he's fought for justice his entire carer. If you take a thorough look at Cornell Rooker 
+record, you'll see he's fought for justice his entire career."
+
+TOBY
+I don't want to be able to turn my head tomorrow without reading that quote.
+
+JOSH
+Anything else?
+
+LEO
+No.
+
+JOSH
+Thank you.
+
+They walk out the HALLWAY, where Donna meets them.
+
+DONNA
+Hey... I don't think there is a WW-160.
+
+JOSH
+Yeah, hey. How do you do?
+
+DONNA
+What?
+
+JOSH
+Guess what I have here. It's a copy of "21 Magazine." It's for "Generation Now!"
+
+DONNA
+Is my thing in there?
+
+JOSH
+Yuh-huh.
+
+DONNA
+What?
+
+JOSH
+"In sleek Celia Yang slacks and a classic DKNY button-down, she's not afraid to bring a note of 
+'Let's do drinks after work' to the office." 
+
+DONNA
+That's totally untrue, but I do like the sound of it.
+
+JOSH
+"But as much as we love her style, we worry about her inexperience and Bambi-esque naivete. 
+'There's so much to learn,' says Moss. 'I didn't even know there was a nuclear missile silo 
+under this place.'"
+
+DONNA
+I didn't.
+
+JOSH
+There's not!
+
+DONNA
+There is!
+
+JOSH
+Who told you that?
+
+DONNA
+Jeff, when I met him for lunch.
+
+JOSH
+Let me take a guess at something. Jeff set you up with a reporter, right?
+
+DONNA
+His girlfriend.
+
+JOSH
+You probably didn't even bring this up, right? The girlfriend led you there?
+
+DONNA
+Bambiesque?
+
+JOSH
+As does pertain to Bambi. There's a reason why we keep these missile silos way out the hell 
+in the middle nowhere. It's 'cause they're working with some pretty nasty materials. Also, 
+there's not much point in keeping nuclear secrets from China when all they have to do is take 
+the free tour. Did it really sound right to you, when he said it? What'd you think, we'd go 
+to war, and Hercules rockets come flying out of the Rose Garden?
+
+DONNA
+The Eisenhower Putting Green.
+
+JOSH
+Oh, my God!
+
+DONNA
+I'm too stupid to live.
+
+JOSH
+This is just like when I played the lead in "Li'l Abner" in eighth grade and rehearsals are 
+going fine. All of a sudden there's sets and lights and costumes, and everyone's tripping all 
+over themselves except me. You guys all walked into the building and got freaked by the lights. 
+I walked in and, you know, something else happened.
+
+DONNA
+Well, we can't all be you.
+
+JOSH
+You all can try a little harder to be.
+
+DONNA
+For sure I'm not taking the iodine tablets.
+
+JOSH
+I should be sitting at my desk right now. Do I have a desk yet?
+
+DONNA
+No.
+
+JOSH
+Okay. Then I'll just... walk around some more... see if I can get into a pickup meeting.
+
+CUT TO: INT. LIGHTED PATH AT SAYBROOK INSTITUTE - PRESENT, NIGHT
+
+	SAYBROOK INSTITUTE 7:45 P.M.
+
+Toby is walking along the path when Charlie catches up to him.
+
+CHARLIE
+Toby?
+
+TOBY
+Yeah?
+
+CHARLIE
+You going to dinner?
+
+TOBY
+Yeah.
+
+CHARLIE
+I'm a bad friend. I should've been there for you.
+
+TOBY
+Okay, but I-I don't know what you're talking about.
+
+CHARLIE
+Josh and Sam talked to me. I'm on board.
+
+TOBY
+With what?
+
+CHARLIE
+Team Toby.
+
+TOBY
+See, I lent voice to thought and that was my mistake.
+
+CHARLIE
+If you want to marry Andy, then, damn it, so do I...
+
+TOBY
+Okay.
+
+CHARLIE
+...want that, you know, to happen to you.
+
+TOBY
+I get it.
+
+CHARLIE
+Do you? Because this is about love.
+
+TOBY
+I think you have a different motivation.
+
+CHARLIE
+Laughs?
+
+TOBY
+Yes.
+
+CHARLIE
+Sure, but also as much love, really, as I think either one of us are comfortable with.
+
+TOBY
+Yes.
+
+CHARLIE
+Well, let me start here: have you asked her?
+
+TOBY
+Yes.
+
+CHARLIE
+And she said no?
+
+TOBY
+This is excruciating.
+
+CUT TO: INT. TOBY'S OFFICE - FLASHBACK
+
+ANDY
+You're going to give me your white blood cells... not all of them, but as many as I want.
+
+TOBY
+Why?
+
+ANDY
+Because you love me.
+
+TOBY
+No, wha... uh... What's the matter with your white blood cells?
+
+ANDY
+Nothing. It's my immune system. It's not... recognizing that a pregnancy isn't something 
+it's supposed to attack. So, they draw blood from you... like a rabid dog -- clean it, 
+thank goodness... and give me injections of your blood cells to build up tolerance. You 
+know how you're always saying you wish people were more like you? Well... The guy's had 
+a lot of success.
+
+TOBY
+You don't have to sell me. It sounds like something we should try... But let me ask you 
+something, and bear in mind that I'm happy, I'm... eager to go to as many doctors as there 
+are... but should we talk about a stop date?
+
+ANDY
+You mean talk about adoption?
+
+TOBY
+Yeah, we can talk about adopting.
+
+ANDY
+You meant a stop date stop date.
+
+TOBY
+I meant adopting. I meant surrogacy. And yes, I love kids and I want them and I don't have 
+to have them. And I don't have to have them...
+
+ANDY
+I want them.
+
+TOBY
+And I'm there.
+
+ANDY
+Okay. You're getting killed on Rooker.
+
+TOBY
+No kidding.
+
+ANDY
+Hey, C.J.
+
+C.J.
+Is he in there?
+
+ANDY
+Yeah. Is anything wrong?
+
+C.J.
+No...
+
+C.J.
+There's a problem.
+
+TOBY
+I just said a stupid thing. What's the problem?
+
+C.J.
+Well, I did a one-on-one with Danny Concannon a few days ago on Rooker.
+
+TOBY
+Did you say, "If you take a thorough look at Cornell Rooker's record...?"
+
+C.J.
+Yes, as a matter of fact.
+
+TOBY
+And?
+
+C.J.
+He did.
+
+TOBY
+Oh, man.
+
+C.J.
+A DUI got fixed in law school. He doesn't want to write about the DUI as much as he wants to 
+write about us being the Capitol Clampettes. What was the stupid thing that you said?
+
+TOBY
+Doesn't matter. Let's fix this.
+
+CUT TO: EXT: PATIO AT SAYBROOK INSTITUTE - PRESENT
+Toby and Charlie have now arrived where they will be serving dinner. Sam, Ed, Larry, and other 
+staffers are up front singing a song.
+
+SAM, ED, LARRY, and STAFFERS
+"Gaudeamus igitur
+Juvenes dum sumus
+Post jucundum juventutem
+Post molestam senectutem
+Nos habebit humus
+Nos habebit humus."
+
+JOEY (KENNY)
+What was that?
+
+SAM
+It's an old camp song.
+
+JOEY (KENNY)
+What's it mean?
+
+SAM
+"Let us be merry, therefore while we are young men. After the joys of youth, after the pains 
+of old age, the ground will have us." It's true.
+
+JOEY (KENNY)
+How can I get you onboard with me?
+
+SAM
+New Hampshire?
+
+JOEY
+Yeah.
+
+SAM
+By coming out with me.
+
+JOEY (KENNY)
+On what?
+
+SAM
+The President's got to spend a little more time in congressional districts we're not going to win.
+
+JOEY (KENNY)
+Why would he spend any time in districts...?
+
+SAM
+To build Democratic momentum in the very places we traditionally tank. We're running comically weak 
+candidates in these districts. The Tennessee 7th, Horton Wilde in Orange County; he's in the hospital 
+with his fourth heart attack. Who the hell knows when he's going to resume a campaign schedule.
+
+JOEY (KENNY)
+I can't make a pitch about putting resources in the right places and then advocate sending the 
+President to districts where the last Democrat won by railing against Abraham Lincoln.
+
+SAM
+That's a resonable point.
+
+JOEY (KENNY)
+Will you help me?
+
+SAM
+Yeah.
+
+Josh walks by with a cell phone up to his ear.
+
+CUT TO: INT. RESTAURANT - NIGHT
+Amy and PETER HARLOW are having drinks on a patio outside. Amy's cell phone is ringing, 
+but she is ignoring it.
+
+PETER HARLOW
+I have to say you look good.
+
+AMY
+Thank you.
+
+PETER
+I don't remember you looking this good. Is something different?
+
+AMY
+I don't know, the autumnal equinox is usually good to me, but...
+
+PETER
+I think that's your cell phone that's been ringing.
+
+AMY
+Yes. Excuse me. (answers her phone) Hello?
+
+JOSH (VO)
+Hey.
+
+AMY
+Hello.
+
+JOSH (VO)
+You on your date?
+
+AMY
+Well, I wouldn't call it that.
+
+JOSH
+Listen, you probably don't want to let him know it's me on the phone. It's too intimidating. 
+It's like going out with Cher and Sonny calls.
+
+AMY
+How can I help you?
+
+JOSH
+Any thoughts?
+
+AMY
+Yes, Ritchie's right. There's a family crisis in America.
+
+JOSH
+So a radical feminist is saying women should stay home with the kids?
+
+AMY
+First of all, I don't think I'm a radical anything. Second of all, who said women should stay home? 
+And third is, it's the capitalist treadmill that encourages scheduling quality time on a Palm Pilot. 
+That's not how they do it in Scandinavia.
+
+JOSH
+But everybody kills themself in Scandinavia.
+
+AMY
+That's hard to deny.
+
+JOSH
+We need to defend our accomplishments on work and family, many of which you pushed for and show 
+that we get what working parents are going through. Can you help us?
+
+AMY
+Yes.
+
+JOSH
+I'll call back. What would be a really bad time?
+
+AMY
+Oh, really anytime.
+
+JOSH
+Outstanding.
+
+CUT TO: INT. JOSH'S OFFICE - FLASHBACK
+
+DONNA
+Josh?
+
+JOSH
+Yeah?
+
+DONNA
+There's a Mr. Michael Gordon here to see you.
+
+JOSH
+Does he have an appointment?
+
+DONNA
+No, he's with the NSA.
+
+JOSH
+NSA? Send him in.
+
+MICHAEL GORDON
+Mr. Lyman?
+
+JOSH
+Yeah.
+
+MICHAEL
+Mr. Gordon.
+
+JOSH
+Donna says you're with the NSA.
+
+MICHAEL
+I'm not here to bug your office.
+
+JOSH
+Yeah, but you wouldn't tell me of you were, right?
+
+MICHAEL
+It's about Miss Moss, as a matter of fact.
+
+JOSH
+What's the trouble?
+
+MICHAEL
+Probably nothing, but a few days ago, a teen magazine published a short interview with her.
+
+JOSH
+Yeah, look, the old guys were playing a joke on her. I realize it's not a good idea for a White 
+House staffer to be saying there's a missile in the capitol.
+
+MICHAEL
+Well, the problem is, joke or not, she it a little close to him for our comfort.
+
+JOSH
+What do you mean?
+
+MICHAEL
+Obvioulsy I can't elaborate.
+
+JOSH
+"She hit a little close to home"?
+
+MICHAEL
+Yeah.
+
+JOSH
+You trying to tell me...?
+
+MICHAEL
+Mr. Lyman, you don't have code-word clearance. We need to stay professional.
+
+JOSH
+Yeah.
+
+MICHAEL
+How long has she been working for you?
+
+JOSH
+Listen, this... this is silly. She was just duped. It was a joke.
+
+MICHAEL
+How long has she been working for you?
+
+JOSH
+This is a giant misunderstanding.
+
+MICHAEL
+Mr. Lyman...
+
+JOSH
+I would vouch for Donna with my life. She doesn't know about missiles. She's from Wisconsin!
+
+MICHAEL
+I'm simply asking how long she's been working for you.
+
+JOSH
+No, look, I'm sorry. I'm sure your intentions are good, and this is just routine, but it could 
+get tricky, and I'd like to have her talk to someone.
+
+MICHAEL
+A lawyer?
+
+JOSH
+Yeah.
+
+MICHAEL
+Suit yourself, but until this is straightened out, I'm going to have to revoke her credentials.
+
+JOSH
+She's my assistant. For how long?
+
+MICHAEL
+As long as it takes.
+
+JOSH
+All right.
+
+MICHAEL
+Thank you.
+
+Michael leaves Josh's office. Josh walks to his door and calls Donna.
+
+JOSH
+Donna...
+
+DONNA
+What was that?
+
+JOSH
+You got to go home.
+
+DONNA
+Why?
+
+JOSH
+That idiot interview you did, pooped a red flag at NSA. They're revoking your credentials 
+until it's straightened out.
+
+DONNA
+I don't believe it.
+
+JOSH
+I'm talking to someone in Cochran's office.
+
+DONNA
+What am I suppose to do?
+
+JOSH
+Take a few days off. Go home. Go to the beach.
+
+DONNA
+It's February 2nd.
+
+JOSH
+Well, then, I wouldn't go to the beach.
+
+DONNA
+You've got a meeting in Leo's office.
+
+JOSH
+Don't worry about this. I'm going to fix this.
+
+CUT TO: INT. PATIO AT SAYBROOK INSTITUTE - NIGHT
+The staffers have finished eating dinner and are hanging out.
+
+C.J.
+The President's not going to be available for a little bit.
+
+JOSH
+Why?
+
+C.J.
+Fitzwallace just got here.
+
+JOSH
+Any idea what's going on? 
+
+C.J. shakes her head no, then walks away.
+
+JOSH
+All right. Listen up. We still have an open question on family, we still have an open question 
+on Rooker, missile defense, and vouchers. We start dress rehearsals tomorrow at 3:00. Let's 
+split up in our groups. I really want vouchers by 10:00, missile defense by 11:00.
+
+SAM
+Anybody not doing anything at midnight-- Team Toby, my cabin.
+
+TOBY
+Good.
+
+JOSH
+Break's over.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT: TEMPORARY SITUATION ROOM - NIGHT
+
+	SAYBROOK INSTITUTE, 10:15 P.M.
+
+MILITARY AIDE
+Ten-hut!
+
+BARTLET
+Thanks for coming down.
+
+LEO
+What's going on?
+
+FITZWALLACE
+The Mastico, a 200-foot Qumari cargo ship is heading east in the Mediterranean, toward Lebanon.
+
+LEO
+Is it carrying Qumari arts and crafts?
+
+FITZWALLACE
+No, it's carrying 72 tons of weapons and explosives, including a Multiple Launch Rocket System.
+
+LEO
+This fires twelve warheads with 644 M-77 munitions. It does it in 60 seconds.
+
+FITZWALLACE
+The global positioning device on the MLRS is how we found the ship. This is the message in a 
+bottle we've been waiting for.
+
+BARTLET
+They turn around the ship in exchange for what?
+
+FITZWALLACE
+Access to the High Altitude Area Defense program.
+
+LEO
+That's okay, 'cause that's just the most sophisticated anti-ballistic missile system in 
+history short of Star Wars. What else?
+
+BARTLET
+They're arming the Bahji, Leo. Two training camps of which the Israelis just attacked. 
+I've gotta turn around the boat-- tonight. Tomorrow we'll worry about tomorrow.
+
+LEO
+Well, we can invite the Sultan over for a mixer.
+
+BARTLET
+Look...
+
+LEO
+A nice mixer. Punch, sack races, whatnot... Why are we playing games with these people? They 
+refuse to catch and prosecute the Bahji. In fact, they support them in a variety of ways. 
+Why isn't that the end of the conversation? "We'll worry about tomorrow, tomorrow." We said 
+that yesterday.
+
+BARTLET
+Fitz?
+
+FITZWALLACE
+I couldn't agree with Leo more.
+
+BARTLET
+What about Nancy?
+
+FITZWALLACE
+Yeah.
+
+BARTLET
+What's available from the Sixth Fleet?
+
+FITZWALLACE
+One Forward Unit east of the Mastico-- the 26th Marine Expeditionary.
+
+BARTLET
+Stop the boat. Don't shoot it unless I tell you to.
+
+FITZWALLACE
+Yes, sir.
+
+CUT TO: INT. LEO'S OFFICE - FLASHBACK
+
+C.J.
+This doesn't feel food, does it? It's quiet, you know. It's too quiet.
+
+TOBY
+C.J....
+
+C.J.
+Yeah.
+
+Leo enters from the Oval Office.
+
+LEO
+The President has withdrawn Rooker's name from nomination.
+
+SAM
+Well, at least it's behind us.
+
+LEO
+Not quite. Our report card for our first two weeks in office. The President's approval has 
+gone from 61% during the transition-- when, I suppose, there's nothing to approve-- to 49% 
+once there was. 47% see him as a strong leader-- a result of bungling the Rooker nomination-- 
+and African-American support, which basically elected him, has gone from 92 to 78. Finally, 
+if the election were held today, the President would be Chairman of the Economics Department 
+at Phillips Andover Academy. Can anyone report anything good?
+
+C.J.
+600,000 Evangelicals are praying for me... so... we have that going for us.
+
+LEO
+What the hell are yoy talking about?
+
+C.J.
+It's true-- a guy gave me this card: "365 in Media."
+
+SAM
+Who are the others?
+
+C.J.
+I don't know, let's see... "Hugh Hefner, Don Imus, Howard Stern..." all the late-night guys. 
+This is... one, two, three... this is the Editorial Board of The New York Times. This isn't a 
+good list, this is a list of people who are going to hell!
+
+TOBY
+Yes.
+
+C.J.
+They're not praying for me because they like me! It's 'cause I'm doomed to eternal damnation!
+
+SAM
+Well, if you weren't, it'd be a waste of praying.
+
+C.J.
+You're on the list too, pal.
+
+SAM
+Can I see that?
+
+LEO
+You can all leave.
+
+JOSH
+We're going to do better for you, boss.
+
+LEO
+Do better for him.
+
+C.J.
+We will.
+
+TOBY
+We will.
+
+Josh and Sam walk out to the HALLWAY.
+
+JOSH
+Sam...
+
+SAM
+Yeah.
+
+JOSH
+Can you walk with me a second?
+
+SAM
+Yeah.
+
+JOSH
+Well, you were right, I was wrong.
+
+SAM
+More often then not, it's going to be the other way around, so...
+
+JOSH
+Thanks. Listen, I got a weird problem.
+
+SAM
+What?
+
+JOSH
+Remember Donna had lunch with Mack's assistant a few weeks ago? He told her there's a missile 
+silo on the grounds. She repeated it to a magazine and an NSA guy came to see me just now, and 
+said she struck a little close to home and they want to investigate. In the meantime, they've 
+revoked her credentials.
+
+SAM
+"Struck to close to home." What does that mean?
+
+JOSH
+It means somehow she... There's actually some kind of weapons system right here on the White 
+House... or... intelligence gathering... Wait a minute. This doesn't sound right.
+
+Josh stops in the NORTHWEST LOBBY and thinks about what he's saying. He turns to Sam then walks 
+off to his BULLPEN, where he's sees Donna sitting with Michael Gordon at her desk.
+
+JOSH
+Hi.
+
+DONNA
+Hey. Just... hanging with my friend Michael. He works in the staff secretary's office. Plus, 
+he's got his own band. By the way, you know what your name is for the next month?
+
+JOSH
+It's going to be bambi, isn't it?
+
+DONNA
+Yeah, it's going to be Bambi-ass. But on your good days, I'm calling you Abner 'cause you 
+stepped into the White House and didn't flinch.
+
+Josh shakes Michael's hands then begins to walk to his office leaving Donna wearing the smile 
+of victory.
+
+JOSH
+I'm making phone calls.
+
+CUT TO: INT. SAYBROOK INSTITUTE - PRESENT, NIGHT
+Josh is on his cell phone calling Amy.
+
+AMY
+Yeah?
+
+JOSH
+How you doing?
+
+AMY
+I'm freezing.
+
+JOSH
+Where are you?
+
+AMY
+I'm at my front door.
+
+JOSH
+Well, go inside.
+
+AMY
+I can't, I'll lose you.
+
+JOSH
+You'll never lose me, Amy.
+
+AMY 
+[beat] Please don't say that.
+
+JOSH
+What do you have?
+
+AMY
+I don't have anything.
+
+JOSH
+I don't believe you.
+
+Amy begins to talk as Josh runs to put the phone to C.J.'s ear so she can write down what 
+Amy's saying.
+
+AMY
+I don't know what you want me to say. I want women to have help from the government. I want 
+women to earn what men earn. I want everyone to earn enough so that everyone can make the 
+right choice for their family, and after that, it's none of your business who stays home and 
+who goes to work. You don't know more about raising a family than I do.
+
+JOSH
+That was it. We got it. We'll give it a test. I'll call you back. Probably around 1:00.
+
+AMY
+A.M.?
+
+JOSH
+Yeah.
+
+AMY
+Good.
+
+Josh hangs up.
+
+JOSH
+Let's get that in the form of an answer.
+
+Toby walks in with Charlie.
+
+C.J.
+We got something from Amy.
+
+TOBY
+Good.
+
+CHARLIE
+He was wondering, the Team Toby meeting. Toby doesn't need to be there, right?
+
+TOBY
+I wasn't really wondering.
+
+JOSH
+Why don't you just do your job as a man and get that nice girl pregnant.
+
+TOBY
+I did.
+
+JOSH
+Wait, what?
+
+C.J.
+What?
+
+TOBY
+Andy's pregnant.
+
+JOSH
+Toby, Andy's pregnant?
+
+TOBY
+With twins.
+
+SAM
+This is incredible.
+
+JOSH
+And they're yours?
+
+TOBY
+Yeah.
+
+JOSH
+Both of them?
+
+TOBY
+I'm going downstairs.
+
+Toby leaves, and C.J. hits Josh for asking such a stupid question.
+
+CHARLIE
+Well, we're going to have to step this up now.
+
+C.J.
+Yeah.
+
+SAM
+Let's go.
+
+Josh, Charlie, and C.J. leave to go the DEBATE ROOM. Sam is in the room alone when Bartlet enters.
+
+BARTLET
+Hey.
+
+SAM
+Good evening, Mr. President.
+
+BARTLET
+Did you have a good day?
+
+SAM
+Yes, sir. We haven't found the answer we like on the Rooker question yet.
+
+BARTLET
+You know what I remember he said to me? He said, "Mr. President, when I hear black footsteps 
+behind me, I'm scared. When I hear white footsteps, I'm not."
+
+SAM
+Well, I think we both know people who's say different. But you have to respect him for voicing 
+such an unpopular opinion amongst people to whom he's a leader.
+
+BARTLET
+You pay for these things for such a long time. Too long, don't you think?
+
+SAM
+I absolutely do... And I don't know why we struggle with it.
+
+BARTLET
+We made a mistake... I corrected it. I'll make more.
+
+SAM
+Yes. Humans can't rebut that. It's prevent defense and has the added merit of being true.
+
+BARTLET
+Am I going to lose New Hampshire?
+
+SAM
+Yes, sir.
+
+BARTLET
+I don't mind blowing the knucklehead stuff like Rooker... Rooker's not knucklehead, but... 
+if I'm making mistakes there, how do I know I'm not doing it when it comes to matters like 
+death and destruction?
+
+SAM
+Well, probably you don't, 'cause there's no manual. Sir, we expect the President to face the 
+world in his own way, for his own time. Also, luckily for all of us, you have better advisors 
+in that area than you do in domestic and political policy.
+
+BARTLET
+All right. When we're done tonight, we should talk about moving money to Ohio.
+
+SAM
+Yes, sir, and maybe making a stop in Orange County. You know, our candidate in the 47th 
+is such a dynamo that he's in the hospital with his fourth heart attack.
+
+BARTLET
+Not anymore. He's dead.
+
+SAM
+Okay.
+
+BARTLET
+Let's go.
+
+They begin to walk down the stairs to the DEBATE AREA.
+
+BARTLET
+And stay up in my face, okay?
+
+SAM
+Yes, sir.
+
+BARTLET
+I swear to God, the winner of this debate's going to be the next President. Anybody want 
+to be on the losing team?
+
+ALL
+No, sir.
+
+BARTLET
+Then let's pump it up. Let's go, Claudia Jean.
+
+C.J.
+Good evening, and welcome to the Presidential debate between President Josiah Bartlet and 
+Governor Robert Ritchie being brought to you from the Univerisity of California, San Diego. 
+The format agreed to by both candidates, is as follows: A candidate will have 90-seconds to 
+respond, followed with a 60-second questioning by his opponent, followed by 60-second 
+summation. By virtue of a coin toss, Mr. President, the first qestion goes to you.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are a property of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television and NBC. No copyright infringement is intended. 
+
+Episode 4.05 -- "Debate Camp" 
+Original Airdate: October 16, 2002, 9:00 PM EST 
+
+Transcript by: ck1czar and amytych
+December 14, 2002

@@ -1,0 +1,2364 @@
+THE WEST WING
+"THE U.S. POET LAUREATE"
+TELEPLAY BY: AARON SORKIN
+STORY BY: LAURA GLASSER
+DIRECTED BY: CHRISTOPHER MISIANO
+
+TEASER
+
+FADE IN: THE MURAL ROOM - DAY
+The President is having an interview live on television. He sits and watches the 
+broadcaster on television. Camera crews are everywhere. Toby watches nearby.
+
+TV BROADCASTER
+Good morning, Mr. President. Good to have you with us.
+
+BARTLET
+Good to be talking to you.
+
+TV BROADCASTER
+You're talking to us from the Map Room this morning?
+
+BARTLET
+The Mural Room as a matter of fact.
+
+TV BROADCASTER
+Well, welcome to Sunrise Cincinnati, sir. And I know you have only a few minutes, 
+and you want to talk to us about Thursday's prime-time press conference.
+
+BARTLET
+That's right, and Thursday night we're going to talk about energy dependence versus 
+independence and cleaner burning fuels that get up to 80 miles per gallon versus 
+oil-based fuels that pump billions of pounds of pollution into our air and perhaps 
+just as important our vulnerable to very volatile price spikes. We want to talk about 
+controlling our destiny through innovation instead of relying so heavily on foreign oil.
+
+TV BROADCASTER
+Okay, now, you mention foreign oil.
+
+BARTLET
+Yeah. 65% of the world's oil reserves are in the Mid East. 3% are here at home. I, 
+for one, wouldn't mind sending a little less of my money over there and the only 
+alternative is to use less oil.
+
+TV BROADCASTER
+Last question Mr. President. Governor Robert Ritchie of Florida the likely Republican 
+nominee for the fall campaign, in his new book "A Promise to Lead," he says that we 
+should be exploring the Arctic National Wildlife Reserve for new sources of energy. 
+Will this be a hotly-contested campaign topic?
+
+BARTLET
+I hope so, but there'll be plenty of time for campaigning come the fall. Thursday night 
+is about America's energy future.
+
+TV BROADCASTER
+Thank you, very much, President Jed Bartlet. It's 12 past the hour. Don't go away. 
+We'll be back with traffic and weather updates. 
+
+MAN
+And we're out.
+
+TV BROADCASTER
+Thank you very much sir.
+
+BARTLET
+Thank you, Kim.
+
+TV BROADCASTER
+Uh... Terry.
+
+BARTLET
+I'm-- Terry, I'm sorry.
+
+TV BRAODCASTER
+That's all right.
+
+BARTLET
+That was my ninth interview this morning.
+
+TV BROADCASTER
+Are you ready to run against Ritchie?
+
+BARTLET
+Well, I guess we'll be ready to run against whoever we have to run against.
+
+TV BROADCASTER
+What do you think of him?
+
+BARTLET
+Rob Ritchie? I don't know him very well.
+
+TV BROADCASTER
+Well, good luck.
+
+BARTLET
+Thank you.
+
+TOBY
+They all want to talk about Ritchie's book.
+
+BARTLET
+We can talk about my book.
+
+TOBY
+Theory and Design of Macro Economics in Developing Nations?
+
+BARTLET
+Yeah.
+
+MAN
+Okay, sir, we have 2 minutes and 20 seconds and it's WKZN Philadelphia.
+
+BARTLET
+Thanks.
+
+TOBY
+When they say "exploring" you got to say "drilling." There's a 12 point kick with 
+ANWAR between "exploring" and drilling."
+
+BARTLET
+What else?
+
+TOBY
+Saudi Arabia, bad.
+
+BARTLET
+Got it.
+
+C.J.
+How's it going?
+
+TOBY
+Good.
+
+C.J.
+Do you have a minute?
+
+TOBY
+Well, that's all I've got.
+
+We follow Toby to C.J.'S OFFICE.
+
+C.J.
+Could you do me a favor? I just got faxed a letter from Tabitha Fortis. She says she's 
+not comfortable going ahead with the dinner next week unless she gets to chastise the 
+administration for backing off it's commitment to banning land mines. I'm sure its just 
+a matter of hand-holding. Would you ask Sam to talk to her?
+
+TOBY
+I'll do it.
+
+C.J.
+I thought Sam 'cause he's more familiar with land mines.
+
+TOBY
+I'll talk to her.
+
+C.J.
+Why?
+
+TOBY
+'Cause. 
+
+C.J. gets a big grin on her face.
+
+TOBY
+What?
+
+C.J.
+Is it possible you've got a little touch of the poet? Or would like a little touch of the poet?
+
+TOBY
+Yes.
+
+C.J.
+Okay, then learn something about land mines, would you? We don't want to cancel. About 
+300 of the finest minds in the country are coming, plus some Congressmen.
+
+TOBY
+It'll be fine.
+
+C.J.
+Knock 'em dead, de Bergerac.
+
+CUT TO: INT. THE MURAL ROOM - CONTINUOUS
+Toby goes back inside.
+
+TOBY
+Okay.
+
+BARTLET
+Okay what?
+
+TOBY
+Nothing, I just meant, you know, okay.
+
+MAN
+They're back from commercial in 20 seconds.
+
+BARTLET
+Drilling/exploring.
+
+TOBY
+Yes, sir.
+
+BARTLET
+Saudi Arabia bad.
+
+TOBY
+Saudi Arabia very bad.
+
+BARTLET
+Okay.
+
+TOBY
+Okay.
+
+BARTLET
+Why are you smiling?
+
+TOBY
+Happiness is my default position.
+
+BARTLET
+Okay.
+
+TV REPORTER
+And joining us now from the Mural Room of the White House is President Bartlet. 
+Good morning, Mr. President.
+
+BARTLET
+Good morning. Thanks for having me.
+
+TV REPORTER
+And you're here to talk about Thursday's prime-time press conference.
+
+BARTLET
+And to shill for my new energy plan, which is about raising fuel economy standards, working 
+with Detroit to develop hybrid cars, and using tax incentives to promote alternative energy.
+
+TV REPORTER
+Why is alternative energy important?
+
+BARTLET
+After a decade of wars with Iraq and a spread of religious extremism in Saudi Arabia, we 
+still rely on this very dangerous, very uncertain region for a quarter of our oil reserves. 
+And I, for one, wouldn't mind not sending quite so much of my money there.
+
+TV REPORTER
+Now, wouldn't that suggest that Florida Governor Robert Ritchie was correct in his book 
+"A Promise to Lead" when he says we should be opening up the Arctic for exploration? 
+
+BARTLET
+Exploring is what Magellan did and Balboa and Jacques Cousteau. What we're talking about 
+is drilling which is the only way you know if there's oil there and which will forever 
+damage national treasures like ANWAR.
+
+TV REPORTER
+What about Clean Coal?
+
+BARTLET
+Clean Coal is a term that pollsters came up with 'cause it polls higher then regular coal. 
+What we want are real cleaner burning fuels. We want to control our destiny through 
+innovation and that's what we're going to be talking about Thursday night.
+
+TV REPORTER
+Mr. President, thank you very much for being with us today.
+
+BARTLET
+My pleasure.
+
+TV REPORTER
+It's 16 past the hour. We'll be back with traffic and weather as Wake-Up Philadelphia continues.
+
+MAN
+Okay.
+
+TV REPORTER
+Thank you sir, that was terrific.
+
+BARTLET
+Leslie, right?
+
+TV REPORTER
+Yes, sir.
+
+BARTLET
+Thanks a lot.
+
+TV REPORTER
+I mentioned Governor Ritchie's book because I was hoping you'd rise to the bait.
+
+BARTLET
+There'll be plenty of bait in September-October.
+
+TV REPORTER
+Have you read the book?
+
+BARTLET
+I'll read it when he does.
+
+TV REPORTER
+What's your read on him so far?
+
+BARTLET
+I don't know, Leslie. I think we might be talking about a .22 caliber mind in a .357 magnum world.
+
+TV REPORTER
+Okay.
+
+BARTLET
+Okay, thanks again. [to Toby] Who's next?
+
+TOBY
+You were hot.
+
+BARTLET
+What?
+
+TOBY
+When you said that just now. You were hot. They've got it on b-roll.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. C.J.'S OFFICE - DAY
+C.J., Josh and Sam are inside.
+
+JOSH
+How'd the tape get out already?
+
+SAM
+We were just talking about that.
+
+C.J.
+There was a local AP reporter at the station in Philly.
+
+JOSH
+They didn't want to keep it for an exclusive?
+
+C.J.
+It's better for them to have their call letters splashed on every... and the networks 
+will carry it tonight.
+
+JOSH
+This is amateur crap, Sam. How'd it happen?
+
+SAM
+Well, first of all, I wasn't there.
+
+JOSH
+Who was there?
+
+SAM
+My boss. The White House Director of Communications. It wasn't his fault, either. It was 
+eight seconds. It was his tenth interview. He didn't see that the green light was...
+
+JOSH
+All right, you're right. What's first?
+
+C.J.
+I have the briefing room in 20 minutes.
+
+JOSH
+What do you think you're going to get?
+
+C.J.
+Is the President saying Governor Ritchie's stupid?
+
+SAM
+Yes.
+
+C.J.
+No.
+
+SAM
+Yes, is the only answer to that question.
+
+JOSH
+Why not, the President has the highest regard for Governor Ritchie. Believes he's a broad 
+thinker and a dedicated public servant?
+
+SAM
+Because it's the Press Briefing Room, not the Improv. There's no way for her to walk this 
+back. She'll sound disingenuous at best. Naive at worst.
+
+JOSH
+I'm more concerned with how the President sounds.
+
+C.J.
+I've got 80 boys and girls in there who don't make the distinction. And if I pretend Bobby 
+Ritchie's a nuclear physicist...
+
+SAM
+Then don't answer it. We're focusing on energy and dependence this week.
+
+C.J.
+No, we're focusing on this this week. I can try a non-apology apology.
+
+JOSH
+Try it.
+
+C.J.
+"The President didn't realize that the camera was hot and he said something he shouldn't 
+have, as we all do from time to time."
+
+JOSH
+Nice.
+
+SAM
+Yeah. It's a head-fake towards contrition.
+
+JOSH
+And we hold our heads high. All right.
+
+SAM
+Good. We'll see how it goes. (exits)
+
+JOSH
+Why do you suppose this one's so hard to spin?
+
+C.J.
+'Cause it's the classic Washington scandal. We screwed up by telling the truth.
+
+JOSH
+All right. Lets try not to do that that much.
+
+We follow Josh into his BULLPEN AREA where we see Donna, Bonnie, Ginger, and Margaret 
+gathered around Donna’s computer laughing and whispering.
+
+JOSH
+What's going on?
+
+GINGER
+Hi, sugar lips.
+
+JOSH
+I'm sorry?
+
+MARGARET
+Donna struck gold.
+
+JOSH
+What is it?
+
+BONNIE
+LemonLyman.com.
+
+JOSH
+What is it?
+
+DONNA
+It's your fan site.
+
+JOSH
+What are you talking about?
+
+DONNA
+There's a website devoted to all things "Josh."
+
+JOSH
+You're kidding me.
+
+DONNA
+No.
+
+JOSH
+LemonLyman.com?
+
+DONNA
+You have fans, Josh. Not many of them from the looks of it, but what they lack in numbers, 
+they more than make up for in fervor.
+
+JOSH
+What do they talk about?
+
+DONNA
+You. You on "Capitol Beat." You on "Meet the Press." You in "US News" and "World Report."
+
+BONNIE
+Well, there's also the section called "Sightings about Town."
+
+DONNA
+This is reserved for actual Josh encounters of the third kind. Most of which seem to have 
+taken place in restaurants and haberdasheries to which you've never been, unless you're 
+leading a double life, and I think we both know you're not that clever.
+
+JOSH
+LemonLyman.com.
+
+DONNA
+Right now, we're viewing the section devoted to the Josh Fantasy Date. This, it should 
+painfully self-explanatory, is where the women, and more then a few men I gotta say, 
+discuss what they would do with you if...
+
+JOSH
+All right, can everybody who doesn't work here, please go work where they work.
+
+MARGARET
+I want to work here now.
+
+JOSH
+You can get this at your own desk.
+
+MARGARET
+You better believe it.
+
+DONNA
+See you at lunch. 
+
+Margaret, Ginger and Bonnie leave.
+
+DONNA
+All right, you've got Senior Senior Staff at C.O.S., then Senior staff in the Roosevelt Room. 
+There's a meeting with the economic team to pre-brief for Fed Chair, and that's followed 
+immediately by Advance, State, and NSC to go over the next six months of foreign travel.
+
+JOSH
+Let me look at this thing.
+
+He leans over Donna and tries to look at the web site on her computer.
+
+DONNA
+Josh...?
+
+JOSH
+Right. Yes. Let me know when C.J.'s briefing starts.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Leo is placing one of the glass globes back on the President's desk when Bartlet walks 
+in behind him.
+
+BARTLET
+Sorry I'm late.
+
+LEO
+Good morning, Mr. President.
+
+BARTLET
+We hearing from the Michigan delegation?
+
+LEO
+We will. They'll want assurances no mandates, no timetable, make the whole thing voluntary 
+and industry-led.
+
+BARTLET
+Polluters aren't going to write the environmental laws. What about the Energy's Workers Union?
+
+LEO
+They just want to know it's Saudi jobs we're after.
+
+BARTLET
+It is.
+
+LEO
+Look, the money's in raising the CAFE standards to 40 miles per gallon. That's the meeting 
+that's coming to my door.
+
+BARTLET
+What else?
+
+LEO
+You're going to be reprimanded tomorrow night on the house floor.
+
+BARTLET
+For what?
+
+LEO
+It's not nice to call people dumb.
+
+BARTLET
+Let me ask you something. You're pretty dumb, did you take offense? Look at that. I did it again.
+
+CHARLIE
+Mr. President?
+
+BARTLET
+Yeah?
+
+CHARLIE
+She's ready to start.
+
+Leo and Bartlet begin to walk into the OUTER OVAL OFFICE.
+
+LEO
+Seriously, the GOP's lining up a bunch of people for order speeches.
+
+BARTLET
+Calling me impolite?
+
+LEO
+I guess.
+
+NANCY
+He's here. You can send her in.
+
+LEO
+Anyway, the Whip's got about a 150 Democrats ready to rebut. You have any special preferences?
+
+BARTLET
+I don't know. I guess the biggest names.
+
+LEO
+Know what we'd do if we were smart? We wouldn't send anybody. We'd look so good by not 
+showing up. Let them whine by themselves.
+
+We pan from Leo and Bartlet to a TV set in the outer office where we see the press 
+briefing has begun.
+
+REPORTERS (on T.V.)
+Good morning, C.J..
+
+C.J.
+Good morning.
+
+REPORTER 1 (on T.V.)
+C.J., was the President saying that Governor Ritchie isn't up to the job of being President?
+
+C.J.
+The President didn't realize the camera was hot, and he said something he shouldn't have. 
+Something we all do from time to time.
+
+LEO
+Nice.
+
+REPORTER 2 (on T.V.)
+Isn't it a bit early in the season to be going negative?
+
+C.J.
+Yeah, again, he said something he shouldn't have and he wouldn't have if he knew it was 
+going to be for public consumption.
+
+STUART (on T.V.)
+C.J., has he made the same kind of remarks in private?
+
+C.J.
+There's a reason they call it private, Stuart.
+
+BARTLET
+All right, I'm going back to work.
+
+LEO
+All right.
+
+Bartlet and Leo walk out of the room while the camera stays on the TV.
+
+REPORTER (on T.V.)
+C.J., is the President saying that he's smarter than Governor Ritchie?
+
+C.J.
+The voters get to make those kinds of judgments.
+
+REPORTERS (on T.V.)
+C.J.! C.J.!
+
+C.J.
+Yes?
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. THE PRESS ROOM - DAY
+
+	TUESDAY
+
+MARK
+Governor Ritchie is calling on the President to apologize?
+
+C.J.
+Yes.
+
+MARK
+Will he?
+
+C.J.
+As I said yesterday, the President didn't realize the camera was hot and he said 
+something he shouldn't have. Katie?
+
+KATIE
+The Ritchie camp is also challenging the President to sign a pledge basically a promise 
+to run a positive, issue-oriented campaign.
+
+C.J.
+Well, for one thing, while the Governor is the presumptive Republican nominee, it's 
+presumptive. For that matter, so is the President's renomination. But more important 
+than that, the President has been a candidate in seven statewide and national elections 
+and every one of them has been a substantive, issued-based campaign, which is one of 
+several reasons why the voters have elected him each and every time his name has 
+appeared on a ballot. Phil?
+
+PHIL
+Were you aware that several news organizations have been trying to obtain Governor 
+Ritchie's transcripts from the University of Florida?
+
+C.J.
+You mean since yesterday?
+
+PHIL
+Yeah.
+
+C.J.
+No I wasn't.
+
+PHIL
+I guess my question is does the President feel college transcripts are an accurate 
+barometer of a person's fitness to hold a high public office?
+
+C.J.
+I've never asked him, but my guess is the President feels that a person's college 
+transcripts is a reasonable barometer of how a person did in college. [laughter] 
+For the record, the President graduated Summa Cum Laude from the University of 
+Notre Dame with a major in American Studies and a minor in theology. He received a 
+Masters and a Doctorate at the London School of Economics and an honorary Doctorate 
+in Humane Letters from Dartmouth University where he was a tenured professor.
+
+CUT TO: INT. HALLWAY - CONTINUOUS
+Sam is standing outside of the Press Room watching C.J. conduct the briefing on a monitor.
+
+C.J. [cont]
+I myself attended Cal Berkeley, go Bears. Thank you very much, I'll talk to you later.
+
+REPORTERS
+Thank you, C.J.
+
+Sam sighs as C.J. exits the Press Room. They walk.
+
+SAM
+All right, so far not bad.
+
+C.J.
+What's next?
+
+SAM
+Well, But Wachtell's in my office right now.
+
+C.J.
+Of course he is. Don't give him what he wants.
+
+SAM
+I'm told I seldom give anybody what they want.
+
+C.J.
+We cant hold a bipartisan summit on bipartisanism, we'll look ridiculous.
+
+SAM
+We're used to that, aren't we?
+
+C.J.
+Sam...
+
+SAM
+I'm not giving him what he wants.
+
+C.J.
+Is it me, or is Ritchie's people handling this wrong?
+
+SAM
+It's not you.
+
+C.J.
+Why keep it alive? There's no way for them to look good. The President was mean 
+to mean? Let it go. 
+
+SAM
+By the way, my Princeton Tigers could whip your Cal Bears any day of the week.
+
+C.J.
+At what?
+
+SAM
+Logarithms, possibly.
+
+C.J. walks away as Sam enters the COMMUNICATIONS OFFICE.
+
+GINGER
+He's in your office.
+
+SAM
+Thank you.
+
+CONGRESSMAN WACHTELL waits in SAM'S OFFICE as Sam walks in.
+
+SAM
+Congressman.
+
+CONGRESSMAN WACHTELL
+There's a heavy stench of partisanism in the air, Sam.
+
+SAM
+Actually, you know, they just sprayed for bugs.
+
+WACHTELL
+How in the hell did Ziegler let something like this happen?
+
+SAM
+Well, first of all, it wasn't Toby's fault, it was mine. And it happened quickly and 
+we regret it.
+
+WACHTELL
+How's reaction been so far?
+
+SAM
+Our base is very happy, but when our base is happy, there's usually trouble someplace else.
+
+WACHTELL
+The moderates are talking about bolting the party.
+
+SAM
+Nobody's bolting the party, it was an honest mistake. And, by the way, had nothing to do 
+with partisanism.
+
+WACHTELL
+Well, something has to be done.
+
+SAM
+There's very little that can be done from the Communications Office.
+
+WACHTELL
+A summit...
+
+SAM
+Congressman...
+
+WACHTELL
+A summit on bipartisan cooperation.
+
+SAM
+I can bring it up but it'll get laughed out of the room.
+
+WACHTELL
+Why?
+
+SAM
+It's an election year. We want to be partisan. We're trying to beat them.
+
+WACHTELL
+Well, I've got to be able to go back and tell my moderate friends something. What about 
+a Republican appointment, or promotion?
+
+SAM
+We've got Ainsley Hayes.
+
+WACHTELL
+That name sounds familiar.
+
+SAM
+She was Associate White House Counsel, got promoted to Deputy Counsel, and she's just 
+slightly to the right of the Kaiser.
+
+WACHTELL
+I'd make her visible right now.
+
+SAM
+Yes, sir, that's a good idea.
+
+WACHTELL
+And learn to tell the difference between red and green.
+
+SAM
+Yes, sir.
+
+WACHTELL
+Okay then. 
+
+As the congressman exits, Sam gets up from desk and walks back out to the COMMUNICATIONS 
+OFFICE.
+
+SAM
+Ginger... I need to see Ainsley.
+
+GINGER
+She's on vacation.
+
+SAM
+When's she coming back?
+
+GINGER
+Next week.
+
+SAM
+Mmm... Not so much, no.
+
+CUT TO: INT. JOSH'S OFFICE - DAY
+
+JOSH
+Donna!
+
+DONNA
+Yeah?
+
+JOSH
+Sit down we’re gonna post a response on the site.
+
+DONNA
+What site?
+
+JOSH
+LemonLyman...
+
+DONNA
+No.
+
+JOSH
+Yeah, we got to post a response to someone.
+
+DONNA
+It's a bad idea.
+
+JOSH
+Why?
+
+DONNA
+You don't know these people.
+
+JOSH
+Neither do you.
+
+DONNA
+Oh, yes, I do.
+
+JOSH
+What's wrong with them?
+
+DONNA
+Nobody knows.
+
+JOSH
+These are people taking a very healthy interest in government. They should be applauded.
+
+DONNA
+Then applaud them, but stay off the site.
+
+JOSH
+These are the people talking. I'm not an elitist.
+
+DONNA
+You are an elitist.
+
+JOSH
+I am an elitist, but I have respect for people who don't measure up.
+
+DONNA
+People on these sites tend to be a little hysterical.
+
+JOSH
+We've got to correct something.
+
+DONNA
+What?
+
+JOSH
+Irmatrude writes, "Three nights ago on Nightline Josh said, 'We'll be asking for a GAO 
+study of Medicare drug pricing.' Apparently, no one's told Josh that only Congress can 
+ask the GAO to do anything." First of all, how cool is that, that they know what the 
+GAO can and can't do?
+
+DONNA
+Oh, it's cool as all giddy up.
+
+JOSH
+Sit down.
+
+DONNA
+Please don't do this.
+
+JOSH
+Sit down. Irmatrude... Thanks for watching me on Nightline. Yes, I do know that only 
+Congress can instruct the GAO. When I said, "We'll be asking," I meant Democrats and 
+not the White House. Thank you for your concern, Josh "Lemon" Lyman.
+
+DONNA
+Are you sure you want to sign-off like that?
+
+JOSH
+It's playful.
+
+DONNA
+Okay.
+
+JOSH
+You could get more in the spirit of this, you know.
+
+DONNA
+The people.
+
+JOSH
+Yes.
+
+DONNA
+What Josh doesn't know is that some of these people haven't taken there medication. 
+Let's watch what happens now.
+
+Toby knocks on Josh's office door.
+
+TOBY
+Excuse me.
+
+JOSH
+Hey! You're done.
+
+TOBY
+Is this tie all right?
+
+JOSH
+I'm sorry?
+
+TOBY
+This necktie, does it go with the jacket?
+
+JOSH
+God, I don't know Toby. The tie, is it red or is it green?
+
+TOBY
+Congratulations, you're the hundredth person to make that joke.
+
+JOSH
+The tie is fine, why?
+
+TOBY
+I'm meeting someone.
+
+JOSH
+When?
+
+TOBY
+Now. Excuse me. 
+
+Toby walks out to the NORTHWEST LOBBY. He approaches the U.S. POET LAUREATE TABITHA FORTIS, 
+who is waiting in a chair.
+
+TOBY
+Ms. Fortis?
+
+TABITHA FORTIS
+Yes.
+
+TOBY
+I'm Toby Ziegler.
+
+TABITHA
+I've been thinking a lot about it since you called.
+
+TOBY
+Yeah?
+
+TABITHA
+There's nothing that rhymes with Ziegler.
+
+TOBY
+That's why no one writes poetry about me.
+
+TABITHA
+They could do it in blank verse. Dylan could do it.
+
+TOBY
+Yeah, but he hasn't yet.
+
+TABITHA
+Am I, uh, really weird right off the bat?
+
+TOBY
+Do you want to be?
+
+TABITHA
+No.
+
+TOBY
+Then you're not.
+
+TABITHA
+I think you're just being nice.
+
+TOBY
+I think if you ask around, you'll discover that's unlikely. Do you want to come back 
+to my office?
+
+TABITHA
+Yeah. 
+
+They begin to walk.
+
+TABITHA
+Uh, so you know what everybody is talking about out there?
+
+TOBY
+The President's open-mike gaffe.
+
+TABITHA
+That is exactly what I was going to say.
+
+Sam runs into them.
+
+SAM
+Toby...?
+
+TOBY
+Sam, say hello to the newly-minted United States Poet Laureate, Tabitha Fortis.
+
+TABITHA
+Hi.
+
+SAM
+Yes, indeed. Poetry, I must tell you...
+
+TOBY
+That's fine.
+
+TABITHA
+Nice meeting you.
+
+SAM 
+You, too. [leaves]
+
+
+TABITHA
+You guys poetry fans around here?
+
+TOBY
+We can't get enough of it.
+
+TABITHA
+Oh, yeah, who's your favorite?
+
+TOBY
+You.
+
+TABITHA
+Nice.
+
+They finally reach TOBY'S OFFICE.
+
+TOBY
+Come on in.
+
+TABITHA
+Nice office.
+
+TOBY
+Exactly 63 feet from the Oval Office. If you don't think we measure, you're out of 
+your mind. Okay. So. Hello.
+
+TABITHA
+How are you doing?
+
+TOBY
+We have a problem?
+
+TABITHA
+Yes.
+
+TOBY
+We have arranged a dinner in your honor. We've invited 300 important people, we've invited 
+the press, we've shined our shoes...
+
+TABITHA
+You've got to sign the land mine treaty, Toby.
+
+TOBY
+Whoa... What happened to the nuance of diplomacy?
+
+TABITHA
+Oh, sorry, the shoes are shined.
+
+TOBY
+No we-we're there now, you-you can't go back.
+
+TABITHA
+Sorry.
+
+TOBY
+Right.
+
+TABITHA
+142 countries have signed it, 84 have ratified, 12 destroyed there entire stock.
+
+TOBY
+Yes.
+
+TABITHA
+You know who hasn't signed it? Us and Cuba.
+
+TOBY
+You know who initiated it? Us. And the nations of the world rallied around it in yet 
+another impressive display of American leadership.
+
+TABITHA
+And then?
+
+TOBY
+We bolted.
+
+TABITHA
+Right.
+
+TOBY
+And the reason we did is because we love anti-personnel land mines. We love 'em. And we 
+think the government should be in the business of selling them, like the Post Office. 
+In fact, the Post Office is the sales venue we've been considering.
+
+TABITHA
+Toby. I-I got a...
+
+TOBY
+It's Korea. Tabitha. There are 900,000 North Korean soldiers in the DMZ, and the only 
+thing stopping them from walking into South Korea are 37,000 US troops, and about a 
+million land mines along the border. We have said over and over that we would be thrilled 
+to sign this treaty if we could have an exemption for South Korea and we have been rebuffed. 
+Rebuffed... I say.
+
+TABITHA
+Look, so we disagree on this... clearly, what's the big deal?
+
+TOBY
+Not a big deal at all.
+
+TABITHA
+Except?
+
+TOBY
+If you voice your disagreement at a party in your honor hosted by the President with the 
+press in attendance then it's a gigantic deal which travels the 63 feet right to this office.
+
+TABITHA
+All right then. I'm sorry we can't have the party. But I like talking to you. Yeah, you're 
+cute and, uh... I love the way you write.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: INT. THE PRESS ROOM - DAY
+
+	WEDNESDAY
+
+The camera pans across C.J. on a TV set stopping on her at the podium.
+
+ARTHUR (VO)
+C.J., can you give it to us unvarnished? Was the President calling Governor Ritchie stupid?
+
+C.J.
+Oh, my God, day three!
+
+ARTHUR
+Was he?
+
+C.J.
+Well, I think this one may be unspinnable. That's certainly saying something coming from 
+my office. Yeah, he was calling him stupid.
+
+BOBBI
+How has his mood been in the last few days? Has he regretted it?
+
+C.J.
+He hasn't been able to feed or bathe himself.
+
+Laughter
+
+MARK
+The Governor is kicking off a ten-state tour and his campaign has indicated they'll be 
+trying to rally the nation around his clean campaign pledge. I'm quoting a senior 
+campaign official now. "A different kind of politics is sweeping the nation, and once 
+the President understands the hearts and minds of the American people, he'll have no 
+choice but to sign the pledge.
+
+C.J.
+Mark, I swear to God, as soon as the President needs help understanding the hearts and 
+minds of the American people, he'll call the Republican Governor of Florida. But this 
+week, we're focused on tomorrow night's press conference wherein we unveil our national 
+strategy for energy independence. Speaking of which, this country has been dependent on 
+foreign oil for far too long. 65% of our crude oil reserves comes from the Gulf. Only 
+three percent here at home.
+
+BOBBI
+C.J.? Policy is the President's forte. Are you guys trying to bait Governor Ritchie into 
+an argument on energy 'cause you know you'll win?
+
+C.J.
+Yeah, well, we all tried to convince the President that talking about policy was just 
+plain unsportmanlike, but we didn't get anywhere. Listen, I've had a lot of fun, and I 
+know you have, too. I'll see you later.
+
+ALL
+Thank you C.J..
+
+C.J. begins walking to the back of the press room, when Charlie walks up behind her.
+
+CHARLIE
+C.J.?
+
+C.J. turns around.
+
+C.J.
+Chuckles.
+
+They begin walking.
+
+CHARLIE
+The President would like another pre-brief and another run-through tonight after dinner.
+
+C.J.
+Sure.
+
+CHARLIE
+Full-blown run-through.
+
+C.J.
+Yeah.
+
+CHARLIE
+Maybe that can be when you can explain your problem with drilling ANWAR for oil.
+
+C.J.
+Huh?
+
+CHARLIE
+If we want to be energy independent, If we've been relying too long on foreign oil, 
+what's wrong with drilling Alaska for oil?
+
+C.J.
+It will do huge and lasting damage to the environment, and it would not, in the long run, 
+reap that much oil.
+
+CHARLIE
+It will have zero impact on the environment. And how do you know how much oil is down 
+there, until you explore?
+
+C.J.
+"Explore?"
+
+CHARLIE
+Yes.
+
+They reach Carol's desk.
+
+C.J.
+You mean drill?
+
+CHARLIE
+That's how you get where the oil is at.
+
+C.J.
+You've been reading his book?
+
+CHARLIE
+Excuse me?
+
+C.J.
+"A Promise to Lead", Ritchie's book.
+
+CHARLIE
+Whoever ghosted it, isn't bad.
+
+C.J.
+Carol, would you put together a page on the environmental impact of drilling the Artic 
+National Wildlife Reserve?
+
+CAROL
+Yeah.
+
+CHARLIE
+Make sure you know exactly how many caribou we've made unhappy.
+
+C.J.
+Thank you.
+
+CHARLIE
+You bet.
+
+CUT TO: INT. SAM'S OFFICE - DAY
+Sam is sitting down reading a paper when there is a knock at the door.
+
+SAM
+Come in. 
+
+Ainsley enters carrying luggage with a look of annoyance on her face.
+
+SAM
+Hey, welcome back.
+
+AINSLEY
+What?!
+
+SAM
+How was the vacation?
+
+AINSLEY
+It was 40 hours long.
+
+SAM
+Where'd you go?
+
+AINSLEY
+Hilton Head.
+
+SAM
+What'd you do?
+
+AINSLEY
+I unpacked, and then I packed.
+
+SAM
+By the way, congratulations. Babish is promoting you to deputy.
+
+AINSLEY
+When did this happen?
+
+SAM
+Right after I told Bill Wachtell that we already had.
+
+AINSLEY
+What the hell is going on?
+
+Sam gets up and grabs Ainsley's luggage as they begin to walk to her office downstairs 
+in the basement.
+
+SAM
+Well, Monday morning, there was a little incident during the satellite interview.
+
+AINSLEY
+I read about it. How could you let something like that happen?
+
+They stop in front of the staircase.
+
+SAM
+(sighs) Okay. For everybody who works outside the building, I'll fall on the sword. 
+But for everybody who works inside the building, I wasn't there!
+
+AINSLEY
+Okay.
+
+They begin to walk down the stairs.
+
+SAM
+Didn't get much of a tan.
+
+AINSLEY
+What do you need?
+
+SAM
+Capitol Beat, Capitol Gang, Inside Politics.
+
+AINSLEY
+To say what?
+
+SAM
+The President isn't an elitist. He respects everyone.
+
+AINSLEY
+And that's why he made a Southern Republican who disagrees with him a deputy counsel.
+
+They reach the BASEMENT HALLWAY.
+
+SAM
+Congratulations again, by the way.
+
+AINSLEY
+He is an elitist.
+
+SAM
+Uh-oh.
+
+AINSLEY
+It's elitist, geocentric, Ivy League snobbery to think if you haven't written six 
+journal articles on monetary support mechanisms, you're not fit to lead.
+
+SAM
+We're of the belief that if you're going to set policy, it'd be a bonus to understand it. 
+And at this point, we'd be astonished to discover that Ritchie had read as many as six 
+journal articles on anything other athletic support mechanisms.
+
+AINSLEY
+There's a difference between intellect and instinct.
+
+They finally enter AINSLEY'S OFFICE.
+
+SAM
+252 million people in the country. You don't think we'd ought to be able to elect somebody 
+who's got both?
+
+AINSLEY
+I'm saying, Presidents can have good advisors.
+
+SAM
+Good advisors could better advise informed and curious Presidents.
+
+AINSLEY
+But what happens when Ivy League Presidents surround themselves with intellectual snobs?
+
+SAM
+All right. Let's clear up a couple of things, 'cause that's the second time you've invoked 
+the "Evil Eight". First of all, Notre Dame isn't a member of the Ivy League. They play 
+football as an independent. They play basketball in the Big East. Second, we're very 
+interested in education in this White House, so can you tell me what's wrong with the 
+Ivy League? Should we be discouraging parents from hoping there kids get into Princeton 
+and Yale and Dartmouth?
+
+AINSLEY
+All I know is, we got into Vietnam courtesy of the Beltway Chapter of the Harvard Alumni 
+Association.
+
+Ainsley sits down behind her desk.
+
+SAM
+Yeah, except, that's not all you know because you're bright and you're curious and you 
+worked hard, and you got into Smith and you got your law degree where? Cambridge, 
+Massachusetts. You lose, I win. 'Twas ever thus.
+
+AINSLEY
+I was on vacation.
+
+SAM
+Life's tough in the aluminum siding business. Check the press office on your TV schedule.
+
+AINSLEY
+I will do the TV show's because I serve at the pleasure of the President, but I do not 
+want a promotion that I didn't earn.
+
+SAM
+I'll talk to Babish.
+
+AINSLEY
+Well, let me check out the pay differential first.
+
+SAM
+You bet.
+
+CUT TO: INT. COMMUNICATIONS OFFICE - DAY
+Toby is putting on a jacket walking out into the hallway when C.J. calls him from behind.
+
+C.J.
+Toby?
+
+TOBY
+Yes.
+
+C.J.
+We've gone from one network carrying the press conference tomorrow night to four.
+
+TOBY
+Are you kidding?
+
+C.J.
+No.
+
+TOBY
+I guess we shouldn't be surprised.
+
+They walk through the NORTHWEST LOBBY.
+
+C.J.
+No. Where are you going?
+
+TOBY
+Sightseeing.
+
+C.J.
+Really?
+
+TOBY
+Tabitha's never been to Washington.
+
+C.J.
+You going to get that thing done, or you want me to talk to her?
+
+TOBY
+It's going to be fine.
+
+C.J.
+You sure?
+
+TOBY
+She's a poet. She's new to things like consequences.
+
+C.J.
+Okay.
+
+TOBY
+All four networks...
+
+They stop in the HALLWAY next to C.J.'s office.
+
+C.J.
+Listen, I have a crazy thought. Is it possible...?
+
+TOBY
+What?
+
+C.J.
+Hmm, never mind. I'll see you later.
+
+C.J. walks into her office.
+
+TOBY
+Okay.
+
+CUT TO: INT. JOSH'S OFFICE - DAY
+Josh is sitting at his desk looking at a computer screen.
+
+JOSH
+Donna?
+
+DONNA (OS)
+Yeah?
+
+JOSH
+Something weird has happened here.
+
+Donna appears in doorway.
+
+DONNA
+Where?
+
+JOSH
+LemonLyman....
+
+DONNA
+No.
+
+JOSH
+They don't seem to be taking my response in the spirit in which it was intended.
+
+DONNA
+Yeah.
+
+JOSH
+Seems to be a very unusual social structure. For instance, there is leader who seems 
+to pride herself on her organizational skills and a certain amount of discipline.
+
+DONNA
+Right. That's what's called a control freak.
+
+JOSH 
+[getting visibly upset] Well, she does seems to do an awful lot of scolding. "You've 
+posted in the wrong place. Stay on topic people. Don't use capital letters. I don't have 
+time to tell you twice," when clearly, she does have time to tell us twice. But that's 
+not the problem.
+
+DONNA
+No.
+
+Josh clears his throat then begins to read a post on the LemonLyman Board.
+
+JOSH
+"Someone need to deal with Josh's planet-sized ego, by teaching him government 101. 
+Who made him overlord of the Democratic party?" And someone else writes, "Is Josh 
+delusional, or is he actively trying to destroy the separation of powers?"
+
+DONNA
+Well, are you?
+
+Josh
+No.
+
+DONNA
+Then turn off the computer, shut these people up, and let's go back to work.
+
+JOSH
+I think I need to clarify my original post.
+
+DONNA
+Josh, there's a primetime press conference tomorrow and a new energy policy that you 
+have spent months shepherding down the field, and now, on the one-yard line...
+
+JOSH
+Sit down in the chair.
+
+DONNA
+Has the pressure for you to get the energy package...?
+
+JOSH
+Sit down in the chair.
+
+DONNA
+I think you've gone 'round the bend.
+
+JOSH
+I'm dictating now. I don't think it falls under the category of "outrageous" to suggest 
+that I might have friends on the other end of the Avenue who have the phone number of 
+the GAO. Let me put this more plainly. The White House can get a GAO review of anything 
+it wants without posing a threat to the separation of powers. And I believe I'll use 
+capital, lowercase, or Sanskrit, right up until the moment the font police cuff me and 
+read me Miranda!
+
+DONNA
+That'll show them.
+
+JOSH
+See, I think these are good people, by and large, but they've come under the thumb of a 
+dictatorial ruler. So, as with a small, Central American country, my role is to incite 
+the people to topple her
+
+DONNA
+You're way round the bend. Can I get you a damp towel or something?
+
+JOSH
+No, but do we have any Yoo-Hoo?
+
+DONNA
+Yeah.
+
+JOSH
+I'll take one.
+
+DONNA
+I'm on it.
+
+CUT TO: EXT. WASHINGTON, D.C. - DAY
+Toby approaches Tabitha.
+
+TOBY
+What are you doing?
+
+TABITHA
+Crossing off the FDR Memorial, the Atrium, and the Folger Library. I like crossing off 
+lists. It's very satisfying. You like lists?
+
+TOBY
+Yes.
+
+TABITHA
+You like crossing things off?
+
+TOBY
+I'll let you know if it happens.
+
+TABITHA
+Hey, how'd you know what hotel I was at?
+
+TOBY
+We have you watched when you're in D.C.
+
+TABITHA
+Are you serious?
+
+TOBY
+No.
+
+TABITHA
+Oh.
+
+TOBY
+We always have you watched.
+
+TABITHA
+Aha.
+
+TOBY
+So, you know what I was thinking might be fun?
+
+TABITHA
+If I came to the White House dinner and shut the hell up?
+
+TOBY
+That's not what I was going to say at all.
+
+TABITHA
+Oh, what were you going to say?
+
+TOBY
+If you came to the dinner, wore a beautiful dress, and shut the hell up.
+
+TABITHA
+(laughs) I got a list of nine former I-Corps Commanders who served in Korea, who say that 
+land mines aren't necessary to protect our troops anywhere.
+
+TOBY
+We're aware of all nine.
+
+TABITHA
+And we have, do we not, other weapons that are more effective and less deadly to our side. 
+That are already apart of the U.S. response plan to the North crossing the DMZ?
+
+TOBY
+I work in communications.
+
+TABITHA
+And land mines would actually slow a counter-invasion. You have an answer to any of this?
+
+TOBY
+The President of the United States requests the honor of your presence, and I'm sorry, 
+but you show up.
+
+TABITHA
+And I'm sorry, but I tell the truth.
+
+TOBY
+Not every minute of the damn day, Tabitha.
+
+TABITHA
+I've seen what I've seen. And I've been told what I've been told. And I have an audience 
+with the person who can do something about it. To smile for a photo op and recite 64 
+couplets on the American experience? That's treasonous.
+
+TOBY
+Can we stop with the drama?
+
+TABITHA
+Toby?
+
+TOBY
+Tabitha, you don't know what you're doing. This isn't kid's stuff. If you stand up in the 
+President's face, that's going to be the story, and nobody's going to care about what you 
+care about. Nobody is going to care about what you care about. And... It'll be bad... for 
+you, for us, for the land mines, everybody.
+
+TABITHA
+Can we just not talk for a minute?
+
+TOBY
+Yeah.
+
+TABITHA
+Yeah. I-I got to give a lecture tomorrow night at Georgetown. I just... I need to... 
+I need to not talk for a minute.
+
+TOBY
+Yeah.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+The President sits at his desk reading and singing.
+
+BARTLET 
+(singing)
+Another sky
+Another June
+Another something that rhymes with June
+Another reason, another season
+For making... (stops singing) Wait a sec.
+
+CHARLIE
+Yeah. "Sunny honeymoon" is what you were looking for.
+
+BARTLET
+No, wait a sec. He's absolutely right. Hang on.
+
+He puts down the paper he was reading, gets up, and knocks on the door to LEO'S OFFICE, 
+and enters where Leo is having a meeting with several staffers.
+
+BARTLET
+Excuse me. I'm sorry for interrupting. No, no, keep your seats. Leo? You're absolutely right.
+
+LEO
+About what?
+
+BARTLET
+We shouldn't show up. Tell the Whip we want to yield all our time. While they're going 
+in front of the cameras complaining about me making fun of Ritchie, the Democrats will 
+be caucusing on literacy and tuition tax credits. We want to yield all our time.
+
+LEO
+Yes, sir.
+
+BARTLET
+Thank you.
+
+Bartlet walks back to his office.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT. THE PRESS ROOM - NIGHT
+
+	THURSDAY, 8:00 P.M.
+
+The camera pans from C.J. at the podium all round the room, and then back to C.J.
+
+C.J.
+The President will begin his press conference at nine, or more accurately, the walk down 
+the red carpet will happen at 9:01:30, per the network's request. He'll deliver an opening 
+statement on his National Strategy for Energy Independence, we expect that'll last about 
+15 minutes, and then the President will take questions for 45 minutes.
+
+REPORTER
+C.J.? A senior official in the communications office of the Ritchie campaign said if the 
+President thinks his candidate is stupid, he should just come right out and say so. 
+
+We see C.J. on the monitor beside him as he speaks.
+
+C.J.
+Really?
+
+REPORTER 
+[nodding] Really.
+
+CUT TO: INT. TOBY'S OFFICE - CONTINUOUS
+The camera pans from C.J. on the monitor around to Sam, casually lying back on the couch 
+with his feet up as he watches.
+
+C.J. (VO)
+Let's start a pool to guess how long the senior communications official is going to keep his 
+job if once a day he suggests we call his candidate stupid. Somebody's got to step in and 
+stop this fight 'cause we're the only ones scoring points, and we're not even playing. Mark?
+
+The camera pans further to reveal Ainsley sitting close to the monitor, also watching.
+
+SAM
+She's got a point there.
+
+AINSLEY 
+[turning to look at him] Does it concern you that the smartest Presidents have been the worst?
+
+SAM
+I don't grant your premise, but...
+
+AINSLEY
+John Quincy Adams was so full of himself, he could hardly build a coalition around having 
+eggs for breakfast. How many grand theories of international relations did Wilson come up 
+with that were dead on the arrival in Congress?
+
+SAM
+I don't care.
+
+AINSLEY
+Why?
+
+SAM
+Because before I look for anything, I look for a mind at work. Nobody's saying the President 
+needs to have a tenured chair in semiotics, but you have to have...
+
+AINSLEY
+What?
+
+SAM
+Gravitas.
+
+AINSLEY 
+[leaning forward] And how do you measure that?
+
+SAM
+You don't, but we know it when we see it, and Republicans tend to mock it when they do. 
+You think I'm wrong?
+
+AINSLEY
+I do not.
+
+SAM
+No you don't, and the way I know you don't is I saw you say so on television. 
+
+Toby appears in the doorway, still in his coat.
+
+SAM
+Hey, Toby.
+
+Ainsley stands up.
+
+TOBY
+Why are you here?
+
+SAM
+The TV isn't working in my office.
+
+TOBY 
+[to Ainsley] You did good on TV.
+
+AINSLEY
+Thanks. I'll be in my office.
+
+Toby stands aside to let her through the door as she leaves, the sound of her holiday 
+flip-flops clearly audible. Toby heads past Sam, who is now sitting up, to his desk.
+
+SAM 
+How's it going with the poet?
+
+TOBY
+I'm not sure.
+
+SAM
+Does she have a strong history of activism?
+
+TOBY
+She has no history of activism. She said something yesterday, when I was with her, she said- 
+she was talking about land mines - she said, "From everything I've seen and everything I've 
+been told..."
+
+SAM
+You think she's getting some pressure?
+
+TOBY 
+[shrugging] I don't-
+
+Ginger knocks on door.
+
+GINGER [OS]
+Toby?
+
+TOBY 
+[turns to her] Yeah.
+
+GINGER
+It's someone from Georgetown University. I think there's a problem.
+
+Toby takes this in.
+
+CUT TO: INT. JOSH'S BULLPEN AREA - NIGHT
+Josh walks past Donna then notices her and comes back.
+
+JOSH
+The Internet people have gone crazy.
+
+DONNA 
+[sarcastically] You're kidding.
+
+The two of them start to walk together.
+
+JOSH
+They're calling the GAO "General Josh's Standing Army", and saying I don't understand 
+it's mandate and purpose. They're saying if I could get a review of anything I want, 
+that I should start by reviewing the job of Deputy C.O.S. Then one guy compares me to 
+a poor man's Clark Clifford, and a page and a half of posts, debating whether or not 
+I was mocking Egyptians with the Sanskrit reference.
+
+They come to a halt.
+
+DONNA 
+[snappishly] I told you they were hysterical.
+
+JOSH
+I thought you meant they were funny.
+
+DONNA
+They're not.
+
+They start walking again, voices rising.
+
+JOSH 
+I know they're not! It's "Lord of the Flies" in there.
+
+DONNA
+Well, who invited you in the first place?
+
+JOSH
+It's got my name on it. Look, I don't want to hear about it anymore. [glances at his watch] 
+We got an energy plan in ten minutes. I'm gonna...
+
+He starts to walk away, and C.J. comes up the HALLWAY behind him.
+
+C.J. 
+Oh Josh!
+
+JOSH
+Yeah?
+
+He turns and waits as she walks towards him.
+
+C.J.
+The Federal Page of the Washington Post just called Carol to confirm that you're the 
+Josh Lyman who stated on an Internet website that the White House could order a GAO 
+review on anything it wants.
+
+JOSH
+Without threatening the separation of powers is what I was saying.
+
+C.J.
+You posted on a web site?
+
+Donna emerges from a door behind C.J., and they exchange a look.
+
+JOSH
+I was communicating with the people.
+
+C.J.
+Really?
+
+Josh is momentarily distracted watching Donna walk past him into his office. Then he 
+steps closer to C.J. and speaks in a hushed voice.
+
+JOSH
+C.J., it's a... crazy place. It's got this dictatorial leader, who I'm sure wears a muumuu 
+and chain smokes Parliaments. [makes a smoking gesture with his fingers]
+
+C.J.
+What did you go there for in the first place?
+
+JOSH
+It's called LemonLyman.com.
+
+C.J. gives him a pointed shove in the direction of his office. They walk a few paces and 
+stop outside the doorway.
+
+C.J.
+Let me explain something to you, this is sort of my field. The people on these sites? 
+They're the cast of "One Flew Over the Cuckoo's Nest." 
+
+Donna picks up her jacket inside the office and walks out between the two of them.
+
+C.J. [cont]
+The muumuu wearing Parliament smoker? That's Nurse Ratched. When Nurse Ratched is unhappy, 
+the patients are unhappy. You? You're McMurphy. You swoop in there with your card games 
+and your fishing trips...
+
+JOSH 
+[shrugging defensively] I didn't swoop in, I came in exactly the same way everybody else did.
+
+C.J.
+Well, now I'm telling you to open the ward room window and climb on out before they give you 
+a pre-frontal lobotomy, and I have to smother you with a pillow.
+
+Josh regards her in silence for a moment.
+
+JOSH
+You're Chief Brom-
+
+C.J.
+I'm Chief Bromden, yes, at this particular moment. I'm assigning an intern from the press 
+office to that web site. They're going to check it every night before they go home. If they 
+discover you've been there, I'm going to shove a motherboard so far up your ass... 
+
+Josh looks down at the floor.
+
+C.J.
+What?
+
+JOSH 
+[with a slight shrug] Well... technically, I outrank you.
+
+C.J. 
+[shouting] So far up your ass!
+
+JOSH 
+[quickly] Okay.
+
+C.J.
+Okay?
+
+JOSH
+How you doing?
+
+C.J.
+Are we ready?
+
+JOSH
+[nods] We are.
+
+C.J.
+I believe we are. You want to walk over?
+
+He hesitates, then turns to walk with her.
+
+JOSH 
+[calling out] Donna, let's go, it's time.
+
+CUT TO: EXT. OUTSIDE A LECTURE HALL - NIGHT
+The camera pans past a large signboard which says "Tabitha Fortis Poet Laureate Lectures 
+Tonight at 9:00 P.M." to Toby as he approaches. He spots two people.
+
+TOBY
+Excuse me?
+
+MAN
+Are you Mr. Ziegler?
+
+TOBY
+What happened?
+
+MAN
+Well, she was giving her lecture, and then towards the end something... I don't know. 
+I think she's okay, but I asked her if there was anyone I could call.
+
+TOBY
+Where is she?
+
+WOMAN 
+[gesturing over her shoulder] She's sitting out on the steps.
+
+TOBY
+Okay. Thanks.
+
+MAN
+Mm-hmm.
+
+Toby walks past and then pauses and turns back.
+
+TOBY
+Was there any press there tonight?
+
+MAN
+For a poetry lecture?
+
+TOBY
+Right.
+
+Toby walks off.
+
+CUT TO: EXT. SQUARE OUTSIDE LECTURE HALL - CONTINUOUS
+Toby walks past a large fountain toward where Tabitha sits facing away from him at the 
+top of the steps. She doesn't look up until he's right beside her. They exchange a look, 
+and then he sits down next to her. The sound of the fountain is loud in the background.
+
+TABITHA 
+[after a moment] There was a man in Banja Luka that I met. He took his son and I... 
+to go fishing in the Sava River. And the little boy, uh... hooked a piece of garbage... 
+and when he tried to take it off the line, it blew him up. Right in front of his father, 
+and, uh... right in front of me.
+
+TOBY
+What happened tonight?
+
+Tabitha sighs heavily.
+
+TABITHA
+Um... I decided to highlight poets who were never chosen Poet Laureate 'cause they were 
+too rebellious. Adrienne Rich, Anne Sexton, Allen Ginsberg and I went into "Howl." I know 
+"Howl" like you know voting districts. "I saw the best minds of my generation destroyed 
+by madness, starving, hysterical, naked, dragging themselves through..." and then, uh... 
+
+TOBY
+What?
+
+TABITHA
+I couldn't remember any more. I couldn't, uh... You know, I-I couldn't remember any more. 
+[beat] You think I think that an artist's job is to speak the truth. An artist's job... 
+is to captivate you for however long we've asked for your attention. If we stumble into 
+truth, we got lucky, and I don't get to decide what truth is. What you said about South 
+Korea makes sense, you know, uh, people know more then I do. I... I shouldn't be uh... 
+you know... I write poetry, Toby, that's how I enter the world. [beat] I was thinking 
+maybe, you know... I-I don't if you could do this, but... I was thinking if I could get 
+a few minutes alone with the President, so that could tell him what I saw in Banja Luka? 
+[beat] Then it wouldn't have to be a thing, you know, at the dinner... in there I could, 
+uh... I have 64 couplets on the American experience that I think might be appropriate.
+
+TOBY
+Yeah, we can do that. 
+
+Toby reaches for a pocket inside of his coat and pulls out a small notepad. He flips 
+through the pages and shows it to Tabitha.
+
+TOBY
+What's that say?
+
+TABITHA 
+[reading] "Meet Tabitha Fortis".
+
+Toby produces a pen and crosses her name off of the list. Tabitha chuckles.
+
+TOBY
+I have to be at a press conference.
+
+TABITHA
+Right.
+
+CUT TO: INT. WHITE HOUSE CORRIDORS - NIGHT
+People bustle about, looking busy. C.J. and Charlie pass by, Charlie reading a document 
+as he walks.
+
+C.J.
+So as a matter of cold fact, Chipper, you'll see that it's the Porcupine Caribou, and 
+ANWARS's their calving ground, and you can't put a price tag on that, but that's hardly 
+the point.
+
+Charlie turns back the top page to read.
+
+CHARLIE
+36 species of fish, 36 land mammals, 160 different bird species. [closes the document] 
+I admit, this is a lot of wildlife. 
+
+They come to a halt.
+
+C.J.
+Well, forget the wildlife, it hurts flesh and blood subsistence hunters in the area, 
+changes migratory patterns in ways we don't even understand, increases freezing depths 
+of rivers and lakes...
+
+CHARLIE
+And the emissions from drilling.
+
+C.J.
+Welcome home, it'll cause pollutant haze and acid rain, and all this in exchange for?
+
+CHARLIE
+Not a lot of oil to begin with.
+
+Bartlet and Leo approach together. 
+
+BARTLET
+All right, here we go. What time is it?
+
+CHARLIE
+Nine o'clock, sir.
+
+LEO 
+[to Bartlet] We'll see you inside.
+
+BARTLET 
+[to the room] Thank you, everyone. 
+
+Everybody heads off in different directions, and Bartlet looks back as C.J. walks past.
+
+BARTLET
+C.J.?
+
+She heads back towards him.
+
+C.J.
+Yes, sir?
+
+BARTLET
+I've been meaning to tell you, you've done really well this week with the open-mike thing.
+
+C.J.
+Thank you.
+
+He slips on his glasses and looks up at her.
+
+BARTLET
+Didn't turn out too bad.
+
+C.J.
+No sir, it didn't turn out too bad at all. In fact, the whole country's talking about 
+whether Ritchie's smart enough to be President. And you didn't take hit, 'cause it was an 
+accident. You know, it occurs to me that even your choice of language was interesting. 
+"A .22 caliber mind, in a .357 magnum world." That's unusual for you, a gun metaphor. 
+
+Bartlet doesn't look up, seeming to be engrossed in whatever he's reading.
+
+C.J. [cont]
+Toby mentioned to me that when each interview was over, all the interviewers wanted to 
+talk to you about was Ritchie, and you took a pass each time. Until Philadelphia. 
+
+Now Bartlet slowly looks up at her.
+
+C.J. [cont]
+Mr. President, is it possible you saw that the green light was on?
+
+He slips the glasses off and gives her an unreadable look.
+
+ANNOUNCER [VO]
+Ladies and gentlemen, the President of the United States.
+
+C.J. smiles.
+
+C.J.
+That was Old School. 
+
+He turns back to look at her.
+
+C.J.
+Go knock 'em dead.
+
+Bartlet walks away from her towards the microphones as cameras flash. He reaches the 
+bank of microphones, and nods to his audience.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are a property of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television and NBC. No copyright infringement is intended. 
+
+Episode 3.16 -- "The U.S. Poet Laureate" 
+Original Airdate: March 27, 2002, 9:00 PM EST 
+
+Transcript by: Ck1Tzar and Nomad
+October 8, 2002

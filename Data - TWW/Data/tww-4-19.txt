@@ -1,0 +1,2229 @@
+THE WEST WING
+"ANGEL MAINTENANCE"
+TELEPLAY BY: ELI ATTIE & AARON SORKIN
+STORY BY: ELI ATTIE & KEVIN FALLS
+DIRECTED BY: JESSICA YU
+
+TEASER 
+
+FADE IN: INT. AIR FORCE ONE, PRESS CABIN - NIGHT
+Most of the press are sleeping, but reporters Steve, Katie, Mark and C.J. are talking.
+
+C.J.
+Because it's 18 hours from Manila, it's 9:25 p.m., Eastern.
+
+REPORTER MARK
+It should be 10:25.
+
+C.J.
+We left Manila at 3:25 today.
+
+MARK
+We left Manila at 3:25 yesterday.
+
+C.J.
+In Manila, it was yesterday.
+
+REPORTER KATIE
+Was it?
+
+C.J.
+Well, no, actually, it was tomorrow, but it's 9:25 right now, Eastern. Agreed?
+
+REPORTER STEVE
+I've agreed that it's 9:25 from the beginning. I'm just saying it should be 9:25 in 
+the morning.
+
+C.J.
+But it's not, Steve; you can just look out the window and chack that one off the list.
+
+LIEUTENANT COLONEL CAPLAN 
+[over P.A.] Ladies and gentlemen, from the flight deck, this is Lieutenant Colonel 
+Caplan. Colonel Weiskopf just told you that we were beginning our initial decent, 
+but Andrews approach has just asked us to make a left turn at Valhalla Vector, 
+maintain our altitude and proceed along Jet Route 5. We assume there's a problem 
+on the ground, and just as soon as they have it figured out, I'm sure they'll wave 
+us on in.
+
+As the Colonel speaks over the P.A. system, the camera has panned from the press cabin 
+to the MEETING ROOM aboard Air Force One. Bartlet is on the phone with Leo. Ed and 
+Larry are also in the room.
+
+BARTLET
+[to Ed and Larry] He's telling me the deadline for Columbia's recertification is 
+midnight tonight.
+
+LARRY
+Yes, sir.
+
+BARTLET
+[to Leo] Didn't I sign those papers all ready?
+
+CUT TO: INT. THE WEST WING, LEO'S OFFICE - NIGHT
+
+LEO
+Yes, sir, but the statue requires that you have an in-person briefing on the current 
+drug situation. So, we'll get you someone to do it in the car on the way in.
+
+CUT TO: INT. AIR FORCE ONE, MEETING ROOM - NIGHT
+
+BARTLET
+Just to check, they're going to tell me that the narco-trafficantes are running the 
+Parliament, but that we should recertify them as an ally in the drug war.
+
+LEO [VO]
+It's a pro forma thing. It's better than having them as an enemy in the drug war.
+
+BARTLET
+You mean calling them an enemy.
+
+LEO [VO]
+I did.
+
+LARRY
+There's a statue that says you've got to be briefed in...
+
+Charlie enters with Colonel Weiskopf.
+
+CHARLIE
+Excuse me, sir. Colonel Weiskopf to see you.
+
+BARTLET
+And the deadline for that is today, right?
+
+LEO [VO]
+Yes, sir.
+
+BARTLET
+Jessie, left turn, maintain altitude?
+
+COLONEL WEISKOPF
+[to Ed and Larry] Would you excuse us, please?
+
+Ed and Larry gather their papers and leave.
+
+BARTLET
+Leo, hang on a second. [to Weiskopf] What's the problem on the ground?
+
+WEISKOPF
+There's no problem on the ground. When we deployed Hydraulic System One, our nose wheel 
+indicator light didn't illuminate. Now, chances are, it's a problem with the indicator 
+light itself, but at the moment, we have no way of knowing if our front wheel's locked. 
+An f-16's been scrambled from Durbin Air Force Base; they'll be here in 22 minutes.
+
+BARTLET
+Then what happens?
+
+WEISKOPF
+They pull up alongside, try to get a visual read.
+
+BARTLET
+And then what happens?
+
+WEISKOPF
+If we don't have our wheels?
+
+BARTLET
+Yeah.
+
+WEISKOPF
+There are a number of options at that point.
+
+BARTLET
+You'll keep me briefed?
+
+WEISKOPF
+Yes, sir.
+
+BARTLET
+Thank you.
+
+WEISKOPF
+Thank you, Mr. President.
+
+Colonel Weiskopf leaves.
+
+BARTLET [to Leo]
+Listen, we've got a problem up here.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. LEO'S OFFICE - NIGHT
+Leo is still on the phone talking to Bartlet.
+
+LEO
+Listen to me, are you listening? This is one of those things that sounds worse than 
+it is. I can'y tell you how many times this happens, it's a 30-cent piece of plastic.
+
+BARTLET
+Well, it should cost more, don't you think?
+
+LEO
+A friend of mine landing a Beechcraft at Teteboro, puts down the gear, the wheels fall 
+right off the plane, he ditched it near the Throgs Neck Bridge.
+
+BARTLET
+You got a lot more of these stories?
+
+LEO
+Oh, yeah, a thousand of them. Seriously, man, if they dug a grave for me everytime 
+I lost an indicator light.
+
+BARTLET
+I've got a plane full of reporters up here.
+
+LEO
+C.J. will know what to do.
+
+Charlie enters.
+
+CHARLIE
+Sir?
+
+C.J. and Will enter.
+
+BARTLET
+[to Leo] We'll we're going to give it a try. [hangs up phone]
+
+C.J.
+Good evening, Mr. President.
+
+BARTLET
+Charlie, stay in here, would you? Here's what's going on. The light that indicates 
+that the landing gear is locked didn't go on, which usually indicates that there's 
+something wrong with the light. But what they're going to do is, they've sent a 
+fighter jet to fly up alongside and get visual confirmation that it's down, and then 
+we land. Here's the tricky part.
+
+C.J.
+Here's the tricky part?
+
+BARTLET
+The press can't know this is going on. There are two issues. One is that the Nikkei's 
+about to open, the other is national security. We can't broadcast that Air Force One 
+is up in the air over West Virginia and can't land.
+
+C.J.
+The co-pilot told us it was a problem on the ground; we'll stay with that.
+
+WILL
+What are we going to tell them when they see an Air Force Strikefighter outside their 
+window?
+
+C.J.
+That's gonna take some thought.
+
+BARTLET
+Okay.
+
+C.J.
+Thank you.
+
+C.J. and Will exit into the HALLWAY.
+
+C.J.
+Can you give me some tarmac jargon? What would be happening on the ground that the 
+plane can't land?
+
+WILL
+We shouldn't give them too many details. Let's say, you know, a runway incursion. 
+A maintenance truck caused a fuel spill on the runway they want us to use.
+
+C.J.
+Are you all right?
+
+WILL
+Yeah.
+
+C.J.
+Ed, Larry, can you talk to Will for a second?
+
+C.J. walks into the PRESS CABIN.
+
+C.J.
+Has anyone else noticed that Chris's been on the phone for the last 20 minutes but 
+hasn't spoken?
+
+REPORTER CHRIS
+Hang on.
+
+C.J.
+Hey, who remembers Dial-a-Joke?
+
+REPORTER ARTHUR
+C.J., what the hell's going on?
+
+C.J.
+A maintenance truck caused a fuel spill on our runway a few minutes ago, and they're 
+cleaning it up.
+
+CHRIS
+C.J.
+
+C.J.
+I don't know how long it's going to take.
+
+Reporter Chris motions C.J. to follow her. They walk into the STAFF CABIN.
+
+CHRIS
+That was a stringer we use on the Ivory Coast. He's got double confirmation that there 
+were friendly fire deaths in Kuhndu a few hours ago.
+
+C.J.
+Thanks.
+
+Chris goes back to the press cabin. C.J. walks over to the wall and picks up the phone.
+
+C.J.
+Signal, this is C.J. Cregg. I need you to page Leo McGarry with a call holding.
+
+CUT TO: INT. THE WEST WING, THE ROOSEVELT ROOM - NIGHT
+
+CONGRESSMAN TOM LANDIS
+Does it still feel like there's too much regulation?
+
+JOSH
+No.
+
+LANDIS
+No, I'm not saying, "Is there?" I'm saying, "Does it feel like there is?"
+
+JOSH
+Stop thinking like a Republican.
+
+LANDIS
+I am a Republican.
+
+JOSH
+And that's fine, I have nothing with that; I really don't. I'm just saying stop 
+thinking like that.
+
+LANDIS
+It's thinking like one that's going to get this bill passed, and I'm tell you, if it 
+feels like, in the toxic provision, that there's too much regulation...
+
+JOSH
+It's cleaning up Chesapeake Bay; it's not regulation, and regulation is what 
+Congressmen do.
+
+LANDIS
+Oh, not Republican Congressmen; we look out for local businessman.
+
+JOSH
+Well, when the Chesapeake starts turning flourescent colors, local business is gonna 
+have a bigger problem.
+
+LANDIS
+Well, that's why I'm supporting this bill.
+
+JOSH
+And that's why the President's signing it.
+
+LANDIS 
+Good, but you skipped the part where the majority of Congress votes for it. So, I'm 
+asking you again; does it feel too...?
+
+JOSH
+No, it doesn't... feel too regulated; it doesn't have the texture of how do you say, 
+the je ne sais quios...
+
+LANDIS
+Shut up.
+
+JOSH
+...of big government.
+
+LANDIS
+Shut up. Let's get back to work.
+
+Donna enters and places a note infront of Josh.
+
+JOSH
+What does Chesapeake mean?
+
+LANDIS
+Big Shellfish Bay. You never spend any time there?
+
+JOSH
+No.
+
+LANDIS
+Oh, it's incredibly beautiful.
+
+DONNA
+Josh.
+
+LANDIS
+[to Donna] You ever been there?
+
+DONNA
+Chesapeake Bay?
+
+LANDIS
+Uh-huh.
+
+DONNA
+No.
+
+Josh reads the note.
+
+JOSH
+There was a fuel spill on the ground at Andrews. They've to clean it up before he 
+can land.
+
+LANDIS
+Oh man, after an 18-hour flight?
+
+JOSH
+Yeah, I'm gonna head back to my office. Why don't you guys move on to point/nonpoint 
+source pollution and the storm runoff; I'll be back in a few minutes.
+
+Josh and Donna walk into the HALLWAY.
+
+JOSH
+They're having a problem with their landing gear?
+
+DONNA
+I know, I wrote the note.
+
+JOSH
+No, you wrote they're having a problem with their landing geek.
+
+DONNA
+They've got to stay up there awhile and check it out.
+
+JOSH
+Yeah, but they're saying it's nothing though, right?
+
+DONNA
+They're saying, yeah, they're saying it's a light.
+
+JOSH
+All right, do me a favor, I wanted the President to look at the Medicare rules.
+
+DONNA
+I'll fax them up there.
+
+They run into Congressmen SEGAL and SIMMEL.
+
+CONGRESSMAN SEGAL
+Josh.
+
+JOSH
+Congressmen.
+
+SEGAL
+We just had a meeting canceled.
+
+JOSH
+Yeah, they spilled something on the runway; I just got part of the story.
+
+SEGAL
+Runway incursion it's called. Nothing like flying 8,000 miles and then circling the 
+parking lot.
+
+CONGRESSMAN SIMMEL
+You... you were with Landis?
+
+JOSH
+I'm sorry?
+
+SIMMEL
+You were working with Tom Landis?
+
+JOSH
+Donna...
+
+DONNA
+You want me to fax those things?
+
+JOSH
+Yeah, and you can try and get me C.J. on the phone.
+
+DONNA
+It's a "r."
+
+JOSH
+It's a "k."
+
+Donna leaves.
+
+JOSH
+Chesapeake Bay cleanup.
+
+SIMMEL
+We talked about this.
+
+JOSH
+It's nothing. It's Chesapeake Bay cleanup.
+
+SIMMEL
+He's a vulnerable Republican. You can't hand him victories, you're giving him his 
+seat back.
+
+JOSH
+It's a bipartisan bill. It's a victory for us. It's an environmental bill; the 
+Republicans hate it. It's incredibly regulatory.
+
+SIMMEL
+I don't care, it's got his name on it. He's delivering Chesapeake Bay to Maryland. 
+They are going to reelect him.
+
+JOSH
+Well, I appreciate your thoughts.
+
+SEGAL
+Josh, you know what some Hill Democrats call the Bartlet reelect? They call it the 
+lonely lanslide. There's a sentiment that the President wanted a Republican Congress...
+
+JOSH
+And that's absurd.
+
+SIMMEL
+Then why are you helping one of the most vulnerable Republicans rack up...
+
+SEGAL
+You're making an argument for divided government.
+
+JOSH
+Divided governemnt's what we got. We should go on a hunger strike?
+
+SIMMEL
+No, but do you want to take back the House or what? Because if Hill Democrats don't 
+think your hearts are really in it...
+
+JOSH
+Then what?
+
+SIMMEL
+There's a reason they're calling it a lonely landslide. I mean, we've talked about this. 
+Anyway, have a good night.
+
+JOSH
+Good night, Congressmen.
+
+Toby enters the hallway from the lobby.
+
+JOSH
+Toby.
+
+TOBY
+They just told me.
+
+JOSH
+Donna's getting C.J. on the phone.
+
+TOBY
+I sent Will to the Philippines in my place.
+
+JOSH
+It's not like they're not going to fix it. You don't have to feel guilty about it.
+
+TOBY
+No, I mean, thank God, I sent Will in my place.
+
+Josh knocks on LEO'S OFFICE and they enter.
+
+JOSH
+How long before they know?
+
+LEO
+They're about five minutes away.
+
+TOBY
+Well, that's about all the time C.J.'s got to work with up there 'cause Leo, there's 
+a wire service guy standing at Andrews right now whose job it is to record the wheels 
+downtime and pretty soon he's gonna say, "Show me the fuel spill."
+
+LEO
+A wire guy on the ground? Toby, 20 White House reporters are about to see a supersonic 
+fighter jet 200 feet outside their window. It's gonna be a story, but he's gonna be 
+down by then. A couple hours ago, we lost five guys in friendly fire in Kuhndu.
+
+TOBY
+What happened?
+
+LEO
+A platoon of infantrymen called in an air-strike during live fire training off the 
+western coast. There was a GPS error and they became the target.
+
+TOBY
+Oh, God.
+
+LEO
+I need you to talk to Mark Richardson right away tonight. He's speaking at Brookings 
+tomorrow, and he's coming out against U.S. invovlement in Kundu.
+
+TOBY
+Well, we knew he felt that way.
+
+LEO
+We didn't know he was saying so and doing it at the Brookings Institution, so let's 
+see what we can do.
+
+TOBY
+Okay.
+
+Josh and Toby exit to the HALLWAY.
+
+JOSH
+They called in an air raid and the computer hit them as a target. How'd you like to 
+have to be the guy that explains that?
+
+TOBY
+Were Simmel and Segal giving you a hard time about the Chesapeake cleanup?
+
+JOSH
+They're not big fans of mine.
+
+TOBY
+I meant 'cause of the nuisance of having to circle around up there. When I said, "Thank 
+God, I sent Will instead of me," not 'cause of the other thing.
+
+JOSH
+I know what you meant.
+
+CUT TO: INT. AIR FORCE ONE, STAFF CABIN - NIGHT
+C.J. is sitting down next to Larry and Ed, who has a laptop on his lap. Will walks 
+over to them.
+
+WILL
+It's going to be along the rightside of the plane, and we're going to be in the area 
+of Harper's Ferry.
+
+C.J.
+Blue Ridge Mountains, what can we look at?
+
+LARRY
+At night?
+
+C.J.
+Anything with lights or fireworks?
+
+ED
+[reading from computer screen] It's Wildfire Week at Shenandoah National Park. Lilacs, 
+ochre, crimson.
+
+C.J.
+Do they light up?
+
+WILL
+We're nowhere near Shenandoah National park; it's a whole different state.
+
+ED
+I was looking at Blue Ridge Mountains.
+
+C.J.
+Any kind of Festival of Lights or astronomy? Is there a comet?
+
+CHARLIE
+C.J. and Will.
+
+C.J. and Will get up and follow Charlie to the MEETING ROOM.
+
+BARTLET
+Yeah, it's confirmed. Five infantrymen, they're on their way back.
+
+C.J.
+Have the families been notified?
+
+BARTLET
+No. I'm going to do that when I get on the ground. Will, I was supposed to get a 
+Columbia recertification briefing in the car. Are you in a position to do it up here?
+
+WILL
+You wouldn't rather have someone from State?
+
+BARTLET
+That statue says it's got to be in person.
+
+WILL
+Yeah, I can do it. What are you certifying?
+
+BARTLET
+That Columbia is an ally in the drug war. So what's the plan?
+
+C.J.
+Ed and Larry are looking for something in the Blue Ridge Mountains.
+
+BARTLET
+At night?
+
+C.J.
+Something with lights.
+
+BARTLET
+Is that gonna work?
+
+WILL
+I don't see how it possibly can fail.
+
+BARTLET
+All right, let's get this over with and land.
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. AIR FORCE ONE, KITCHENETTE AREA - NIGHT
+Will comes out of the lavatory.
+
+C.J.
+Okay, its time. It's a minute away.
+
+WILL
+Okay.
+
+WILL AND C.J.
+Good luck.
+
+WILL
+Did you say, "good luck," to me?
+
+C.J.
+Yeah.
+
+WILL
+You're doing it.
+
+C.J.
+No, you have to. I screw with them all them time. They're not going to but it from me.
+
+WILL
+They're not going to but it from anybody. That plane's going to be really close.
+
+C.J.
+It's not worth a try? Look at me. Look at my face. It's not worth a try?
+
+WILL
+"Look at me, look at my face..."?
+
+C.J.
+Listen.
+
+WILL
+I'm going. 
+
+Will goes over to the PRESS CABIN.
+
+WILL
+Hey, uh, listen everybody, the Colonel just told us that we're about to go by something 
+incredible. And you hardly ever get to see this. It's going to be out the left side of 
+the plane.
+
+REPORTER JOHN
+What is it?
+
+WILL
+Got to come over to the left side. Everybody, over here. It's coming up.
+
+All the reporters, except for Chris, get up and go over to the left side of the plane 
+to look out the windows.
+
+REPORTER STEVE
+What are we over?
+
+WILL
+Well, we're, uh, over the Blue Ridge Mountains, but there's a Festival of Lights and 
+Bonfires in this region that accompany something called the Wildflower-- you know, 
+Renaissance, with lilac and ochre.
+
+REPORTER MARK
+That you can see from 33,000 feet?
+
+WILL
+Yes, it's arranged in a pattern that befuddles astronomers to this day. We should be 
+coming up on it any...
+
+REPORTER CHRIS
+Oh, my God!
+
+All the reporters turn around and sees a fighter jet flying by the right side through 
+the windows.
+
+WILL
+Of course, on the right side of the plane is an F-16 Falcon.
+
+REPORTER STEVE
+C.J., what the hell's going on?
+
+REPORTER KATIE
+He's on our wing.
+
+The reporters all start yeling out questions.
+
+REPORTERS
+Have we been attacked? Is that one of ours? There's only one? What's going on? Is that 
+one of ours?
+
+The reporters start to pick up the phones on the plane. C.J. hesitates then picks up 
+the phone on the wall.
+
+C.J.
+Signal, this is C.J. Cregg. Shut off the phones in the press cabin. 
+
+C.J. hangs up the phone. The reporters all stop murmuring, and look at C.J..
+
+C.J.
+There's a problem with the plane's landing gear.
+
+REPORTERS
+C.J.? C.J.?
+
+CUT TO: INT. AIR FORCE ONE, HALLWAY - NIGHT
+Bartlet is standing in the hallway. Colonel Weiskopf descends the steps from the cockpit.
+
+BARTLET
+Is it down?
+
+WEISKOPF
+I'm sorry, sir. We don't know yet.
+
+BARTLET
+Why not?
+
+WEISKOPF
+Well, there's no moon tonight. It's tough for them to see under the plane, but they're 
+still trying.
+
+BARTLET
+What's next?
+
+WEISKOPF
+We do a flyby at Andrews tower and take a look.
+
+BARTLET
+How close do we fly to the tower?
+
+WEISKOPF
+We're going to have to fly pretty close.
+
+BARTLET
+At what altitude?
+
+WEISKOPF
+Pretty low.
+
+BARTLET
+And we just can't stay up here for a couple of days and wait till there's a moon?
+
+WEISKOPF
+We'll let the boys next door in the Falcon poke around a little bit first, but I want 
+to tell you.
+
+BARTLET
+What else?
+
+WEISKOPF
+We're going to have to refuel pretty soon.
+
+Colonel Weiskopf leaves.
+
+BARTLET
+Larry, would you go back and mention that to C.J.?
+
+LARRY
+Yes, sir.
+
+CUT TO: INT. AIR FORCE ONE, PRESS CABIN - NIGHT
+
+C.J.
+No one up here's in a position to file right now.
+
+REPORTER MARK
+Not in a position to...? Air Force One isn't landing, and it has a military escort.
+
+C.J.
+That's the story you'd file? You wouldn't mention the landing gear?
+
+REPORTER STEVE
+We'd mention the landing gear, right along with the maintenance truck and whatever you 
+tell us next.
+
+C.J.
+Come on. The maintenance truck was an honest effort to avoid panic. Of course, you were 
+going to know the truth at the end of the incident.
+
+Larry enters and whispers in Will's ear.
+
+REPORTER JOHN
+C.J.?
+
+C.J.
+I'm not going to broadcast that the President's plane is in distress. It creates very 
+real security concerns, and it also happens to be a world market event.
+
+STEVE
+It is a market event.
+
+C.J.
+The story's embargoed. If a cellphone appears in violation of FAA regulations, the 
+cell phone will be confiscated by a steward.
+
+REPORTERS
+C.J.? C.J.?
+
+WILL
+[whispers in C.J.'s ear] They're going to refuel.
+
+C.J.
+[to reporters] They want to refuel.
+
+C.J., Will, and Larry walk into the STAFF CABIN.
+
+C.J.
+How do they do that?
+
+WILL
+Well, instead of an F-16 coming up next to us, a KC-10 is going to, well, land on top 
+of us. They know how to do it.
+
+They go back to the PRESS CABIN.
+
+C.J.
+Yeah, they're going to do a midair refueling with a KC-10.
+
+REPORTER CHRIS
+What does that mean?
+
+C.J.
+It means they think we're going to be up here a little while longer.
+
+CUT TO: INT. THE WEST WING, LEO'S OFFICE - NIGHT
+
+MARGARET
+How much longer can they stay up there?
+
+LEO
+Theoretically, they can keep getting refueled for months.
+
+MARGARET
+I don't really see that happening.
+
+LEO
+Me, neither. The Falcon's going to give them a thumb's up, or thumb's down.
+
+MARGARET
+And if it's thumb's down, they lay down foam?
+
+LEO
+You guys shouldn't be talking about it out there, all right?
+
+There's a knock on the door. Josh enters.
+
+JOSH
+You want me?
+
+LEO
+You had a conversation with Simmel and Segal a little while ago?
+
+JOSH
+About the Chesapeake cleanup.
+
+LEO
+They're just pissed as hell that Tom Landis is sitting out there working in the 
+Roosevelt Room.
+
+JOSH
+He didn't storm the gate.
+
+JOSH
+Well, they would have preferred he had, to your opening it for him.
+
+JOSH
+I get the House is angry we didn't take back the House, and setting aside the fact it 
+was their damn fault and not ours-- stopping all bipartisan legislation is like saying, 
+"Let's blow up the place. Maybe voters will hire us to rebuild it."
+
+LEO
+I'm with you, but I need you guys to make a small change to Chesapeake.
+
+JOSH
+We're finishing it now. What do you need?
+
+LEO
+The caucus chair and the D-triple-C want to add revenue enhancement-- a dedicated levy 
+from local businesses-- and they want binding targets on all the nonpoint source stuff.
+
+JOSH
+Okay. That's about three different ways of saying a brand-new tax on local business.
+
+LEO
+Yes.
+
+JOSH
+I'm fine with that. Fact, I'm all for it, but Tom's got to take this back to Republicans.
+
+LEO
+And we have to take it to Democrats, and it's reasonable. We put the same provisions 
+in Superfund.
+
+JOSH
+Super. What's going on up there?
+
+LEO
+[yelling] Margaret, get me the Sit Room. [to Josh] The F-16's having trouble seeing the 
+gear, 'cause it's a moonless night. They just took on another four hours worth of fuel.
+
+MARGARET
+[over speaker phone] On one.
+
+Leo picks up the phone.
+
+LEO
+Major, are we comfortable any longer with the plane up there by itself? I agree. And 
+there's going to be a wire service reporter on the ground at Andrews who's going to 
+start seeing something. You better have them spill some fuel out there. Please, on a 
+runway we're not going to need. [hangs up the phone, yells to Margaret] The President. 
+[to Josh] Well, at least all our friends are going to have some company now. The 22nd 
+Tactical Fighter Wing with their missiles armed.
+
+CUT TO: INT. MARK RICHARDSON'S RECEPTION AREA - NIGHT
+
+TOBY
+I'm Toby Ziegler.
+
+AIDE BILL
+He's waiting for you, you can go in.
+
+TOBY
+Thank you.
+
+Toby walks in MARK RICHARDSON'S OFFICE.
+
+TOBY
+Congressman, I'm afraid I have some bad news. One of your constituents died today. 
+Gunnery Sergeant Harold Dokes from Bedford Stuyvesant. It was a friendly fire accident. 
+Five guys reported fire, and a computer popped their coordinates. And their bodies are 
+being flown here now.
+
+MARK RICHARDSON
+What do you want to talk to me about?
+
+TOBY
+Your speech at the Brookings Institution tomorrow. Congressman, are you opposing 
+intervention in Kuhndu because so far, it's the black kids who are doing the dying?
+
+RICHARDSON
+Toby, I'm opposing the intervention in Kuhndu because I'm still waiting for an 
+intervention in Brooklyn.
+
+TOBY
+Yeah, but the fact that this is immediate. I mean to say, the mass slaughter of tens of 
+thousands of Africans-- mostly young men-- which calls for...
+
+RICHARDSON
+I understand what it... You ever been to a maximum-security prison?
+
+TOBY
+Maximum? No.
+
+RICHARDSON
+It's the black kids who are doing the dying there, too.
+
+TOBY
+The lives we're saving in Kuhndu-- and I agree...
+
+RICHARDSON
+I wasn't elected by the lives we're saving in Kuhndu. I was elected by the lives that 
+are doing the saving. 
+
+TOBY
+But you agree there ar moral imperatives?
+
+RICHARDSON
+Well, if there are moral imperatives, then you've got to tell me we are going to get 
+everybody. Beginning with the Saudis.
+
+TOBY
+Mark, obviously, we need votes from the Black Caucus next week. Are you telling me it 
+isn't in the vested interest of Black America?
+
+RICHARDSON
+It is in the vested interest of working-class America-- black, latino and yes, even 
+white-- to be able to choose between more than a McDonald's uniform and a Marine 
+uniform.
+
+TOBY
+And how is opposing the peacekeeping bill at Brookings going to achieve...?
+
+RICHARDSON
+I'm not opposing the peacekeeping bill. In fact, the whole Black Caucus is going to 
+stand behind it, but with a proposed amendment.
+
+TOBY
+Doing what?
+
+RICHARDSON
+Reinstating the draft. I think the kids in my district are going to live longer if 
+their fortunes are tied a little more closely to the fortunes of the kids in Josh 
+Lyman's district.
+
+TOBY
+You want to draft a million middle-class kids out of spite?
+
+RICHARDSON
+Well, I don't want to draft anybody out of anything. I'm just trying to promote some 
+patriotic unity. Bill!
+
+BILL enters.
+
+BILL
+Yes, sir?
+
+RICHARDSON
+Can you find out for me when the President expects to call the parents of Gunnery 
+Sergeant Harold Dokes? I'll be next in line.
+
+BILL
+Yes, sir.
+
+Bill leaves and Toby starts to put on his coat.
+
+RICHARDSON
+Want a drink?
+
+TOBY
+Thank you.
+
+Toby takes his coat back off while Richardson fixes him a drink.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: INT. JOSH'S OFFICE - NIGHT
+Josh is sitting at his desk and Donna walks past the door. She walks back by and enters.
+
+DONNA
+You know what gripes my ass?
+
+Josh, who was drinking from a water bottle, chokes a little.
+
+DONNA
+How you doing?
+
+JOSH
+Good.
+
+DONNA
+If anything ever happened to me, chances are going to be when I'm sitting next to you, 
+and I'm going to be an also-dead. "Senoir Bartlet advisor Joshua Lyman killed by a pack 
+of wild dogs. Also dead, Diane Moss."
+
+JOSH
+Huh?
+
+DONNA
+I'm not feeling useful right now. I think I should know how to do more things here.
+
+JOSH
+No one's feeling useful right now.
+
+DONNA
+No, you're doing things. You're doing something right now. What are you doing right now?
+
+JOSH
+What are you doing right now?
+
+DONNA
+Nothing, this is my point.
+
+They go out to JOSH'S BULLPEN AREA, then to the LOBBY.
+
+JOSH
+How come you go out with so many Republicans?
+
+DONNA
+I don't.
+
+JOSH
+You do. Cliff, Commander Wonderful, Dr. Freeride.
+
+DONNA
+I don't know. I get a pretty good response to the personal ad I put in Roll call-- 
+"Seeking 30-something male into motions to recommit." I'm not kidding. I can do more. 
+I want to learn how.
+
+JOSH
+Do you know how to lock the landing gear?
+
+DONNA
+No.
+
+CUT TO: INT. LEO'S OUTER OFFICE - NIGHT
+
+LEO
+Let's go. You got the, uh...?
+
+MARGARET
+Yeah.
+
+LEO
+And the, uh...?
+
+MARGARET
+Here.
+
+LEO
+Thank you.
+
+MARGARET
+Can I ask? What does the foam do exactly?
+
+LEO
+On the runway?
+
+They exit to the HALLWAY.
+
+MARGARET
+Yeah.
+
+LEO
+It's flame retardant. They're worried about fire.
+
+MARGARET
+But it's not impact retardant though, is it? I mean, the plane would still-- coming out 
+of the sky at some velocity-- have to land on concrete.
+
+LEO
+You can take this back to the office.
+
+He hands Magaret a folder and sees Toby entering the West Wing.
+
+LEO
+Any movement?
+
+TOBY
+No.
+
+LEO
+He knows about the kid from Bed-Stuy?
+
+TOBY
+Yeah, he's got a long list of kids from Bed-Stuy. The Black Caucus is going to back the 
+peacekeeping bill, if we back their amendment to reinstate the draft.
+
+LEO
+He's really going through with that stunt?
+
+TOBY
+Yeah.
+
+LEO
+Well, the left's come full cricle, hasn't it? By the way, not for nothing but draftees 
+are nearly as well-trained. It's why there was so many casualties in Vietnam.
+
+TOBY
+Right, also the Vietcong.
+
+LEO
+Plus that.
+
+Leo begins to walk down the hall.
+
+TOBY
+What if we said we'd allow debate?
+
+LEO
+It's a stunt and Kuhndu is for real. We can't get involved in... Talk to OMB, and find 
+out what we can give him. Wake somebody up. I got to go meet with Nancy.
+
+CUT TO: INT. AIR FORCE ONE, THE PRESIDENT'S OFFICE - NIGHT
+Bartlet is playing solitaire. Will is sitting on a coach giving Bartlet the briefing 
+on Columbia.
+
+BARTLET
+Is cocaine production in Columbia up or down?
+
+WILL
+It's up 200 percent.
+
+BARTLET
+And how many of our extradition requests have been honored?
+
+WILL
+Uh... none.
+
+BARTLET
+None.
+
+WILL
+No, there was... uh, yes, none.
+
+BARTLET
+Any good news? Anything we can hang our hat on?
+
+WILL
+Their attorney general reported that their narcotics people embezzled two million 
+dollars of their anti-drug money.
+
+BARTLET
+That's good news?
+
+WILL
+Usually, they don't report it.
+
+BARTLET
+What they spend it on? If you tell me coccaine...
+
+WILL
+No, sir, vacations.
+
+BARTLET
+So, I recertify them in recognition of the fact that they took our anti-drug money 
+and went to Seaworld.
+
+WILL
+And reported it.
+
+BARTLET
+All right, leave that stuff with me.
+
+WILL
+Thank you, Mr. President.
+
+Will exits the Presidents office, and goes to the HALLWAY. Charlie takes a drink out of 
+a mini refrigerator.
+
+CHARLIE
+You want one?
+
+WILL
+Hmm?
+
+CHARLIE
+You want a beer?
+
+WILL
+No, thanks. [sits down]
+
+CHARLIE
+It's going to be fine.
+
+WILL
+What do you mean?
+
+CHARLIE
+I know you're afraid of flying.
+
+WILL
+I'm not.
+
+CHARLIE
+I can tell.
+
+C.J. enters.
+
+C.J.
+Four hours of fuel they took on. Did you even know it was up there?
+
+CHARLIE
+Will's afraid of flying.
+
+WILL
+I'm not.
+
+C.J.
+It's okay. You're afraid of flying.
+
+WILL
+I'm not. I'm not afraid of flying. I experience flying.
+
+C.J.
+Why'd you sign up for the Air Force Reserve?
+
+WILL
+I did it for a lot of reasons, and one of them was the romance of flight, but I got 
+over that. I never thought that would happen. But these guys practice hard landings 
+all the time. This isn't a big deal.
+
+Will pops his neck. Charlie and C.J. look at him like he's crazy and walk away.
+
+CUT TO: INT. THE WEST WING, THE ROOSEVELT ROOM - NIGHT
+Tom Landis and other staffers are working when Josh enters.
+
+JOSH
+Hey, everybody, how's it going in here?
+
+LANDIS
+Good. How's it going out there?
+
+JOSH
+I don't know why it's taking so long to clean fuel up off a runway. It must be... 
+I don't know.
+
+LANDIS
+Can't use another runway?
+
+JOSH
+I guess not.
+
+LANDIS
+What about landing at Dulles?
+
+JOSH
+I'm sure that's what they are going to do if, you know... Listen, uh, I want to read 
+over what we got now. But we're all done here, except the Causcus Chair wants to add 
+something we had on Superfund, which is revenue enhancements.
+
+LANDIS
+The Caucus Chair wants revenue enhancements?
+
+JOSH
+Yeah.
+
+LANDIS
+A tax on local business.
+
+JOSH
+A dedicated levy.
+
+LANDIS
+That's a tax.
+
+JOSH
+Yeah.
+
+LANDIS
+Is this coming from the Caucus Chair or the D-triple-C?
+
+JOSH
+Both.
+
+LANDIS
+The Democratic Congressional Campaign Committee wants a dedicated levy?
+
+JOSH
+We can find more offsets. There's a way to do this.
+
+LANDIS
+You guy want to pass this or not?
+
+JOSH
+Of course we want to... Whatever Republican votes we may lose, we're going to make up 
+on the other side.
+
+LANDIS
+It's not going to get out of Committee.
+
+Donna enters.
+
+DONNA
+I'm sorry.
+
+JOSH
+Yes, it will. Now you got to stay here. You got to find more offsets and more ways to 
+bury them.
+
+LANDIS
+It's 18 million to cleanup Chesapeake Bay. It's nothing. It's watershed management.
+
+JOSH
+Yes.
+
+Josh goes into the HALLWAY with Donna.
+
+DONNA
+Leo wants you to call these members of the Congressional Black Caucus.
+
+LEO
+The Black Caucus just walked off the Kundu Peacekeeping Bill.
+
+DONNA
+And he'd like you to work with airlift Ops on Angel Maintenance procedures. We're going 
+to need it when they land.
+
+JOSH
+What are Angel Maintenance procedures?
+
+DONNA
+I'm sorry, "Angel" is the Airlift Operations code word for Air Force One.
+
+JOSH
+I didn't know that.
+
+They reach JOSH'S BULLPEN AREA.
+
+DONNA
+Anyway, C.J.'s going to be answering questions about maintenance procedures, and she's 
+going to need to be briefed.
+
+JOSH
+Why didn't I know that Airlift Ops calls the plane "Angel"?
+
+DONNA
+I'm usually the one who deals with them.
+
+JOSH
+All right, well, deal with them now.
+
+DONNA
+No, not on this.
+
+JOSH
+Yeah.
+
+DONNA
+I talk to them about people's luggage.
+
+JOSH
+Well, we don't have a problem with people's luggage tonight. You call your guys at 
+Airlift ops. Tell them they got to get you ready to educate the Press Secretary on 
+maintenance procedures as soon as Angel's on the ground.
+
+Josh walks into his office.
+
+DONNA
+Karen?
+
+KAREN
+Yeah.
+
+DONNA
+Make these phone calls for Josh, please.
+
+CUT TO: INT. AIR FORCE ONE, THE PRESIDENT'S OFFICE - NIGHT
+Bartlet is talking to Leo on the phone.
+
+BARTLET
+How many times-- seriously, Leo-- how many times has the Black Caucus on retreats, 
+at dinners... how many times have they...? There was a dinner two years where the 
+Vice Chairs literally pulled out a map of Africa. They wanted me to make Africa a 
+priority. And now they're making me look like a idiot.
+
+LEO [VO]
+Well, Mark's got a tough district.
+
+BARTLET
+Well, now they want me to make Brooklyn a priority. And when did these guys become 
+Smoot and Hawley? Hang on a second. 
+
+Bartlet spots Weiskopf coming down the stairs. He opens his door.
+
+BARTLET
+[to Leo] Jessie Weiskopf's coming down, and he ain't smiling.
+
+Bartlet goes out to the HALLWAY.
+
+WEISKOPF
+No, sir, they're unable to get a visual read. We're going to go ahead with the fly-by 
+at Andrews.
+
+BARTLET
+Okay, and how long do you think this'll take?
+
+WEISKOPF
+Probably about an hour and 15 minutes.
+
+BARTLET
+An hour and 15? Where are we?
+
+WEISKOPF
+We're over Central Tennessee. They took us off the jet routes.
+
+BARTLET
+All right, pretty soon though, we got to stop just flying around.
+
+WEISKOPF
+Yes, sir.
+
+Bartlet walks back to the OFFICE. He talks to Leo again.
+
+BARTLET
+This is starting to qualify as space travel now.
+
+LEO [VO]
+What's going on?
+
+BARTLET
+The Falcon couldn't get a visual read, so we're going to buzz the tower at Andrews in 
+a Boeing 747. Weiskopf says it's going to be an hour and 15 minutes. I'm going to call 
+the families from up here of the five guys.
+
+LEO [VO]
+We'll send up those phone numbers.
+
+BARTLET
+Thanks.
+
+CUT TO: INT. THE WEST WING, LEO'S OFFICE - CONTINUOUS
+Leo is in his office with Margaret.
+
+LEO
+Thank you, Mr. President. [hangs up] They're going to fly by the towers at Andrews.
+
+MARGARET
+My question about the foam is that the steel is still landing on concrete.
+
+LEO
+They have their back wheels. Can you get me C.J.?
+
+CUT TO: INT. AIR FORCE ONE, STAFF CABIN - NIGHT
+Will is sitting in a chair writing when Bartlet comes up to him.
+
+BARTLET
+Will.
+
+WILL
+Yes, sir.
+
+BARTLET
+I'm going to call the families now. They're going to send up some information. Can you 
+help me out?
+
+WILL
+Yes, sir.
+
+BARTLET
+Just give this to C.J. You should read it on the way.
+
+WILL
+Yes, sir.
+
+BARTLET
+Do me a favor. Find out what happens if I don't certify Columbia. Find out what happens 
+if I decertify Columbua.
+
+WILL
+Really?
+
+BARTLET
+If I'm going to be up here, I may as well do something.
+
+WILL
+Yes, sir.
+
+BARTLET
+The fly-by's going to take about an hour and 15 minutes. Would you tell C.J.?
+
+WILL
+Yes, sir.
+
+CUT TO: INT. PRESS CABIN - NIGHT
+It's quiet in the press cabin. The reporters are sitting in their seats and C.J. is 
+pacing up the aisle.
+
+REPORTER KATIE
+C.J.?
+
+C.J.
+Yeah.
+
+KATIE
+If there is an issue of national security...
+
+C.J.
+There is.
+
+KATIE
+Isn't it also a national issue for everyone down there?
+
+REPORTER JOHN
+In other words, turn on the damn phones.
+
+C.J.
+Somebody ask Steve what time it is. It's going to crack you up.
+
+JOHN
+C.J.
+
+C.J.
+How is it a threat to anyone on the ground?
+
+STEVE
+Air Force One doesn't generally break all by itself.
+
+C.J.
+Steve...
+
+STEVE
+Claudia, in a room someplace they're talking about the possibility the plane was 
+sabotaged.
+
+C.J.
+By screwing with the front wheel?
+
+MARK
+If the malfunction's because of a leak in the hydraulics and they try to recycle the 
+wheel, the front end of the plane's going to blow up.
+
+C.J.
+No, your right. I should definitely let you use the phone.
+
+Will enters and hands C.J. a note. C.J. reads the note.
+
+C.J.
+We're going to do a fly-by at Andrews. This thing's almost over.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: EXT. PORTICO - NIGHT
+Leo is out on the portico smoking a cigarette. Toby exits through the Outer Oval 
+Office and approaches Leo.
+
+TOBY
+What are you doing?
+
+LEO
+Hey.
+
+TOBY
+What are you doing?
+
+LEO
+Did OMB have anything?
+
+TOBY
+Budget didn't have anything Mark wants. He can call OMB himself. Leo, let's say we study...
+
+LEO
+Come on.
+
+TOBY
+Study some version of his amendment.
+
+LEO
+We'll look ridiculous.
+
+TOBY
+It's not ridiculous.
+
+LEO
+It's a stunt.
+
+TOBY
+It is, but it's not ridiculous. We say we're going to study the draft and...
+
+LEO
+There's never going to be a draft.
+
+TOBY
+Mark knows that. He wants the debate. We want our peacekeeping appropriation. 
+Everybody's happy.
+
+LEO
+Hardly anybody's happy. The President's going to study reinstating... We're for 
+peacekeeping in Kuhndu.
+
+TOBY
+And Mark's point is who keeps the...
+
+LEO
+I know what Mark's point is.
+
+TOBY
+People who got nowhere else to go...
+
+LEO
+For advancement, they go for advancement.
+
+TOBY
+The five guys on their way home right now... didn't advance very far, I think is 
+Mark's point.
+
+LEO
+It was a computer error, Toby.
+
+TOBY
+Yeah, I know.
+
+LEO
+Find out what "considering the amendment" has to look like in order for the Black 
+Caucus to stay onboard.
+
+TOBY
+I will. Thank you.
+
+Toby walks away. Leo sits on a bench and continues to smoke his cigarette.
+
+CUT TO: INT. AIR FORCE ONE, SENIOR STAFF CABIN - NIGHT
+
+WILL
+Decertifying Columbia triggers automatic economic or trade sanctions.
+
+BARTLET
+We lose some money.
+
+WILL
+Yes. Now, the State Department feels that the President's credibility with his own 
+legislature is based on his close ties with the U.S., and that would obviously be 
+significantly damaged.
+
+BARTLET
+Right, but at the moment, I'm more concerned with our credibility. He told me at the 
+Summit of the Americas that he'd work toward crop diversification. Did he mean opium 
+and coke?
+
+WILL
+And they also ask that I remind you that his opponent in the last election, Garcia 
+Larco, took campaign cash from the cartels, and if we weaken the President, we could 
+get a reactionary in the next election.
+
+BARTLET
+Yes, but he's not helping us, so why should I give him political cover? Listen, I'm 
+serious. What would happen if I don't recertify Columbia?
+
+WILL
+Well... actually, you can't.
+
+BARTLET
+I can't what?
+
+WILL
+Can't not recertify them. They're going to be automatically recertified.
+
+BARTLET
+Why? [thinks] Because the deadline was midnight...
+
+BARTLET AND WILL
+And it has to be delivered...
+
+WILL
+Yes.
+
+BARTLET
+The actual signed paper?
+
+WILL
+That's what the Counsel's Office...
+
+BARTLET
+This is really how the world works.
+
+WILL
+Well, it's how recertification works, I'm afraid, sir, so...
+
+BARTLET
+I want this plane to land!
+
+Will looks out the window then back at Bartlet.
+
+WILL
+Did it work? 
+
+Bartlet laughs.
+
+BARTLET
+All right, thanks.
+
+WILL
+Thank you, Mr. President.
+
+CUT TO: INT. THE WHITE HOUSE MESS - NIGHT
+The mess is empty except for Leo. He's sitting at a table when Josh enters.
+
+JOSH
+You wanted to see me?
+
+LEO
+The Chesapeake cleanup isn't going to happen.
+
+JOSH
+At all.
+
+LEO
+It's not going to come out of Committee.
+
+JOSH
+'Cause of the revenue enhancements?
+
+LEO
+I think a little of everything.
+
+JOSH
+What happened?
+
+LEO
+Well, look, they weren't wild about it in the first place.
+
+JOSH
+What happened?
+
+LEO
+Deaver didn't like that Landis was working so closely with you.
+
+JOSH
+Did those two idiots let the Republicans on the Committee know? They were already 
+pissed at him.
+
+LEO
+He's vulnerable, and they want his seat. We take back the House, there's any number, 
+um... Mileage standards, reauthrize CWA-- any number of things we can do to help the 
+environment more.
+
+JOSH
+Is the President supposed to open a pizzeria while the Republicans control Congress?
+
+LEO
+We got the peacekeeping appropriation next week. I don't want to get in to it over 
+$18 million for Chesapeake Bay.
+
+JOSH
+We're going to lose an ally in Landis.
+
+LEO
+Well, one way or another, I think we're going to lose Landis.
+
+JOSH
+And they say the two parties can't get together on anything. 
+
+Josh starts to walk out of the mess.
+
+LEO
+The pizzeria thing was funny.
+
+JOSH
+Thank you.
+
+Josh exits to the BASEMENT HALLWAY, where he meets Donna. They walk back upstairs.
+
+DONNA
+I was just coming down to see you.
+
+JOSH
+I just needed Leo for a second.
+
+DONNA
+Angel undergoes maintenance every day, whether the plane's going to be flying or not. 
+Every 154 days, the plane's completely taken apart and put back together again. 24 
+hours before wheels-up, fuel is sealed in a tank truck and guarded by sharpshooters. 
+One hour before wheels-up, Air Force specialist drain off a gallon and analyze it for 
+purity and the right levels of octane and water. The wiring-- and this is going to be 
+an area-- is shielded to protect it from a thermonuclear blast. If you want to sabotage 
+it, you have to get by 48 armed members of the Air Lift Security Unit or join the 
+maintenance crew, whick takes 12 months after a two-year background check.
+
+JOSH
+The guys you're talking to-- what do they think happened?
+
+DONNA
+They think a light didn't work.
+
+JOSH
+Why?
+
+DONNA
+I asked them the same thing.
+
+JOSH
+What'd they say?
+
+DONNA
+That sometimes lights don't work.
+
+JOSH
+Okay.
+
+Donna walks away and Josh enters THE ROOSEVELT ROOM. Landis and the staff are still 
+going over the Chesapeake Cleanup Bill.
+
+LANDIS
+Hey, Air Force One going to land?
+
+JOSH
+Pretty soon.
+
+LANDIS
+Can I just ask, out of curiosity, at what point was Hoynes alerted?
+
+JOSH
+As soon as Andrews waved off the plane. Would you guys mind? Could you give us the 
+room for a second?
+
+The staffers leave.
+
+LANDIS
+What? The Democrats want a tax on clams?
+
+JOSH
+It's not the Democrats this time, it's the Republicans. It's not going to happen.
+
+LANDIS
+What do you mean?
+
+JOSH
+It's not going to get out of Committee. The White House is going to have to pull its 
+support, but there's room in the EPA budget, room in the interior budget.
+
+LANDIS
+Room for everything but my name?
+
+JOSH
+Yeah.
+
+LANDIS
+You guys are really going to go after the seat next time, huh?
+
+JOSH
+So are the Republicans, Tom. You're probably going to have a primary challenge.
+
+LANDIS
+You know, if you keep squeezing out the liberal Republican and the conservative 
+Democrats...
+
+JOSH
+That's who's beatable.
+
+LANDIS
+If I'm running scared, I run to the right. That's where the money is.
+
+JOSH
+This is something that was never in my lap the right way.
+
+LANDIS
+You know, a friend of mine's a comedian, and he was doing a standup here in town. 
+A bunch of people from the German consulate came down to see him, and they came 
+backstage afterwards, and they said to him, "How come we don't have anyone as funny 
+as you back home?" And my friend said, "Because you killed them all."
+
+JOSH
+Well, tht's a bit of an overstatement... isn't it?
+
+LANDIS
+Maybe.
+
+JOSH
+Thanks for the work.
+
+LANDIS
+You should really come to Chesapeake Bay. It's incredibly beautiful.
+
+JOSH
+I will.
+
+Josh exits the room.
+
+CUT TO: INT. MARK RICHARDSON'S OFFICE - NIGHT
+Mark Richardson is hanging up the phone when Toby enters.
+
+TOBY
+He said I should come in.
+
+RICHARDSON
+Yeah.
+
+TOBY
+"The President does not think we shoud reinstate the draft nor does he intend to do so, 
+but he respects Chairman Richardson as a leader in the Congress, and he's eager to hear 
+what he has to say and to engage in thorough debate."
+
+RICHARDSON
+What's that?
+
+TOBY
+What C.J. will say tomorrow from the podium in exchange for votes of the Black Caucus 
+on peacekeeping in Kuhndu.
+
+RICHARDSON
+It's not going to screw you too much?
+
+TOBY
+No, it'll screw us the regular amount.
+
+RICHARDSON
+This isn't new. The Union Army had a draft that you could buy yourself out for, for $300.
+
+TOBY
+Actually, the money ended up coming in handier than the soldiers.
+
+RICHARDSON
+Yeah, but I don't think that was my point. If you have money, you have a greater life 
+expectancy across the board. You're going to have better health care, better shelter, 
+better lawyers, and if you've got whatever equivalent of today's $300 is, you get to be 
+united behind the war effort without actually fighting the war. And you're one of my 
+constituents, too, Toby, so I shouldn't have to tell you that.
+
+TOBY
+You don't, Congressman. I was just on the job tonight.
+
+RICHARDSON
+Hmm. What was your lottery number?
+
+TOBY
+125. It was the last six months of the draft. It went up to 90 that year... but I 
+didn't have the 300 bucks.
+
+RICHARDSON
+Hmm. I'm going to call Sergeant Dokes' family now.
+
+TOBY
+I'd like to stay if you don't mind.
+
+RICHARDSON
+No, but stay standing.
+
+TOBY
+Yeah.
+
+Richardson picks up the phone and begins to dial.
+
+CUT TO: INT. AIR FORCE ONE, HALLWAY - NIGHT
+C.J. is standing up the against the wall swaying. Ed and Larry walk up to her.
+
+C.J.
+Are we near the tower?
+
+LARRY
+Gear's down.
+
+C.J.
+What?
+
+LARRY
+They got the indicator light.
+
+ED
+They recycled the gear, and the light went on this time. We're landing.
+
+C.J. grabs Ed and kisses him on the lips then walks away.
+
+LARRY
+I was the one who said it first.
+
+CUT TO: INT. PRESS CABIN - CONTINUOUS
+C.J., who's on the phone, yanks open the curtains to the press cabin.
+
+C.J.
+Signal, this is C.J. Cregg. Please turn the phones back on in the press cabin. 
+
+The reporters all start to cheer and applaud.
+
+C.J.
+We're landing. We got an indicator light. You should feel free to file. Thank you all 
+very much.
+
+C.J. stand at the doorway looking solemn. She's about to say something when Steve speaks.
+
+STEVE
+Thank you, C.J.
+
+MARK
+Thank you, C.J.
+
+KATIE
+C.J., thank you.
+
+REPORTERS
+Thank you.
+
+C.J.
+Thank you.
+
+C.J. exits and walks over to her seat in the STAFF CABIN.
+
+C.J.
+Oh. 
+
+She sits, and Will walks up to her.
+
+C.J.
+You heard?
+
+WILL
+Yeah.
+
+C.J.
+Sit down. 
+
+Will sits.
+
+C.J.
+I was meaning to ask you. Why did you ask about the front wheel before? You asked the 
+Colonel if it was the front wheel.
+
+WILL
+Well, if you have the rear wheels, you can try a hard landing where you come down hard 
+on the back wheels in an effort whack the front into place.
+
+C.J.
+To whack it into place?
+
+WILL
+Yes.
+
+C.J.
+I'm so happy I didn't have that information.
+
+WILL
+If you hit it wrong, the plane breaks in half.
+
+C.J.
+It just suddenly worked?
+
+WILL
+The gear?
+
+C.J.
+Yeah.
+
+WILL
+Yeah.
+
+C.J.
+I'm not sure I'm good at living in a world where that kind of thing is possible.
+
+WILL
+But you are.
+
+C.J.
+I imagine myself destitute, I imagine myself unlucky in love. But I never imagine my 
+life would be in danger with really uncommon frequency. It feels a little bit good, 
+doesn't it?
+
+WILL
+No.
+
+C.J.
+Yes, it does.
+
+WILL
+I'll make jokes when this whole bullfight with gravity is over.
+
+COLONEL WEISKOPF 
+[over PA system] Well, ladies and gentlemen, from the flight deck, this is Colonel 
+Weiskopf. From the hooting and hollering we can hear through our cockpit door, you've 
+no doubt heard that we have a clear indicator light on our landing gear, and we are 
+cleared for landing at Andrews Air Force Base. For those keeping score, our total 
+flight time will have been 22 hours and 13 minutes using three seperate flight crews 
+along the way. We will have traveled 10,700 air miles on our return trip, a significant 
+portion of it the over West Virginia and Tennessee. White House staff on the ground 
+informs us that while airborne on this flight, three seperate pieces of legislation 
+have been negotiated and initialed by the President. We've had an engagement, a 
+birthday, and the nation of Colombia was recertified as an ally in our war against 
+drugs. I hope you won't consider this time we've spent together a waste. And now I'm
+ being handed... Hang on just one moment... Yeah, ladies and gentlemen, The're going 
+to move us to runway three-niner. There's a strong wind shift under 10,000 feet, so 
+Andrews approach has asked us to abandon our descent, make a 30-degree right turn and 
+maintain our current altitude. I'm sure we'll be down in no time now.
+
+As Colonel Weiskopf is speaking over the PA, the camera pans through the STAFF CABIN, 
+then into the PRESS CABIN and back out to where Bartlet is standing in the HALL. Upon 
+hearing the news that the plane isn't going to land, Bartlet storms in his office and 
+slams the door.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are a property of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television and NBC. No copyright infringement is intended. 
+
+Episode 4.19 -- "Angel Maintenance" 
+Original Air Date: April 2, 2003, 9:00 PM EST
+
+Transcibed by: ck1czar
+June 12, 2003

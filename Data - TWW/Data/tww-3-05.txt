@@ -1,0 +1,2428 @@
+THE WEST WING
+"WAR CRIMES"
+TELEPLAY BY: AARON SORKIN
+STORY BY: ALLISON ABNER
+DIRECTED BY: ALEX GRAVES
+
+
+TEASER
+
+FADE IN: INT. THE WHITE HOUSE PRESS ROOM - DAY
+SUNDAY
+From T.V. screens to cameras to more T.V. screens, we follow several reporters as they 
+head inside to take their seats. From a nearby television, we hear sounds from a football 
+game. A briefing is about to start. And as the Press Corps takes its respective seating, 
+C.J. enters and goes behind the podium. She speaks while getting settled.
+
+C.J.
+Okay.
+
+CHRIS
+C.J., do we know what kind of gun it was?
+
+C.J.
+Which gun?
+
+CHRIS
+The first gun.
+
+C.J.
+It was a .38 pistol. Okay, here are a few confirmations and a few more details. The 
+shooting took place approximately 15 minutes into the 9:00 service at United Baptist 
+Church in Abilene, Texas. [notices a familiar man seated in the middle row to her left]
+Will Sawyer, is that you?
+
+WILL SAWYER
+Yes.
+
+C.J.
+You back in the country?
+
+WILL
+Yeah.
+
+C.J.
+You working for the San Francisco Chronicle now?
+
+WILL
+No.
+
+C.J.
+Then you want to get your ass out of their chair?
+
+Laughter. WILL SAWYER stands up.
+
+WILL
+There's assigned seating?
+
+C.J.
+You see the little brass plaques with the names of media outlets on the front of the 
+seats?
+
+WILL
+I thought that meant they made a generous contribution.
+
+C.J.
+Find a seat in back. 
+
+Will does, and C.J. continues. 
+
+C.J.
+Fifteen minutes into the service, Daryl Bechtell, B-E-C-H-T-E-L-L, walked into the 
+sanctuary. Reports indicate he was looking for his estranged wife. He fired off a 
+round -- that was from the .38 -- missing his wife and hitting Harold Winter in the 
+left shoulder. Mr. Winter is 65 and currently undergoing surgery at Abilene Regional 
+Medical Center. 
+
+Carol quietly enters the room.
+
+C.J. [cont.]
+Mr. Bechtell fired off anywhere between two and four more rounds at that point -- reports 
+differ -- as the crowd began to scatter. That's when Ron Cahrl pulled a nine millimeter 
+Glock from under his suit coat and fired off three rounds in the direction of Mr. 
+Bechtell. It's unclear which of those rounds struck Melissa Markey.
+
+STEVE
+Confirmation on her age?
+
+C.J.
+She's be nine years old tomorrow.
+
+STEVE
+Can you speak to what either Daryl Bechtell or Ron Cahrl might be charged with?
+
+C.J.
+No. The Abilene Sherrif's Office will address that. I can tell you that Mr. Bechtell's 
+gun was registered and that Ron Cahrl had a license to carry a concealed weapon.
+
+ARTHUR
+Doesn't Texas law prohibit carrying a weapon in a church or synagogue?
+
+C.J.
+Again, I'll have the Sheriff's Office speak to that, but I'll tell you that it only 
+prohibits it if the church or synagogue posts such a prohibition in plain sight.
+
+Carol takes this time to give C.J. a note.
+
+REPORTERS
+C.J.!
+
+C.J.
+Hang on. [reads the note] Well... Melissa Markey died.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. WHITE HOUSE LOBBY - DAY
+Sam and Donna are standing in front of the doors.
+
+SAM
+If you don't understand a question, say so. They'll repeat it. Or they'll rephrase it.
+
+DONNA
+Yeah.
+
+SAM
+There's nothing wrong with not understanding the question.
+
+DONNA
+Right.
+
+SAM
+There's nothing wrong with saying 'I don't recall.'
+
+DONNA
+I appreciate this.
+
+SAM
+Yeah. Don't you want to go to this with Josh?
+
+DONNA
+He's pissed at me.
+
+SAM
+No, he's not.
+
+DONNA
+He's... Yeah, he is.
+
+SAM
+He didn't say anything.
+
+DONNA
+He doesn't say anything.
+
+SAM
+All right.
+
+DONNA
+Anyway, I appreciate this.
+
+SAM 
+[as he sees Charlie passing by] Charlie, hang on a second. [to Donna] You're going to be 
+sitting in a room. It's going to feel like you did something wrong. But guess what?
+
+DONNA
+What?
+
+SAM
+You didn't! So, you got a cab up front?
+
+DONNA
+Yeah. 
+
+SAM
+Come back when it's over?
+
+DONNA
+Thanks. [leaves]
+
+Sam follows Charlie.
+
+CHARLIE
+You make a pick?
+
+SAM
+Oakland over Dallas!
+
+CHARLIE
+Okay.
+
+SAM
+It's a lock.
+
+CHARLIE
+Okay.
+
+SAM
+Everybody's staying away 'cause they want to keep Oakland down the road. But if you're 
+like me, you're not as impressed with the pre-season hype. You pick the Raiders at home, 
+and you bank on them not being a prohibitive favorite going into the playoffs.
+
+CHARLIE
+Okay.
+
+SAM
+You think I should take Tennessee over Detroit?
+
+CHARLIE
+I didn't say that.
+
+SAM
+You said it with your eyes.
+
+CHARLIE
+Okay.
+
+SAM
+I'll take Tennessee over Detroit.
+
+CHARLIE
+I'm writing it down.
+
+SAM
+Write it down. Wait. No. Give me Oakland over Dallas.
+
+CHARLIE
+Okay. They stop in front of the opposite White House entrance.
+
+SAM
+Except make it New Orleans over Atlanta.
+
+CHARLIE
+The first games are about to start.
+
+SAM
+New Orleans over Atlanta!
+
+CHARLIE
+I'm writing it down.
+
+SAM
+Write it down. [leaves]
+
+The doors open. Bartlet and Abbey walk inside.
+
+CHARLIE
+Good afternoon.
+
+ABBEY
+Hi, Charlie.
+
+CHARLIE
+How was church?
+
+BARTLET 
+[mumbles] It sucked.
+
+ABBEY
+It was fine. [to Bartlet] Stop it! 
+
+BARTLET
+It sucked!
+
+ABBEY 
+[sighs] You're talking about church.
+
+BARTLET
+Oh, like I'm not already going to hell.
+
+CHARLIE 
+[follows them a pace behind] What was the problem?
+
+ABBEY
+He feels the homily lacked penache.
+
+BARTLET
+It did lack penache.
+
+ABBEY
+It was a perfectly lovely homily on Ephesians 5:21. "Husbands, love your wives, as Christ 
+loved the church and gave himself up for her."
+
+BARTLET
+Yeah. She's skipping over the part that says, "Wives, be subject to your husbands as to 
+the Lord, for a husband is the head of a wife as Christ is the head of the church."
+
+ABBEY
+I do skip over that part.
+
+BARTLET
+Why?
+
+ABBEY
+Because it's stupid!
+
+They walk in THE OVAL OFFICE.
+
+BARTLET
+Okay.
+
+ABBEY
+"Husbands, love your wives as Christ loved the church and gave himself up for her, that 
+he might sanctify her, having cleansed her by washing of water with the word that he 
+might present the Church to himself in..." something.
+
+BARTLET 
+[behind his desk, puts on glasses] "In splendor." And I have no problem with Ephesians. 
+And any time you want me to cleanse you with the washing of water, you know I'm up for it.
+
+ABBEY
+Then what is your problem?
+
+BARTLET
+Hackery! 
+
+Abbey waves her arms at him and walks out to the PORTICO. Bartlet follows.
+
+BARTLET
+This guy was a hack! He had a captive audience! And the way I know that is that I tried 
+to tunnel out of there several times. He had an audience and he didn't know what to do 
+with it.
+
+ABBEY
+You want him to sing "Volare?"
+
+BARTLET
+Couldn't have hurt. Words...
+
+ABBEY
+Oh, God, no.
+
+BARTLET
+Words, when spoken out loud for the sake of performance, are music. They have rhythm, 
+and pitch, and timbre, and volume. These are the properties of music, and music has the 
+ability to find us and move us, and lift us up in ways that literal meanings can't. Do 
+you see?
+
+ABBEY
+You are an oratorical snob.
+
+BARTLET
+Yes, I am. And God loves me for it.
+
+They stop and face each other.
+
+ABBEY
+You said he was sending you to hell.
+
+BARTLET
+For other stuff, not for this. You can't just trod out Ephesians, which he blew, by the 
+way, it has nothing with husbands and wives, it's all of us. Saint Paul begins the 
+passage: "Be subject to one another out of reverence to Christ." [passionately] "Be 
+subject to one another." In this day and age of 24-hour cable crap, devoted to feeding 
+the voyeuristic gluttony of the American public, hooked on a bad soap opera that's 
+passing itself off as important, don't you think you might be able to find some relevance 
+in verse 21? How do end the cycle? Be subject to one another!
+
+ABBEY
+So... This is about you.
+
+BARTLET
+No, it's not about me! Well, yes, it is about me, but tomorrow it'll be about somebody 
+else. We'll watch Larry King and see who. [shouts] All hacks, off the stage! Right now! 
+That's a national security order.
+
+ABBEY
+I'm going to the Residence. I'm taking a bath; I'm turning on Sinatra.
+
+BARTLET
+How does Mrs. Sinatra feel about that?
+
+ABBEY
+Peace be with you. [turns to leave]
+
+C.J. comes outside behind Bartlet.
+
+BARTLET 
+[sings] You make me egg foo yung...
+
+C.J.
+Good morning, Mr. President.
+
+BARTLET 
+[turns to her, sings] You make me feel there are songs to be sung...
+
+ABBEY 
+[to C.J.] He's feisty. Please, don't ask him about church.
+
+C.J. 
+[quietly] No, I won't. I'm sorry, Mr. President, Melissa Markey died.
+
+BARTLET 
+[smile fades away] Yeah, okay. 
+
+Abbey approaches him.
+
+BARTLET
+Ah, damn. Charlie, can I see Leo?
+
+CHARLIE
+Yes, sir.
+
+ABBEY
+She would have lost too much blood at the scene, Jed. She didn't have a chance.
+
+BARTLET
+Yeah.
+
+ABBEY
+All right... I'll be over in the Residence. I've got to see Babish this afternoon. 
+[pats him on the shoulder and leaves]
+
+BARTLET
+Okay. [walks with C.J. quietly] When do you think I should go in there?
+
+C.J.
+I'd wait a couple of hours till we hear some more facts.
+
+BARTLET
+You'll talk to the sheriff's office and...
+
+C.J.
+Yeah.
+
+BARTLET
+I guess the DA.
+
+C.J.
+Yeah, but you don't want to walk too far into that.
+
+BARTLET
+Yeah.
+
+Leo is waiting by the entrance to Oval Office.
+
+LEO
+Good morning.
+
+BARTLET
+You heard?
+
+LEO
+Yeah.
+
+BARTLET
+C.J. thinks I should wait a few hours.
+
+LEO
+I would.
+
+BARTLET
+Yeah.
+
+C.J.
+Thank you, Mr. President. [walks off]
+
+BARTLET
+Be subject to one another, Leo. What can I do to be of subject to you?
+
+LEO
+I'm fine.
+
+BARTLET
+Yeah?
+
+LEO
+I've got Margaret.
+
+BARTLET
+Okay.
+
+They walk back in THE OVAL OFFICE. Bartlet sits behind his desk. Leo sits hear him.
+
+LEO
+I think you should send Hoynes to Texas.
+
+BARTLET
+He's not going to want to do it.
+
+LEO
+What do you care?
+
+BARTLET
+What are you doing today?
+
+LEO
+I'm meeting with Adamley.
+
+BARTLET
+What about?
+
+LEO
+He wants to talk to me about the War Crimes Tribunal.
+
+BARTLET
+Keep me out of it, all right?
+
+LEO
+Yeah.
+
+BARTLET
+You think I should send Hoynes to Texas?
+
+LEO
+Yeah.
+
+BARTLET
+All right, get him over here.
+
+LEO
+Now?
+
+BARTLET
+Yeah.
+
+LEO 
+[stands] Thank you, Mr. President.
+
+CUT TO: EXT. THE HOUSE OVERSIGHT COMMITTEE BUILDING - DAY
+
+CLIFF [VO]
+This proceeding is known as a deposition. The person transcribing a deposition is a 
+House reporter and although she's not a notary public you were just sworn in by a notary 
+public and were placed under oath. Do you understand?
+
+CUT TO: INT. A ROOM IN THE BUILDING - CONTINUOUS 
+A long table is occupied by many people, Donna and Cliff sit opposite each other.
+
+DONNA
+Yes.
+
+CLIFF [VO]
+Because you were placed under oath, your testimony here today has the same force and 
+effect as if you were testifying before the committee in a courtroom. Do you understand?
+
+DONNA
+Yes.
+
+CLIFF
+This committee has been granted authorization pursuant to House Resolution 173, my name 
+is Clifford Calley. I'm Majority Counsel for the House Government Oversight and Reform 
+Committee. Would you state your full name for the record, please.
+
+DONNA
+Donnatella Moss. D-o-n-n-a-t-e-l-l-a M-o-s-s.
+
+CLIFF
+At this point I'd like the record to indicate that the Majority Counsel has met the 
+witness socially on several occasions, and without objection, I'd like to proceed.
+
+WOMAN
+No objection.
+
+CLIFF
+Counsel?
+
+COUNSEL
+No objection.
+
+CLIFF
+I'd also like to express the Committee appreciation to the witness appearing on a Sunday. 
+Ms. Moss, are you here voluntarily or as a result of a subpoena?
+
+DONNA
+A subpoena.
+
+CLIFF
+No need to thank me. [beat] Donna, this is going to be easy, you can laugh. Were you 
+recently asked to help organize documents pursuant to this Committee current 
+investigation?
+
+DONNA
+Yes.
+
+CLIFF
+Would you describe how that works?
+
+DONNA
+On instructions from Joshua Lyman and the White House Counsel's office, I took over a 
+storage room at the OEOB and began sorting through any interoffice or interdepartmental 
+documents, both from the campaign and from the West Wing.
+
+CLIFF
+And for the record, the campaign you're referring to is...
+
+DONNA
+Bartlet for America.
+
+CLIFF
+How'd you guys do?
+
+DONNA 
+[very seriously] We won.
+
+CLIFF
+Okay. [beat] My colleagues are going to ask you some questions. Then we'll get back to 
+me and finish up.
+
+DONNA
+Okay.
+
+MAN
+Ms. Moss? Do you keep a photo album?
+
+DONNA
+No.
+
+MAN
+Okay. Do you keep...
+
+DONNA
+I'm sorry. Uh... I keep photographs, I don't have them in an album.
+
+MAN
+Okay. Do you keep a scrapbook?
+
+DONNA
+No.
+
+MAN
+Do you keep letters, notes, or other correspondence you receive from people?
+
+DONNA
+Sometimes a birthday card or a letter from my father.
+
+MAN
+Do you keep a diary?
+
+DONNA
+No.
+
+MAN
+Okay. Do you receive gifts from anyone who's currently...
+
+CLIFF
+I'm sorry, hang on. [to the transcriber] Would you read that back?
+
+TRANSCRIBER
+"Question: Do you keep a diary? Answer: No. Question: Okay. Do you receive gifts from..."
+
+CLIFF 
+[looks at Donna] Okay. Okay, go ahead.
+
+MAN
+Do you receive gifts from anyone who's currently working at the White House?
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. C.J.'S OFFICE - DAY
+Thunder rumbles. It already started to rain. C.J. is not in her office. Will Sawyer is. 
+He is sitting behind C.J.'s desk and is playing with some of her things. Seconds later, 
+C.J. enters and sees him.
+
+C.J.
+How are you doing?
+
+WILL
+Good.
+
+C.J.
+You're sitting in my chair.
+
+WILL
+It didn't have a plaque on it.
+
+C.J.
+[chuckles] Oh, I've missed you.
+
+WILL
+Yeah. [stands and finds another chair across C.J.'s desk]
+
+C.J.
+Well, you've been gone three weeks.
+
+WILL
+I've been gone two and a half years.
+
+C.J.
+Really?
+
+WILL
+Yes.
+
+C.J.
+So what happened? I thought you were our man in Myanmar.
+
+WILL
+I got kicked out of Myanmar.
+
+C.J.
+Well, is there a third world country you haven't been kicked out of?
+
+WILL
+Hey, I've been kicked out of plenty of industrialized nations, too.
+
+C.J.
+Why'd they kick you out?
+
+WILL
+Well, first of all, they didn't kick me out exactly. In fact, they love me in Myanmar.
+
+C.J.
+What happened?
+
+WILL
+They put a bounty on my head. [C.J. laughs.] It's not funny. The Myanmarese government 
+is built on narcotics trafficking. Myanmar, Thailand, Laos. I was this close to the story.
+
+C.J.
+Yeah?
+
+WILL
+I had interviews with Pau Jiasheng, Pau Yujiung, Li Zuru. I was tight with narco-barons.
+
+C.J.
+Until?
+
+WILL
+The Myanmarese army...
+
+C.J.
+Put a bounty on your head.
+
+WILL
+Yeah.
+
+C.J.
+How'd you know?
+
+WILL
+The State Department came and got me.
+
+C.J.
+Oh. That had to be embarrassing in front of your narco-baron friends.
+
+WILL
+Anyway... I'm assigned to the White House Press Corps until they can find me, you know, 
+a reporting job.
+
+C.J.
+No. No offense taken.
+
+WILL
+Thanks.
+
+C.J.
+Why did you want to see me?
+
+WILL
+I have a quote if you want to comment.
+
+C.J.
+What is it?
+
+WILL
+Toby Ziegler says, "If the President wins reelection, it will be on the Vice President's 
+coattails."
+
+C.J.
+"If the President wins reelection, it will be on the Vice President's coattails"?
+
+WILL
+[consults his notepad] I think that's, uh... yeah.
+
+C.J.
+He said this to you?
+
+WILL
+No.
+
+C.J.
+Where'd you get it?
+
+WILL
+The person he said it to.
+
+C.J.
+Will, do me a favor. Give me a little time to check it out, would you?
+
+WILL
+Yeah. [stands]
+
+C.J.
+You've been gone two and a half years?
+
+WILL
+Yeah.
+
+C.J.
+Seemed like less than that.
+
+WILL
+People lose all track of time and space when I'm not around.
+
+C.J.
+Yeah.
+
+Will takes his jacket and leaves. Out in the hallway, he looks left, right, and walks off. 
+
+SAM [VO]
+It's 30 billion in School Modernization Bonds.
+
+CUT TO: INT. THE ROOSEVELT ROOM - DAY
+Sam is meeting with Congressional Aide TERRY BECKWITH. Ginger walks in with a tray and 
+two coffee mugs.
+
+SAM
+Thanks, Ginger. Thank you.
+
+GINGER
+Sure.
+
+Ginger puts down the tray on the table and exits.
+
+SAM
+It's 30 billion in School Modernization Bonds.
+
+TERRY BECKWITH
+Interest-free?
+
+SAM
+Interest-free for school districts. We're estimating it will help build and modernize 
+7,000 schools nationwide. There's another 1.5 billion for urgent repairs targeted to 
+high-need districts.
+
+TERRY
+Like roof repairs?
+
+SAM
+Roof repairs, heating and cooling systems, electrical wiring. The point is we think we 
+need the Congressman's vote to get it out of the full Appropriations Committee and on the 
+floor.
+
+TERRY
+He'll be with it.
+
+SAM
+That's what I thought.
+
+TERRY
+He's just looking for the President's support on a bill that he'll be sponsoring.
+
+SAM
+What's it called?
+
+TERRY
+It's called the "Legal Tender Modernization Act."
+
+SAM
+Which provides for?
+
+TERRY
+The elimination of the penny.
+
+SAM
+I'm sorry?
+
+TERRY
+It would permanently halt production of the penny.
+
+SAM
+Why?
+
+TERRY
+I'm glad you asked.
+
+SAM
+Yeah.
+
+TERRY
+Last year, the U.S. Mint cut 14 billion pennies and shipped them off to the Federal 
+Reserve, which dumped them in our laps. They're worthless.
+
+SAM
+Well, they're actually worth one cent.
+
+TERRY
+The dollar has the buying power today that the quarter had 30 years ago. The penny's 
+buying power shrunk to nothing.
+
+SAM
+Well, that's not true. You can get yourself a gumball.
+
+TERRY
+No, you can't. They cost a nickel.
+
+SAM
+Really?
+
+TERRY
+[sighs] I'm gonna need to give the Congressman a good reason why the White House won't 
+support the bill if they won't support the bill.
+
+SAM
+Oh, don't make me give you a good reason.
+
+TERRY
+You want your $30 billion in school repairs?
+
+SAM
+Well, we're already well on our way with 140 million pennies.
+
+TERRY
+Sam...
+
+SAM
+I'll get you a good reason.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet is at his desk looking at a piece of paper. He calls.
+
+BARTLET
+Charlie!
+
+Charlie opens the door and walks in.
+
+CHARLIE
+Yes, sir.
+
+BARTLET
+You took Indianapolis?
+
+CHARLIE
+Yes, sir.
+
+They continue, but we follow a MOVING SHOT out into the Outer Oval Office. The Vice 
+President arrives, and Nancy takes his coat.
+
+BARTLET [OS]
+You didn't want to take Kansas City over Arizona?
+
+CHARLIE [OS]
+No, sir.
+
+BARTLET [OS]
+Kansas City's got three players out of Notre Dame.
+
+CHARLIE [OS]
+Yes, sir.
+
+BARTLET [OS]
+You always go with the team who's got the most players out of Notre Dame.
+
+CHARLIE [OS]
+That's a heck of a system, sir.
+
+BARTLET [OS]
+What's your system?
+
+CHARLIE [OS]
+I compare the team's record to the record of its opponent.
+
+BARTLET [OS]
+That's a little simplistic, isn't it?
+
+CHARLIE [OS]
+Yes, sir.
+
+After she hangs the coat, Nancy stands by the door.
+
+NANCY
+Excuse me, Mr. President?
+
+BARTLET
+Yeah?
+
+NANCY
+The Vice President.
+
+BARTLET
+Thank you.
+
+Charlie takes his leave. Bartlet and Hoynes meet and shake hands.
+
+HOYNES
+Hey, Charlie.
+
+CHARLIE
+Good afternoon, sir.
+
+BARTLET
+Hey, John.
+
+HOYNES
+Good afternoon, sir.
+
+BARTLET
+Do you know this church?
+
+HOYNES
+No.
+
+BARTLET
+The United Baptists Church in Abilene?
+
+HOYNES
+No.
+
+BARTLET
+Listen, you feel like having a beer with me?
+
+HOYNES
+No, I'm fine.
+
+BARTLET
+On Sundays, when we got back from church, my father would let my brother and me split a 
+beer. It got to be a habit.
+
+HOYNES
+You mind if I split some water with you?
+
+BARTLET
+Nancy? [to Hoynes] I need you to go to Texas, John. [Nancy walks up.] Nancy, could I get 
+a cold beer and some ice water?
+
+NANCY
+Yes, sir.
+
+BARTLET
+And close the door please. [sits] Nancy does what she was told.
+
+HOYNES
+You want to send me to Texas?
+
+BARTLET
+It's what Texans do. [beat] You know, a decade ago, we passed a few national gun control 
+laws, and the gun lobby turned its back on Congress and started focusing on the states. 
+[Hoynes sits] The NRA systematically worked the legislatures to weaken conceal-and-carry 
+laws, the effect of which is to increase gun sales and pad its own membership.
+
+HOYNES
+Well, I don't necessarily agree with that, but...
+
+BARTLET
+The National Conference on State Legislatures is meeting this weekend at the Convention 
+Center in San Antonio.
+
+HOYNES
+And you want me to go to Texas and speak for you.
+
+BARTLET
+Yeah.
+
+HOYNES
+'Cause that's what Texans do.
+
+BARTLET
+[pause] It's also what Vice Presidents do.Nancy comes in and serves them beer and water.
+
+BARTLET
+Thank you, Nancy.
+
+HOYNES
+Thank you, Nancy.
+
+CUT TO: INT. NORTHWEST LOBBY - DAY
+GENERAL ALAN ADAMLEY is patiently waiting before Leo walks up.
+
+LEO
+Alan.
+
+ADAMLEY
+Hey!
+
+They exchange big smiles as they shake hands.
+
+LEO
+Come on back.
+
+Into the HALLWAY they go and head for Leo's Office.
+
+ADAMLEY
+Thanks for taking the time.
+
+LEO
+No, no. [beat] So how did it go?
+
+ADAMLEY
+It was a good trip. I met with, uh, Hassan, and I met with the Aviation Prince.
+
+LEO
+You know what we need in this country?
+
+ADAMLEY
+An Aviation Prince.
+
+LEO
+That's right.
+
+ADAMLEY
+Well, let me tell you something. Sultan Bin Abu Azir ain't what he used to be. Last time 
+I was in Kuwait, he gave me a gold inlay Gadara sword, originated from the, uh, Binhalmar 
+tribe.
+
+LEO
+What'd you get this time?
+
+ADAMLEY
+Nothing.
+
+LEO
+You want to go down the Situation Room, and blow them off the face of the earth?
+
+ADAMLEY
+Yeah.
+
+LEO
+[smiles] So...
+
+ADAMLEY
+The, uh, NSC Communications Office cabled me a draft of the President's radio address 
+for next weekend.
+
+LEO
+Alan, it's a...
+
+ADAMLEY
+[reads from a file] "At the close of the last World War, our nation was instrumental in 
+the creation of both the United Nations and the Nuremberg War Crimes Tribunal. Now, at 
+the dawn of the millennium, we cannot betray that tradition of moral leadership." 
+He's made up his mind.
+
+LEO
+It's an early draft. It's not a big thing.
+
+ADAMLEY
+Well, I know that Hutchison and Berryhill are for it, but to me, to Fitzwallace, the 
+Pentagon, the House and Senate Armed Services, and the House and Senate Foreign 
+Relations, it's a thing of catastrophic proportions.
+
+LEO
+Let's go inside and talk.
+
+CUT TO: INT. TOBY'S OFFICE - DAY
+Amidst the bright Communications Bullpen, Toby's office is a lot darker. With his feet 
+up, Toby is sitting on his couch reading a newspaper. C.J. walks in the bullpen and puts 
+a file on a desk. She was just about to leave when she sees Toby. She walks inside. 
+Toby becomes flustered, a bit nervous.
+
+C.J.
+Hey.
+
+TOBY
+I-I-I'm not here.
+
+C.J.
+I called you at home. I had you paged.
+
+TOBY
+Yeah.
+
+C.J.
+I didn't know you were here.
+
+TOBY
+[covers his face with the newspaper] I'm not.
+
+C.J.
+I think the jig is up.
+
+TOBY
+Clearly, I'm here, but I-I-I'm not open for business. I heard the President was meeting 
+with Hoynes, so I-I-I wanted to see how-how it goes.
+
+C.J.
+Listen...
+
+TOBY
+And I see you picked Chicago over Cincinnati so let me explain to you why your money's 
+gonna be in my pocket.
+
+C.J.
+If the President wins reelection, it's gonna be on the Vice President's coattails?
+
+TOBY
+[pause] You want to know what's weird? I-I-I just said... that exact same thing a couple 
+of days ago.
+
+C.J.
+I know. You know how I know? Will Sawyer just told me.
+
+TOBY
+Will Sawyer's in Myanmar.
+
+C.J.
+He got kicked out of Myanmar. He's in the room now.
+
+TOBY
+C.J., I said it... I said it at that W.A. meeting. I said it a the end of the meeting. 
+We were talking about areas where Hoynes is polling stronger than... It was... 
+[awkward chuckle] I said to our own... [pauses and sighs] Do I have a little time?
+
+C.J.
+A little.
+
+TOBY
+Thank you.
+
+C.J.
+You're here now?
+
+TOBY
+[chuckling] Yeah.
+
+When C.J. leaves, Toby calls.
+
+TOBY
+Ginger?
+
+She walks up.
+
+TOBY
+[stands] I want you to page every junior staffer and senior assistant who works in the 
+West Wing, every single one. I want them to assemble downstairs in the mess in two hours.
+
+GINGER
+What if...?
+
+TOBY
+If they can't be here in two hours, then they don't need to come in tomorrow morning.
+
+CUT TO: EXT. WASHINGTON, D.C. - DONNA'S APARTMENT STOOP - DAY
+The thunder rumbles lightly. It's raining hard, and passersby have their umbrellas up. 
+A black car is parked in front of Donna's apartment, and someone is sitting on her stoop. 
+From up the street, Donna walks up slowly and sees him. It's Cliff. He's been waiting for 
+her to come home.
+
+DONNA
+Hey.
+
+CLIFF
+How you doing?
+
+DONNA
+How'd you get here before me?
+
+CLIFF
+I drove.
+
+DONNA
+Should you be here?
+
+CLIFF
+No.
+
+DONNA
+Then what...?
+
+CLIFF
+I need to know why you lied before.
+
+DONNA
+When?
+
+CLIFF
+Donna...
+
+DONNA
+I didn't lie.
+
+CLIFF
+I saw your diary. When I was over that night. You keep a diary. Why'd you say you didn't?
+
+DONNA
+I don't keep a diary.
+
+CLIFF
+I saw it.
+
+DONNA
+You didn't 'cause there is no diary.
+
+CLIFF
+Donna. [stands] It's me and you. Now what's in it that you had to lie to the Committee?
+
+DONNA
+It's me and you? You're lead counsel for the Committee investigating me, my friends, my 
+boss, and the President of the United States.
+
+CLIFF
+That's right.
+
+DONNA
+And I thought you were a little bit smarmy with your "Donna, it's okay. You can laugh. 
+You're just..." Was that charm?
+
+CLIFF
+Tell me what...
+
+DONNA
+There is no diary.
+
+Donna starts up the stoop. Cliff interrupts.
+
+CLIFF
+18 U.S.C., 1-0-0-1. Lying to Congress: 10,000 dollars and not more than five years in 
+prison.
+
+DONNA
+Cliff...
+
+CLIFF
+18 U.S.C., 1-5-0-5. Obstruction of proceedings before departments, agencies, and 
+committees: Not more than five years. Two U.S.C., 192. Contempt of Congress: A thousand 
+dollars and imprisonment in a common jail for not more than 12 months. It was a perfectly 
+innocent mistake. Now let me talk to your lawyer and help you walk this back.
+
+DONNA
+Just out of curiosity, what would you say? [beat] That you thought you saw a diary while 
+you were hunting around for your boxer shorts? [pause] You shouldn't be here.
+
+They part ways. Donna runs up her stoop and goes inside her apartment. She shuts her 
+umbrella and the door as well.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: INT. COMMUNICATIONS BULLPEN - DAY
+Josh is leaning by Sam's doorway. He looks at his watch. Sam is sitting by a desk in 
+the bullpen.
+
+JOSH
+Why?
+
+SAM
+Why?
+
+JOSH
+Yes.
+
+SAM
+Because this country is populated with unbalanced people. Many of whom find their way to 
+Washington. As if the continent funnels them into this one spot.
+
+JOSH
+He wants to abolish the penny?
+
+SAM
+He doesn't want to abolish it, as much as he wants to give his boss a reason why we can't.
+
+JOSH
+Well... it's stupid.
+
+SAM
+Yeah, but the thing is it isn't really.
+
+JOSH
+Really?
+
+SAM
+It turns out the majority of pennies don't circulate. They go in jars and sock drawers. 
+Two-thirds of the pennies produced in the last 30 years have dropped out of circulation.
+
+JOSH
+You've been reading about this?
+
+SAM
+It's interesting.
+
+JOSH
+No, it's not.
+
+SAM
+[stands] The Mint gets letters with pennies taped on notebook paper. Letters from 
+citizens who found the pennies on the street and mailed them back to the Treasury to 
+help pay down the debt.
+
+JOSH
+It's almost hard to believe that plan hasn't worked.
+
+SAM
+It's also bad for the environment. Production requires the mining of millions of tons of 
+copper and zinc each year.
+
+JOSH
+Zinc?
+
+SAM
+In 1982, they changed the composition to 97.5% zinc and only 2.5% copper.
+
+JOSH
+Sam?
+
+SAM
+I'm turning into one of the funnel people.
+
+JOSH
+Yeah.
+
+SAM 
+[pause] Donna thinks you're still pissed at her.
+
+JOSH
+I'm not. I wasn't before. When did she tell you that?
+
+SAM
+Before she left. [sits]
+
+JOSH
+You've heard from her?
+
+SAM
+No.
+
+JOSH
+She should be done by now.
+
+SAM
+Here's a riddle. What is the most ubiquitous man-made object in America that does not 
+interact with any mechanism or machine?
+
+JOSH
+The penny?
+
+SAM
+Then penny. You can't even throw it in a tollbooth. Well, except for Illinois.
+
+JOSH
+Why can you use it in Illinois?
+
+SAM
+That's an interesting question.
+
+JOSH
+No, it's not. [walks off]
+
+CUT TO: INT. THE PRESS ROOM - DAY
+C.J. finds Will in the room.
+
+C.J.
+Hey.
+
+WILL
+Hey.
+
+C.J.
+I'm gonna have something for you soon. Toby's talking to some people.
+
+WILL
+Okay.
+
+C.J.
+Hey, are you a king?
+
+WILL
+No.
+
+C.J.
+Somebody said you were hanging out with some tribe, and they made you a king.
+
+WILL
+I'm a god.
+
+C.J.
+Oh.
+
+WILL
+I'm the only white man to ever witness the sacrificial rites of the Bau tribe of Fiji. 
+I was almost a victim myself, until they made me The Supporter of the World.
+
+C.J.
+How'd you swing that?
+
+WILL
+Using my Palm Pilot, I convinced the Bau I had the power to make the gods' writing appear 
+at will, and more significantly, predict the next day's weather.
+
+C.J.
+So you're a god?
+
+WILL
+I'm the god of Good Harvest and the Land of the Dead.
+
+C.J.
+I gotta go there and bring my laptop. It quacks when I have e-mail.
+
+WILL
+No, you're too tall.
+
+C.J.
+What would happen?
+
+WILL
+They would paint your face and [points] other body parts black [C.J. looks] so as to 
+resemble a warrior ornamented for feast or combat. Then you would be garroted by a length 
+of boar tripe.
+
+C.J.
+Yeah. No, good safety tip.
+
+WILL
+Alan Adamley here?
+
+C.J.
+Yeah.
+
+WILL
+Why?
+
+C.J.
+He's meeting with Leo McGarry.
+
+WILL
+Why?
+
+C.J.
+I don't know. Listen, you made a joke before.
+
+WILL
+Yeah.
+
+C.J.
+About being assigned to the White House until you could get a real reporting job.
+
+WILL
+Yeah.
+
+C.J.
+Was it a joke?
+
+WILL
+Yeah.
+
+C.J.
+Okay. I'll have something for you on the other thing soon.
+
+WILL
+Thanks.
+
+C.J. walks off.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet and Hoynes are still conversing. Between them is the Seal on the carpet.
+
+HOYNES
+That's not true.
+
+BARTLET
+John...
+
+HOYNES
+It is not true, Mr. President. Twenty-nine states have "shall issue" laws.
+
+BARTLET
+And if you look at the state of New Jersey, which has a "may issue" law-if you look at 
+changing that one word...
+
+HOYNES
+Look, I'm not saying...
+
+BARTLET
+Changing that one word means law enforcement can decide who gets a concealed weapon and 
+when and where they can carry it. Texas has a "may issue" law in front of a legislature 
+right now, and you going down there...
+
+HOYNES
+Me going down there is suicide, sir, and you know it.
+
+BARTLET
+It's counter-scheduling. You go in front of an unfriendly audience. You tell them 
+something they don't want to hear-it shows you have courage.
+
+HOYNES
+So the editor of The New York Times will think I have courage, while the people who 
+decide elections...
+
+BARTLET
+You're a hero in Texas.
+
+HOYNES
+I was a hero in Texas.
+
+BARTLET
+Texans don't like that you have the courage of your convictions?
+
+HOYNES
+They're not my convictions. They're yours.
+
+BARTLET
+[beat] Oh, yeah. I forgot.
+
+Bartlet stands and paces. Hoynes sighs and clears his throat. He stands as well.
+
+HOYNES
+Mr. President, we're not gonna get anywhere by treating gun owners like psychopaths, 
+and particularly in the South, where guns are a tradition and a heritage that's passed 
+on from father to son. You can't...
+
+BARTLET
+That's not good enough.
+
+HOYNES
+Sir?
+
+BARTLET
+A tradition that's passed on from father to son? We tamed the frontier, John. We did that 
+already.
+
+HOYNES
+The NRA is gonna say you're taking advantage of the shooting in Abilene. That you like it 
+when these things happen, 'cause it gives you a chance...
+
+BARTLET
+Let them stand in this room and say that. On this day. Let them stand in this room. 
+I like it?! She was nine years old! 
+
+Charlie knocks and walks in. He gives Bartlet a note then leaves. Bartlet reads it.] 
+
+BARTLET
+Green Bay lost. [beat] She was nine years old.
+
+HOYNES
+You know, last month in Idaho, a man killed six members of his family, including his 
+pregnant wife. And you know why the liberal intelligentsia didn't go crazy? Because he 
+did it with an ax. [beat] You think we need ax control?
+
+BARTLET
+Well... that is an excellent point. I never saw it that way.
+
+HOYNES
+I'm playing devil's advocate.
+
+BARTLET
+Tighter ax control.
+
+HOYNES
+You come down on firearms, you come down on tobacco, you come down on alcohol, but you 
+let Griffith run around talking about legalizing marijuana.
+
+BARTLET
+She didn't...
+
+HOYNES
+Sir?
+
+BARTLET
+You know what? Last year, gun deaths? 30,708. Alcohol deaths? 35,450. Tobacco deaths? 
+400,000. Marijuana deaths? Zero. This guy, the second shooter-Rambo? He's gonna get 
+nothing. He's gonna get a parade. You know why? There was no sign posted in the church 
+saying you can't carry a concealed weapon. [beat] I'm just playing devil's advocate. 
+She was nine years old.
+
+CUT TO: INT. LEO'S OFFICE - DAY
+Leo and Adamley are now seated and talking.
+
+LEO
+Two things: One, technically, it's not just a court for war crimes.
+
+ADAMLEY
+Technically?
+
+LEO
+And two, the President hasn't made up his mind yet.
+
+ADAMLEY
+The UN has.
+
+LEO
+The UN made up its mind in 1948, when they recognized the crime of genocide.
+
+ADAMLEY
+Yes...
+
+LEO
+A crime so immense as to exceed the jurisdiction of any single court or government. Alan, 
+systematic extermination of civilians, enslavement, torture, rape, forced pregnancy, 
+terrorism-doesn't the world need a permanent standing body...?
+
+ADAMLEY
+National sovereignty is at stake. Americans are answerable to no one but their own 
+government and their own laws.
+
+LEO
+Yeah.
+
+ADAMLEY
+And people need to be reminded that the UN is not a democratic organization. There's no 
+input in its deliberations by any...
+
+LEO
+Come on. The court is designed with plenty of safeguards, to say nothing of if we don't 
+subject ourselves to the treaty, it'll encourage other countries...
+
+ADAMLEY
+Sure.
+
+LEO
+And you don't think that'll undercut the UN's campaign against war crimes?
+
+Suddenly, Sam knocks and pokes his head in.
+
+SAM
+Excuse me. Excuse me, General.
+
+ADAMLEY
+Hey, Sam.
+
+SAM
+Margaret wasn't out here.
+
+LEO
+What do you need?
+
+SAM
+No, if you're in the middle of something, I can come back.
+
+ADAMLEY
+We're eliminating genocide. What are you doing?
+
+SAM
+Eliminating the penny. So I'll come back.
+
+LEO
+Yeah.
+
+ADAMLEY
+See you later.
+
+Sam closes the door. We follow him out to the HALLWAY where he meets Donna. She just got 
+back and a bit in a hurry. They walk.
+
+SAM
+Hey.
+
+DONNA
+Hi.
+
+SAM
+How'd it go?
+
+DONNA
+It went fine.
+
+SAM
+Just background, right?
+
+DONNA
+It was fine. Is Josh in his office?
+
+SAM
+He's around someplace.
+
+DONNA
+Thanks.
+
+SAM
+[pause] Do you know the only thing pennies interact with are those coin-wrapping machines 
+people buy to get rid of pennies, which kind of proves the point.
+
+DONNA
+What point?
+
+SAM
+I don't know. It went okay?
+
+DONNA
+Fine.
+
+They reach JOSH'S BULLPEN AREA just as Sam walks off. Donna stops. She looks toward her 
+desk and sees her boss. With courage, she approaches. Josh immediately sees her.
+
+JOSH
+How'd it go?
+
+DONNA
+I really need to talk to you for a second.
+
+JOSH
+What happened?
+
+DONNA
+I need to just... Can we go in your office?
+
+They head for his office. Ginger passes by.
+
+GINGER
+Hey, how'd it go?
+
+DONNA
+Fine.
+
+When they both get in JOSH'S OFFICE, Josh closes the door.
+
+JOSH
+What happened?
+
+DONNA
+I was asked if I kept a diary, and I said no, only I do keep a diary.
+
+JOSH
+Why did you say you didn't?
+
+DONNA
+I don't know.
+
+JOSH
+What do you mean you don't know?
+
+DONNA
+Nothing in the diary is relevant. I'm the only one...
+
+JOSH
+Is there anyone else in the witness list who knows you keep a diary?
+
+DONNA
+Well, there's nobody who knows I keep a diary, except the thing is... Cliff saw it.
+
+JOSH
+[beat] What do you mean?
+
+DONNA
+Cliff came to me after the deposition and told me he saw the diary when he was in my 
+apartment.
+
+Josh walks around behind his desk. He knows they're in trouble.
+
+DONNA
+I swear it wasn't premeditated. Nothing in it was material. Nothing in it was...
+
+JOSH
+You don't get to decide that! You don't get to decide what's material and what isn't, 
+Donna!
+
+DONNA
+Please keep your voice down.
+
+JOSH
+This is how it happens. They got nothing on the President with MS. They're trolling, 
+then you go in and hand them a...
+
+DONNA
+I know.
+
+JOSH
+You were subpoenaed! You were under oath! You answer the damn question!
+
+DONNA
+I screwed up.
+
+JOSH
+YOU THINK?!
+
+Donna, in shock, does not respond. Josh sits and touches his head.
+
+DONNA
+What should I do?
+
+JOSH
+Do nothing. Do absolutely nothing.
+
+Donna quietly leaves and closes the door.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT. HALLWAYS OUTSIDE THE WHITE HOUSE MESS - DAY
+Toby walks down the hall. The chatter of staffers gets louder as he approaches the 
+WHITE HOUSE MESS. When he walks in, Toby sees 30-40 staffers sitting and standing on 
+one side of the room. Ginger is standing in the middle of the group near the back.
+
+STAFFER
+Shhhhh.
+
+The group quiets down. They all look pretty somber, like they're anticipating a severe 
+tongue lashing. Toby sits down on the edge of a table, facing the group, and hesitates 
+for a few moments before speaking.
+
+TOBY
+There's an old saying: "Those who speak, don't know; and those who know, don't speak." 
+I don't know if that's true or not, but I know that by and large the press doesn't care 
+who really knows what as long as they've got a quote. Last Friday, we had our Week Ahead 
+meeting in the Roosevelt Room. Some of you were there, most of you weren't, but I'm 
+talking to all of you now. Bruno Gianelli and I were leading a discussion about whether 
+or not the President should stop in Kansas on his way back from the West Coast, and I 
+remarked that the Vice President is polling better than the President right now in the 
+Plains states... 
+
+Sam walks into the room. He stands in the doorway, looking far more stern than Toby.
+
+TOBY [cont.]
+...and that if the President is re-elected, it's gonna be on the Vice President's 
+coattails. That remark made its way to a White House reporter... We're a group. 
+[chuckles cheerlessly] We're a team. From the President and Leo on through, we're a 
+team...We win together, we lose together, we celebrate and we mourn together. And defeats 
+are softened and victories sweetened because we did them together...And if you don't like 
+this team... then, there's the door... It's great to be in the know. It's great to have 
+the scoop, to have the skinny, to be able to go to a reporter and say, "I know something 
+you don't know." And so the press becomes your constituents and you sell out the team... 
+So, an item will appear in the paper tomorrow, and it'll be embarrassing to me and 
+embarrassing to the President. I'm not gonna have a witch hunt. I'm not gonna huff and 
+puff. I'm not gonna take anyone's head off. I'm simply gonna say this: you're my guys. 
+And I'm yours... and there's nothing I wouldn't do for you.
+
+They all look pretty deflated and chastised. Toby stands up and walks out. Sam walks with 
+Toby back upstairs.
+
+SAM
+That was unexpected.
+
+TOBY
+[sighs] Yeah... You're a good deputy, Sam.
+
+SAM
+What do you mean?
+
+TOBY
+That.
+
+SAM 
+[chuckles] You won money on football today, didn't you?
+
+TOBY
+Yeah, but I mean it anyway. What can I do for you today? How can I help you out?
+
+SAM
+You can give me a reason why the White House can't support the elimination of the penny.
+
+TOBY
+This is the Legal Tender... Huckleberry Bill?
+
+SAM
+Modernization Bill, yeah.
+
+TOBY
+We can't support it 'cause it'll never get to the floor.
+
+SAM
+Why not?
+
+TOBY
+Where's the Speaker of the House from?
+
+They've reached the STAIRS up to the main level.
+
+SAM
+He's from Illinois, which, by the way, is the only state where you can put pennies in 
+a toll machine. Why is that, do you suppose?
+
+They pause in the middle of the stairs.
+
+TOBY
+It's because...
+
+SAM
+It's 'cause Lincoln's from Illinois! And... so is the Speaker.
+
+TOBY
+Yes.
+
+SAM
+Well, that's a good reason. Well, it's a dumb reason, but it's good enough, right?
+
+TOBY
+Sure. They start walking up the stairs again.
+
+SAM
+Thank you.
+
+TOBY
+Yeah.
+
+SAM
+And thanks for the other thing.
+
+TOBY
+Yeah.
+
+CUT TO: INT. C.J.'S OFFICE - DAY
+C.J. breezes into her office, passing Will who's perched on the edge of Carol's desk.
+
+C.J.
+Hi.
+
+WILL
+Hi.
+
+She walks behind her desk and starts shuffling papers around. He stands up and leans in 
+the doorway.
+
+C.J.
+What do you need?
+
+WILL
+You called me.
+
+C.J.
+Yes, I did... Well, Toby made the remark in response to some new polling data. It was 
+offhand. Obviously, he meant it as a joke. He regrets it.
+
+WILL
+Okay.
+
+C.J.
+He'll be happy to go on the record with you.
+
+WILL 
+[shrugs] Nah, that's all right.
+
+C.J.
+What do you mean?
+
+WILL
+I don't need him.
+
+C.J. walks toward him having gathered up the papers she needs. They walk out into the 
+HALLWAY.
+
+C.J.
+You're not gonna let Toby explain himself?
+
+WILL
+I'm not writing it.
+
+C.J.
+Why not?
+
+WILL 
+[mildly indignant] It's not news.
+
+C.J.
+Really?
+
+WILL
+Yeah.
+
+C.J. 
+[surprised and pleased] Okay.
+
+WILL
+I'll see you in there.
+
+He turns to walk away. She keeps walking, with a happy yet puzzled look on her face, but 
+then she turns around.
+
+C.J.
+You weren't joking before, were you?
+
+WILL
+When?
+
+C.J.
+When you said...
+
+WILL
+No.
+
+C.J.
+[walks toward him a little bit] Why do you think the White House is a bad beat?
+
+WILL
+I don't like being a stenographer. And I don't like writing gossip. 
+[walks toward her a little bit] I read a column last week where a lady bemoaned the 
+decade of scandals she's had to cover, as if the news was to blame for the quality of 
+journalism. I don't know if there's ever been a more important time to be good at what 
+I do. Can you imagine how much I don't give a damn about what Toby said to a staffer?
+
+C.J.
+Yeah... All right. 
+
+She walks away, but just before she opens the door to the Briefing Room, she turns around.
+
+C.J.
+You can sit anywhere you want. 
+
+She goes into the Briefing Room. He walks back down the hallway, his hands in his pockets.
+
+CUT TO: INT. LEO'S OFFICE - DAY
+The camera pans up on the globe by the desk. Adamley is sitting on the sofa. Leo is 
+walking over to his chair.
+
+LEO
+139 countries have signed. 35 have ratified. Once 60 ratify, that's the ball game. You 
+want to be left out? [sits]
+
+ADAMLEY
+Absolutely. And I'll tell you what else. This is gonna raise nineteen kinds of hell in 
+Congress.
+
+LEO
+What doesn't?
+
+ADAMLEY
+There're already extreme Republicans who are attaching amendments to bills cutting off 
+military aid to any NATO member that signs the treaty...
+
+LEO
+That won't happen.
+
+ADAMLEY
+...and committing the U.S. to forcibly rescue any American soldier held and tried in such 
+a court. Leo, this commits the United States to a scenario...where we'd be invading 
+Holland!
+
+LEO
+How much of this is about hedging our bets?
+
+ADAMLEY
+It's not about...
+
+LEO 
+[hollering] Look, we set up Nuremberg! We set up the Tokyo War Crimes Trial. And that was 
+fine until we realized the Cold War threat was gonna take precedence. So when the German 
+rocket scientists came here to help us get into space...
+
+ADAMLEY
+Oh, please...
+
+LEO
+...we looked the other way, while SS officers followed right behind, protected by 
+American intelligence services, 'cause they were gonna help us with the Communists. Oh, 
+please, Alan...So how much of this is hedging our bets?
+
+Adamley clears his throat. Leo watches, curious, as Adamley picks up a file from the 
+coffee table.
+
+ADAMLEY
+Remember Operation Rolling Thunder?
+
+LEO
+Yeah. I think I do, yeah.
+
+ADAMLEY 
+[opens the file] September 1966?
+
+LEO
+Yeah.
+
+ADAMLEY
+You were piloting an F-105 Fighter Chief. This was our first unit, 355th Tactical Fighter 
+Wing out of Thailand.
+
+LEO
+Yeah.
+
+ADAMLEY 
+I was Forward Air Commander. I gave you your directions. [reads from file] "From I.P., 
+heading 273 for 10.5 miles. Your target is north-south running bridge over river, one 
+kilometer to the tree line running east-west."
+
+LEO 
+[impatiently] Yeah? 
+
+Adamley shakes his head "No." Leo shakes his head in confusion. 
+
+LEO
+[defensively] It was a military target.
+
+ADAMLEY
+It was a civilian target. It was a dam. There were eleven civilian casualties.
+
+Adamley slaps the file down on the table. Leo sits frozen and silent for a long time. 
+The reality of Adamley's words slowly sinks in. He looks increasingly stunned and shaken, 
+struggling to make sense of what he's just heard.
+
+LEO
+Why did you tell me that?
+
+ADAMLEY
+Because you could be charged and tried for a war crime.
+
+Leo still can't believe what he's heard. He sighs deeply, overwhelmed, and puts his hand 
+up to his face. Eventually he looks up at Adamley again.
+
+LEO 
+[angrily] Why did you tell me that?!
+
+ADAMLEY 
+[coolly] All wars are crimes.
+
+Adamley sighs. Leo leans back slowly in his chair, shaking his head, and stares at 
+Adamley.
+
+LEO
+We've been here awhile.
+
+ADAMLEY
+Yeah. [stands up, buttoning his jacket]
+
+LEO
+Maybe we'll call it a day.
+
+ADAMLEY
+Yeah.
+
+LEO
+I'll get you some time with the President this week.
+
+ADAMLEY
+I appreciate that.
+
+LEO
+[stands and sighs heavily] Thank you.
+
+Adamley looks a bit uncomfortable as he starts to leave.
+
+ADAMLEY
+Thank you. [leaves]
+
+Leo stands stiffly in the middle of his office, looking somewhat disoriented. He stares 
+out the window and rubs the back of his neck.
+
+FADE TO: INT. THE OVAL OFFICE - DAY
+Bartlet and Hoyens are seated on the sofas facing each other. They're both leaning 
+forward.
+
+BARTLET
+Can I ask you a question, just out of curiosity?
+
+HOYNES
+Yes, sir.
+
+BARTLET
+If guns are meant to deter the threat of crime, what's the point of concealing them? 
+I mean, wouldn't you want the criminal to see that you've got a gun?
+
+HOYNES
+[puts his glass down on the table] I suppose you would.
+
+BARTLET
+Then what's the answer to that?
+
+HOYNES
+I really don't know.
+
+BARTLET
+You don't know?
+
+HOYNES
+No, sir. I suppose the concern has more to do with the threat to the Second Amendment.
+
+BARTLET
+We can't all just agree it's a stupid-ass amendment that was written before there were 
+street lamps, much less police forces, and move on?
+
+HOYNES 
+[wearily] Sir...
+
+BARTLET
+There's no need for a citizen militia.
+
+HOYNES
+I agree with you.
+
+BARTLET
+Then say so.
+
+HOYNES
+Forty percent of Americans have a gun in their home.
+
+Bartlet stands up, walks across the office, and sits on the edge of his desk.
+
+BARTLET
+Only 16% believe gun ownership is an absolute right. Only 9% believe it's an absolute 
+wrong. There's a middle. We can win them!
+
+HOYNES 
+[testily] Not when we're running the MS defense, Mr. President!
+
+BARTLET
+Which we wouldn't have been doing if...
+
+HOYNES
+If what, sir?
+
+BARTLET
+Nothing. 
+
+Hoynes stands up. 
+
+BARTLET
+[fuming] You outed me, John. With that trip to Nashua, with the oil companies. You wanted 
+people to start asking questions.
+
+Hoynes walks toward Bartlet until he's only a few feet away.
+
+HOYNES 
+[angry] I needed to start running because nobody told me I wasn't! And you announced it! 
+And I found out on television!
+
+BARTLET 
+[yelling] So did my wife.
+
+HOYNES 
+[yelling] This whole thing was mismanaged, sir!
+
+BARTLET
+Look...
+
+HOYNES 
+[yelling] It was blown!
+
+BARTLET
+Yes, it was.
+
+HOYNES
+Yes, it was!
+
+They glare at each other for several long moments.
+
+BARTLET
+It's not easy being my Vice President, is it?
+
+HOYNES 
+[sighs] No, sir.
+
+BARTLET
+I wouldn't think so. [walks around behind his desk and leans on it] But it's the only way 
+you're gonna get the nomination. You know that, right? If I win.
+
+HOYNES
+Yeah. And the only way you're gonna win is if I'm on the ticket. You know that, don't 
+you, sir?
+
+BARTLET
+Yeah. 
+
+Hoynes starts to leave.
+
+BARTLET
+You'll go to Texas?
+
+HOYNES 
+[nods] I want a seat at the table.
+
+BARTLET
+Yeah.
+
+CHARLIE
+[knocks and enters] Mr. President?
+
+BARTLET
+Yeah?
+
+CHARLIE
+They're getting ready for you in the Briefing Room.
+
+BARTLET
+Thank you.
+
+Charlie goes back to his desk, but leaves the door open. Bartlet and Hoynes aren't 
+looking at each other. 
+
+HOYNES
+I'll be back in my office. Is there anything else, sir?
+
+Bartlet is buttoning up his shirt cuffs. He has a stern look on his face.
+
+BARTLET
+No.
+
+HOYNES
+Thank you, Mr. President.
+
+Hoynes leaves. Bartlet finishes straightening his shirt and grabs his suit jacket off 
+the back of one of the chairs. As he leaves the Oval Office for the briefing, thunder 
+rumbles outside and rain coats the windows.
+
+FADE TO: EXT. PARK IN WASHINGTON, D.C. - NIGHT
+The rain has stopped. Josh and Donna are sitting on a park bench next to a large, elegant 
+fountain. They seem very tense and uncomfortable. Suddenly, Cliff appears from behind the 
+fountain. Josh sees him, stands up, and walks over to him. Donna watches them for a 
+moment, but then she looks away.
+
+JOSH
+There's a coffee shop across the street. You can read it there. You've got an hour. 
+I haven't read it, but if anything bothers you, you'll issue a subpoena in the morning. 
+You'll have it back before the end of the day. If not, that's that.
+
+CLIFF
+Yeah.
+
+JOSH
+If I read any of this in the newspaper, or anything happens I don't like, I've got the 
+entries for October 4th and 5th.
+
+CLIFF
+What's October 4th and 5th?
+
+JOSH 
+[pointing] You.
+
+CLIFF 
+[nods] That's fair. Thank you.
+
+Donna is sitting stiffly on the bench, staring straight ahead. Josh gives Cliff the 
+diary. Cliff takes it and walks away. Josh stands still for a few moments, watching 
+Cliff. Then he turns around, walks back to the park bench, and sits down next to Donna.
+
+JOSH 
+[shivering, sighs] It's starting to get cold already. 
+
+Donna looks at him, her eyes slightly downcast. He puts his arm behind her on the back of 
+the bench, although she's not sitting close enough to him for his arm to really be around 
+her shoulders. It's a slightly awkward, but well-intentioned, gesture.
+
+JOSH
+It's gonna be fine.
+
+Donna looks at him blankly, like she'd like to believe him. Josh looks like he's trying 
+to convince himself, but he hasn't quite succeeded yet. And so they sit, side by side, 
+and wait.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are a property of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television, and NBC. No copyright infringement is intended.
+
+Episode 3.05 -- “War Crimes”
+Original Airdate: November 7, 2001, 9:00 PM EST
+
+Transcribed by: Giorgio, Irene, and Amanda
+March 4, 2002

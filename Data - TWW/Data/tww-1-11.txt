@@ -1,0 +1,2853 @@
+THE WEST WING
+“LORD JOHN MARBURY”
+WRITTEN BY: AARON SORKIN
+DIRECTED BY: KEVIN RODNEY SULLIVAN
+
+
+TEASER
+
+FADE IN: INT. NATIONAL RECONNAISSANCE CENTER - WASHINGTON NAVY YARD - NIGHT
+A radar officer is monitoring a radar station.
+
+OFFICER
+Jack.
+
+Another officer, JACK, comes over to look at the screen.
+
+OFFICER [cont.]
+Last pass with the CAGE satellite.
+
+JACK
+How old is this?
+
+OFFICER
+About twenty minutes.
+
+JACK
+Go to X-10 inside the grid.
+
+OFFICER
+[zooms in on a section of the grid] Those are two CVEs and four destroyers.
+
+JACK
+Let’s get some help.
+
+CUT TO: INT. THE PENTAGON - NIGHT
+Two men, one in uniform and one not, are talking. Another uniformed officer enters.
+ 
+ARMY GUY 1
+[entering] So far we can identify elements of the Northern, Central, and Western command 
+armies. They all appear to be front-line divisions. We’re working up divisional ID.
+
+ARMY GUY 2
+What about the navy?
+
+ARMY GUY 1
+We’re getting e-lint. Two CVEs, four destroyers -
+
+ARMY GUY 2
+Where they heading?
+
+ARMY GUY 1
+Pakistan.
+
+ARMY GUY 3
+I’m sold. Let’s brief the COs.
+
+ARMY GUY 2
+I’ll get on the phone with the White House.
+
+He goes to the phone and starts dialing as the other two leave.
+
+CUT TO: INT. THE WHITE HOUSE - HALLWAY - NIGHT
+Josh and Donna leave his office and walk down the hallway.
+
+JOSH
+You’ll like it.
+
+DONNA
+It doesn’t sound like I’ll like it.
+
+JOSH
+Caddying?
+
+DONNA
+Yeah.
+
+JOSH
+It’s great!
+
+DONNA
+Don’t I just lug your golf clubs around?
+
+JOSH
+Well, it’s good exercise.
+
+DONNA
+Of course it’s good exercise, I’m lugging your golf clubs around.
+
+JOSH
+You’ll be doing more than that, Donna. You’ll be reading the greens, you’ll be helping 
+with club selection.
+
+WHITE HOUSE GUARD [OS]
+Here he is now.
+
+JOSH
+Who, me?
+
+They turn to the NORTHWEST LOBBY.
+
+SUBPOENA MAN
+Joshua Lyman?
+
+JOSH
+Oh, man.
+
+SUBPOENA MAN
+Are you Joshua Lyman?
+
+JOSH
+Is this Claypool again?
+
+SUBPOENA MAN
+Mr. Lyman, you’re being served with a subpoena to give deposi...
+
+JOSH
+[to guard] Why do you let him in the building?
+
+SUBPOENA MAN
+Sir, if you’ll just sign as to show proof of-
+
+JOSH
+Gimme that. [signing the paper on Donna’s back] 
+This is like the 43rd time -- This is Freedom Watch, right?
+
+SUBPOENA MAN
+Yes sir.
+
+JOSH
+Yeah, you guys are real patriots.
+
+SUBPOENA MAN
+I hope this hasn’t inconvenienced you too much.
+
+JOSH
+[handing back the signed paper] Being subpoenaed? No. Why would that inconvenience me?
+
+SUBPOENA MAN
+[as he leaves] Have a good day, sir.
+
+JOSH
+Thank you. Drop dead. [to Donna] It’s what I do now. I’m a professional hostile witness. 
+
+DONNA
+Would I get to drive the cart?
+
+They go through a door into a HALLWAY.
+
+JOSH
+No carts.
+
+DONNA
+You don’t use a cart?
+
+JOSH
+No. Real golfers don’t use carts.
+
+DONNA
+Don’t they also carry their own clubs?
+
+JOSH
+No.
+
+DONNA
+Would you pay me extra? 
+
+JOSH
+No.
+
+DONNA
+You play in the winter?
+
+JOSH
+I would wait until spring, but I’d want you to start practicing with that bag right away.
+
+Donna stops, then veers off. Josh turns to walk into the OUTER OVAL OFFICE. 
+Mrs. Landingham is at her desk when Josh enters.
+ 
+JOSH
+Good evening, Mrs. Landingham.
+
+MRS. LANDINGHAM
+How are you, Josh?
+
+JOSH
+I’ve been subpoenaed.
+
+MRS. LANDINGHAM
+I’m sorry, dear. Would you like a cookie?
+
+JOSH
+[taking one] Yes, thanks. The President asked me to come by.
+
+MRS. LANDINGHAM
+The President just left with Leo.
+
+JOSH
+Where’d they go?
+
+MRS. LANDINGHAM
+The Situation Room.
+
+Josh puts the cookie back in the jar and walks out.
+
+CUT TO: INT. THE SITUATION ROOM - NIGHT
+Military and Intelligence staff are seated around the table. They all start to rise as 
+Bartlet and Leo enter.
+
+BARTLET
+Keep your seats. [beat, they all sit] Admiral Fitzwallace?
+
+Admiral Fitzwallace comes to the table, passing a staffer who is setting a clock to 
+Kashmir time.
+
+FITZWALLACE
+[sits] Mr. President, twenty-five minutes ago, the Indian army launched an invasion 
+along the Kashmir cease-fire line, into Pakistan-held Kashmir territory.
+
+BARTLET
+Is it clear what India’s objective is?
+
+FITZWALLACE
+No sir.
+
+BARTLET
+When you say “the Indian army,” what are we talking about?
+
+FITZWALLACE
+Sir?
+
+BARTLET
+Five guys in a Humvee? What?
+
+FITZWALLACE
+Mitch?
+
+MITCH
+Sir, they committed the 4th motorized infantry division, the 9th and 26th infantry 
+divisions, and two other armored brigades, as well as four CVEs and two destroyers.
+
+Bartlet is now reading from a paper that’s been handed to him.
+
+LEO
+All told?
+
+FITZWALLACE
+Approximately 300,000 troops, sir.
+
+BARTLET
+[looking up] In the last twenty-five minutes?
+
+FITZWALLACE
+Yes sir.
+
+BARTLET
+300,000 is an awfully large piece of troop movement to have been on a whim.
+
+FITZWALLACE
+Yes sir.
+
+BARTLET
+This was long planned.
+
+FITZWALLACE
+Yes sir.
+
+BARTLET
+All I’m trying to do right now? I’m trying to avoid making eye contact with the CIA Director.
+
+CIA DIRECTOR
+Mr. President...
+
+BARTLET
+300,000 troops? I can’t move my motorcade from K Street to Connecticut without it showing 
+up on a weather satellite.
+
+CIA DIRECTOR
+We dropped the ball, Sir.
+
+BARTLET
+Pick it up again, would you please?
+
+CIA DIRECTOR
+Yes sir.
+
+BARTLET
+Any chance this is an exercise?
+
+FITZWALLACE
+No sir.
+
+BARTLET
+A threat gesture?
+
+FITZWALLACE
+Possibly.
+
+BARTLET
+Any nuclear activity?
+
+FITZWALLACE
+We don’t know sir.
+
+BARTLET
+Oh, I wouldn’t worry about that, that’s probably not important information.
+
+CIA DIRECTOR
+We’ve obviously ordered intense surveillance.
+
+LEO
+How intense?
+
+CIA DIRECTOR
+The nearest orbiting satellites have been diverted to the area. The KH Super Platform 
+has been tasked into stationary orbit over the Northern subcontinent.
+
+LEO
+How long till it’s on station?
+
+FITZWALLACE
+Six hours, sir.
+
+BARTLET
+All right. I’m ordering the Crisis Task Force activated, and I want you to prepare to 
+give me a national security briefing. Thank you.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. THE WHITE HOUSE - HALLWAY - NIGHT
+Toby and Sam are walking quickly along the outside corridor toward the President’s office.
+
+SAM
+What’s the ambassador’s name?
+
+TOBY
+Which ambassador?
+
+SAM
+The Pakistani ambassador.
+
+TOBY
+You’re saying our guy in Pakistan, or their guy here?
+
+SAM
+Our guy in Pakistan.
+
+TOBY
+We haven’t appointed one yet.
+
+SAM
+You’re kidding.
+
+They go through the door into the OUTER OVAL OFFICE.
+
+TOBY
+[to Sam] Nope.
+
+CHARLIE
+Hey, Toby.
+
+TOBY
+Hey Charlie.
+
+CHARLIE
+Sam.
+
+SAM
+Charlie.
+
+MRS. LANDINGHAM
+Good evening, Sam. Good evening, Toby.
+
+TOBY
+Good evening, Mrs. Landingham.
+
+SAM
+[to Toby] It’s been over a year.
+
+TOBY
+What are you talking to me for?
+
+SAM
+We have no one in Pakistan?
+
+TOBY
+That’s right.
+
+SAM
+Maybe that’s why they got invaded.
+
+TOBY
+Yeah.
+
+They go into THE OVAL OFFICE. Bartlet, Josh and Leo are already present.
+
+LEO
+The Pakistanis have about 20,000 mountain terrain troops at the frontier command along 
+the Northern front, and four divisions at the 10th corps along the Eastern front.
+
+JOSH
+All this happened without the CIA knowing about it?
+
+BARTLET
+I’ve already had words. TOBY, the U.N. Security Council is meeting in an emergency 
+session to try to affect a cease-fire.
+
+TOBY
+Well, I feel better already, Mr. President.
+
+SAM
+How could we not have an ambassador in Pakistan?
+
+BARTLET
+We were getting to it.
+
+TOBY
+How could the CIA miss 300,000 armed people walking all over-
+
+BARTLET
+They didn’t exactly miss them. In fact, they’ve got a very good photo now.
+
+TOBY
+Yeah, but the idea is to spot them before they cross the border, right?
+
+BARTLET
+Yeah.
+
+TOBY
+Oops.
+
+JOSH
+For the moment we’re just talking about conventional weapons, right?
+
+BARTLET
+Toby, how much do you know about India and Pakistan?
+
+TOBY
+I know that any war between these two countries that begins with conventional weapons 
+isn’t gonna end that way.
+
+LEO
+Wanna take care of briefing the Hill?
+
+JOSH
+Yeah.
+ 
+C.J.
+[enters] Good evening.
+
+BARTLET
+Hello.
+
+C.J.
+I’m sorry. Charlie and Mrs. Landingham stepped away. Should I go back and wait in the...
+
+LEO
+Uh, no, we were just breaking up.
+
+C.J.
+Can I tell the room there’s a full lid?
+
+LEO
+Yeah. [looks at Bartlet, who nods]
+
+C.J.
+Okay. I’ll send ‘em home.
+
+BARTLET
+Thanks, C.J.
+
+C.J.
+Thank you, Mr. President. [exits]
+
+LEO
+[to Toby] I’ll brief her in the morning.
+
+TOBY
+Yeah.
+
+CUT TO: INT. OUTER OVAL OFFICE - NIGHT
+Charlie is typing at the computer. Zoey enters.
+
+ZOEY
+Hey, Charlie.
+
+CHARLIE
+Hey.
+
+ZOEY
+How ya doin’?
+
+CHARLIE
+[standing] Good. 
+
+ZOEY
+Is he in?
+
+CHARLIE
+I’ll tell him you’re here.
+
+ZOEY
+Nah, that’s okay.
+
+CHARLIE
+He’ll want to know you’re here.
+
+ZOEY
+I’ll just wait.
+
+CHARLIE
+Okay.
+
+ZOEY
+So, Charlie, do you ever get a night off?
+
+CHARLIE
+No, actually.
+
+ZOEY
+That’s too bad.
+
+CHARLIE
+No, it’s all right.
+
+ZOEY
+No, I meant ‘cause it’d be cool to go out or something.
+
+CHARLIE
+Yeah. [pause] I’m sorry, with me?
+
+ZOEY
+Charlie, you know you don’t have to stand up the whole time I’m in a room.
+
+CHARLIE
+Yeah. I don’t know why I do that. [sits]
+
+Josh and Sam are coming out of the Oval Office.
+
+JOSH
+Hi Zoey.
+
+BARTLET [OS]
+Is that Zoey?
+
+ZOEY
+[to Charlie] Anyway, too bad.
+
+CHARLIE
+Yeah.
+
+SAM
+Zoey.
+
+Sam and Josh leave, and Zoey goes into the Oval Office. Charlie looks thoughtful.
+
+CUT TO: INT. CORRIDOR OUTSIDE THE OVAL OFFICE - NIGHT
+Josh and Sam are walking back to their offices.
+
+JOSH
+I’ve been subpoenaed. 
+
+SAM
+By Claypool? 
+
+JOSH
+Under the Freedom of Information Act. It’s reported that I was running the internal 
+investigation after Lillienfield accused us all of being on drugs.
+
+SAM
+Well, not all of us, Josh. Just one in three.
+
+JOSH
+Right.
+
+SAM
+So Claypool’s suing you for the paperwork?
+
+JOSH
+I’m being deposed at lunch tomorrow.
+
+SAM
+Who you bringing?
+
+JOSH
+I’m not bringing anyone.
+
+SAM
+Josh.
+
+JOSH
+It’s a non-event.
+
+SAM
+You should bring a lawyer.
+
+JOSH
+I am a lawyer.
+
+SAM
+Yeah. Seriously, you should bring a real lawyer.
+
+JOSH
+Thanks for the pep talk.
+
+SAM
+No sweat.
+
+MANDY
+[catches up] Joshua.
+
+JOSH
+Madeline.
+
+MANDY
+What’s up?
+
+JOSH
+Not too much.
+
+MANDY
+We’re gonna look good in California.
+
+JOSH
+I’m gonna look pale.
+
+MANDY
+I meant the President.
+
+JOSH
+I know. I’m just sayin’. [goes into his office]
+
+MANDY
+Sam, could I talk to you for a second?
+
+SAM
+Yeah.
+
+MANDY
+In your office?
+
+SAM
+Yeah.
+
+MANDY
+Thanks.
+
+They walk into SAM’S OFFICE.
+
+SAM
+What’s up?
+
+MANDY
+I’m thinking of taking on a new client and I think it might be a problem for Josh and 
+Toby and I was hoping that maybe you could help smooth the way.
+
+SAM
+Who?
+
+MANDY
+Hmm?
+
+SAM
+Who’s the client?
+
+MANDY
+Mike Brace.
+
+Sam starts to laugh.
+
+MANDY 
+Sam.
+
+SAM
+You’re serious?
+
+MANDY
+Yes.
+
+SAM
+Mike Brace is a Republican.
+
+MANDY
+You think I don’t know that?
+
+SAM
+You think Josh and Toby might have a problem with that?
+
+MANDY
+Sam, he’s moderate-to-liberal, he’s good on education, he’s good on women’s rights...
+
+SAM
+And he’s a Republican.
+
+MANDY
+He came to me.
+
+SAM
+That’s understandable.
+
+MANDY
+He sought me out.
+
+SAM
+You’re very good. We’d come to you too.
+
+MANDY
+Yes.
+
+SAM
+In fact, we did.
+
+MANDY
+Yes. And I’m coming to you now.
+
+SAM
+To get me to help you convince Josh and Toby to let you work for a Republican.
+
+MANDY
+Yes.
+
+SAM
+[sitting down at his desk] This is just my lucky day.
+
+MANDY
+Sam, I think you are the one senior guy here who is more interested in getting things 
+done than beating the other...
+
+SAM
+That’s not true, Mandy. Josh and Toby are just as committed...
+
+MANDY
+Not lately. 
+
+SAM
+I disagree.
+
+MANDY
+The banking bill, the land-use rider, assault weapons? You like Mike Brace.
+
+SAM
+Mandy.
+
+MANDY
+I know.
+
+SAM
+This is going to be an impossible sell.
+
+MANDY
+It shouldn’t be.
+
+SAM
+But it will be.
+
+MANDY
+I know.
+
+SAM
+I admire your pluck.
+
+MANDY
+I’m sorry, what part of me do you admire?
+
+SAM
+Your pluck. Your gumption.
+
+MANDY
+Thank you.
+
+SAM
+You’re welcome.
+
+MANDY
+So you’re going to talk to Josh and Toby?
+
+SAM
+You’re gonna owe me a big favor.
+
+MANDY
+[going to the door] Sam.
+
+SAM
+All right, we’ll be even.
+
+MANDY
+Sam!
+
+SAM
+All right, I’ll do this and many more favors for you and we’ll be even.
+
+MANDY
+Thank you. [leaves]
+
+CUT TO: INT. BRIEFING ROOM - NIGHT
+Several reporters are present. C.J. enters and goes to the podium.
+
+C.J.
+Hi. We’re gonna have a briefing by the Treasury Department on the market adjustment...
+
+REPORTER
+Market adjustment?
+
+C.J.
+That’s what we’ve been asked to call it. That’s going to be nine tomorrow morning. 
+With that, the lid is full, you can all go home.
+
+REPORTERS
+C.J.!
+
+Toby has entered and is standing at the back of the room.
+
+C.J.
+Bruce?
+
+BRUCE
+I’ve got a source at the Pentagon who says in the last few hours there’s been massive 
+troop movement on the Kashmir border.
+
+C.J.
+In the last few hours?
+
+BRUCE
+Yeah.
+
+C.J.
+I think you need to get a new source at the Pentagon, Bruce.
+
+BRUCE
+There’s nothing to it?
+
+C.J.
+What kind of troop movement?
+
+BRUCE
+Something like 300,000 troops and a few warships?
+
+C.J.
+300,000 troops?
+
+BRUCE
+Yeah.
+
+C.J.
+I think someone’s havin’ a little fun with you, Bruce.
+
+BRUCE
+You sure?
+
+C.J.
+I was just in the Oval Office ten minutes ago.
+
+BRUCE
+Okay.
+
+C.J.
+Have a good night, everybody.
+
+The reporters exit. CLOSE UP on Toby.
+
+CUT TO: EXT./EST. THE WHITE HOUSE - DAY
+CUT TO: INT. THE SITUATION ROOM - DAY
+Bartlet, Leo, and other Military and Intelligence staff are seated around the table. 
+Fitzwallace is at the map projected on the wall.
+
+FITZWALLACE
+Sir, already intense fighting has occurred between Indian troops and Pakistani border 
+garrisons. The cease-fire line’s been breached in two thrusts, with five divisions invading 
+the area north of Kargil, and a two-corps-sized force that’s crossed west into Azhad.
+
+BARTLET
+Bobby?
+
+BOBBY
+In the past hour, Prime Minister Nohammed has spoken on television, saying that 
+[reading from a paper] “after enduring endless provocations and incessant acts of 
+thuggery by the criminal gang running Pakistan, India’s forbearance has been exhausted. 
+In the name of peace, India is acting to put an end to Pakistan’s outlaw aggression once 
+and for all.”
+
+LEO
+And Pakistan?
+
+INTELLIGENCE GUY
+They’re condemning India’s unlawful aggression and pledging all-out resistance.
+
+BARTLET
+Well, we’ve got ourselves a ballgame.
+
+FITZWALLACE
+Yes sir.
+
+LEO
+When do we get the nuclear briefing?
+
+INTELLIGENCE GUY
+This afternoon, 1500.
+
+BARTLET
+3:00.
+
+INTELLIGENCE GUY
+Yes sir.
+
+BARTLET
+Okay. Thank you.
+
+They all rise and thank the President. 
+
+CUT TO: INT. CORRIDOR - DAY
+Toby and Donna are walking down the hall.
+
+DONNA
+-- through the Freedom of Information Act.
+
+TOBY
+What kind of information are they looking for?
+
+DONNA
+He has information about the investigation.
+
+TOBY
+It wasn’t an investigation.
+
+DONNA
+I’m sure Josh’ll mention that.
+
+TOBY
+Did he bring a lawyer?
+
+DONNA
+Said he didn’t need one.
+
+TOBY
+Oh, good, I like the sound of this.
+
+They arrive at LEO’S OFFICE. Donna turns off toward her office, Toby meets Margaret 
+leaving the office.
+
+TOBY
+[to Margaret] Hello.
+
+MARGARET
+Leo’s coming and C.J.’s already inside.
+
+TOBY
+Thanks.
+
+TOBY goes into LEO’S OFFICE.
+
+C.J.
+Hi. You know what this is about?
+
+TOBY
+Yeah. I stopped by your office before but...
+
+C.J.
+I was at the reception.
+
+LEO
+[arrives] Hi C.J.
+
+C.J.
+What’s going on?
+
+LEO
+India sent troops into the neutral zone in Kashmir. The U.N Security Council’s gonna 
+try to negotiate a cease-fire, but we believe we’re gonna start to play a role in the 
+next forty-eight to seventy-two hours. You can start to brief the press tonight, so 
+I want you in on some of the meeting stuff today.
+
+MARGARET
+[enters] Leo...
+
+LEO
+[pointing across the hall] Oh, including this one.
+
+C.J.
+This happened last night?
+
+LEO
+Yeah.
+
+C.J.
+That’s what you all were talking about when I walked into the Oval Office?
+
+LEO
+I’m sorry, C.J., we...
+
+C.J.
+You told me the lid was on.
+
+LEO
+You’re gonna have to expect that sometimes.
+
+C.J.
+I got the question, Leo. A guy had a Pentagon source, I denied it. I called it ridiculous.
+
+LEO
+We know.
+
+C.J.
+Is it 300,000 troops?
+
+TOBY
+Yeah.
+
+C.J.
+A couple of destroyers?
+
+TOBY
+And four CVEs.
+
+C.J.
+The guy hit it right on the button. I made fun of him.
+
+LEO
+We’ll tell the room you spoke without knowing the facts.
+
+C.J.
+I guess that’s what I’ll do.
+
+LEO
+C.J.
+
+C.J.
+Don’t worry about it.
+
+LEO
+As soon as you tell ‘em India’s the story, this is forgotten.
+
+C.J.
+I’m fine. We’re across the hall?
+
+LEO
+Yeah.
+
+C.J. exits. Leo and Toby share a look.
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. DEPOSITION ROOM - DAY
+Josh is seated across the table from CLAYPOOL. The deposition is being recorded on 
+videotape with a live monitor. There are few other people in the room.
+
+CLAYPOOL
+Occupation?
+
+JOSH
+White House Deputy Chief of Staff.
+
+CLAYPOOL
+How long have you held this job?
+
+JOSH
+Since President Bartlet was sworn in, 12 months ago.
+
+CLAYPOOL
+Have you been conducting, over the past few weeks, an internal investigation into 
+recreational drug use by White House staffers?
+
+JOSH
+I wouldn’t call it an investigation.
+
+CLAYPOOL
+Why not?
+
+JOSH
+It wasn’t that serious.
+
+CLAYPOOL
+You don’t consider illegal drug use at the White House to be serious?
+
+JOSH
+Whoa. Almost tripped me up in that clever web of words. No, I would consider drug use 
+in the White House to be serious; I wouldn’t consider my investigation serious, and 
+the way you know it wasn’t serious is that I was the one running it.
+
+CLAYPOOL
+What prompted the investigation?
+
+JOSH
+Congressman Lillienfield held a press conference in which he claimed that one in three 
+White House staffers use drugs. I was asked to discover what, if anything, might have 
+caused him to say that.
+
+CLAYPOOL
+Asked by whom?
+
+JOSH
+The Chief of Staff and the Communications Director.
+
+CLAYPOOL
+Leo McGarry and Toby Ziegler.
+
+JOSH
+Yes.
+
+CLAYPOOL
+As I’m sure you’re aware, the organization I represent is suing under the Freedom of 
+Information Act for the records of your investigation.
+
+JOSH
+Yes, and I can save us all a lot of time by telling you that there are no records of 
+my investigation. 
+
+CLAYPOOL
+Before being deposed here today, did you talk to anybody about the fact that we were 
+requiring your testimony?
+
+JOSH
+I mentioned it to a few people.
+
+CLAYPOOL
+Who were they?
+
+JOSH
+Sam Seaborn.
+
+CLAYPOOL
+The Deputy Communications Director.
+
+JOSH
+Yes.
+
+CLAYPOOL
+Why’d you mention it to him?
+
+JOSH
+No particular reason.
+
+CLAYPOOL
+No particular reason?
+
+JOSH
+Yes.
+
+CLAYPOOL
+Really.
+
+JOSH
+Yes.
+
+CLAYPOOL
+You brought up the subpoena for no particular reason.
+
+JOSH
+Yes.
+
+CLAYPOOL
+Who else?
+
+JOSH
+My assistant, Donna Moss.
+
+CLAYPOOL
+Well, what did you tell Mr. Seaborn and Miss Moss about this deposition?
+
+JOSH
+I told them that I had to waste a day on this deposition.
+
+CLAYPOOL
+What else did you tell them?
+
+JOSH
+I probably told them that I consider these moronic lawsuits of yours to be...
+
+CLAYPOOL
+Why do you persist in...?
+
+JOSH
+Because you have consistently acted not as someone determined to get the truth, but 
+someone who hates President Bartlet, hates people who support President Bartlet, and 
+is looking to make headlines and money. Now you have two hours today, and two hours 
+tomorrow. Look, will somebody please offer me some coffee? 
+
+CUT TO: INT. ROOSEVELT ROOM - DAY
+Larry and Ed are briefing Toby, C.J., and Sam.
+
+LARRY
+India’s population stands at roughly one billion. 82% are Hindus, 11% are Muslim.
+
+ED
+They’re mostly poor, but nearly as bad off as Pakistanis.
+
+LARRY
+Yes, whose average per capita income is $400.
+
+ED
+They are, however, better educated. Their literacy rate is 48%.
+
+LARRY
+And they’re healthier. Average lifespan is 57.7 years.
+
+ED
+The average rainfall...
+
+TOBY
+What the hell kind of briefing is this?
+
+LARRY
+Toby, if we could just have another hour to prepare...
+
+TOBY
+Where’d you get this stuff?
+
+LARRY
+I swear to God, the Encyclopedia Britannica.
+
+C.J.
+[rising to leave] I need a briefing.
+
+TOBY
+[as she leaves] C.J., we’re getting someone from State...
+
+SAM
+She’ll get over it.
+
+TOBY
+Yeah.
+
+Toby and Sam rise to leave the room.
+
+SAM
+Listen. Let me ask you something without your head exploding?
+
+TOBY
+What?
+
+They walk out to the HALLWAY.
+
+SAM
+What would your first reaction be to Mandy’s working for Mike Brace?
+
+TOBY
+What do you mean?
+
+SAM
+He came to her.
+
+TOBY
+She wants to work for Mike Brace?
+
+SAM
+She’s thinking about it.
+
+They have arrived at the OUTER OVAL OFFICE.
+
+MRS. LANDINGHAM
+Good afternoon Toby, Sam.
+
+SAM
+Hey, Mrs. Landingham.
+
+TOBY
+Is this a joke?
+
+MRS. LANDINGHAM
+You’re not going to say hello, Toby?
+
+TOBY
+Yes, hello. Is this a joke?
+
+SAM
+No.
+
+TOBY
+I don’t understand.
+
+SAM
+Toby.
+
+TOBY
+I’m in disbelief.
+
+SAM
+What should I say your first reaction was?
+
+TOBY
+Disbelief.
+
+SAM
+He’s good on education, good on women’s rights.
+
+TOBY
+Are you shilling for her?
+
+SAM
+I’m not shilling. I’m just smoothing the way.
+
+TOBY
+Don’t do that.
+
+SAM
+She just asked me to take your temperature.
+
+TOBY
+And please don’t do that.
+
+CUT TO: INT. THE OVAL OFFICE - CONTINUOUS
+Toby and Sam enter. Bartlet and Leo are being briefed by Intelligence staff. 
+There are several other people in the room.
+
+JOE
+India has two intermediate-range ballistic missiles named Agni 1 and Agni 2. Agni 
+means ‘fire’ in Hindi. They have a 55-kiloton A-bomb which is roughly 50% more 
+destructive than the Hiroshima bomb. But they also have a thermonuclear device.
+
+LEO
+An H-bomb.
+
+JOE
+Yeah.
+
+TOBY
+Joe, can you assess the command and control situation?
+
+JOE
+Well, this is the truly terrifying part.
+
+TOBY
+Good, ‘cause we were waiting for a truly terrifying part.
+
+JOE
+CCI systems are notoriously unreliable. They put their money in the weapons and ignore 
+safeguards.
+
+BARTLET
+Like what?
+
+JOE
+Dual launch controls, clear chain of commands, satellite surveillance, mutual monitoring, 
+exhaustive testing. Also, leaders are reluctant to share information for fear that it 
+might weaken them. I’ll read this from a DOD overview. [reading] “At various times, both 
+countries have displayed an incoherent decision-making system. You cannot predict what 
+will happen in a crisis.”
+
+BARTLET
+Well, bring in Dr. Strangelove and we’re all set.
+
+LEO
+Thanks, Joe.
+
+JOE
+Sure.
+
+Joe thanks the President and leaves with his staff.
+
+BARTLET
+There’s an India expert I want to bring in.
+
+LEO
+Who?
+
+Bartlet looks at him pointedly.
+
+LEO 
+No.
+
+BARTLET
+You guys are gonna love him.
+
+LEO
+He’s a lunatic!
+
+BARTLET
+He’s colorful.
+
+LEO
+He’s certifiable!
+
+SAM
+Who?
+
+BARTLET
+Lord John Marbury, former ambassador to New Delhi from the Court of Saint James.
+
+SAM
+Where do we find him?
+
+LEO
+A psychiatric institution.
+
+BARTLET
+He’s colorful, Leo.
+
+LEO
+You’re really gonna let him loose in the White House, where there’s liquor and women?
+
+BARTLET
+We can hide the women. But the man deserves a drink.
+
+LEO
+Sir...
+
+BARTLET
+Let’s get him on a plane.
+
+SAM
+Yes sir.
+
+BARTLET
+Anything else?
+
+LEO
+Thank you, Mr. President.
+
+They all rise. Sam and Toby leave the room.
+
+CUT TO: INT. HALLWAY - DAY 
+Toby and Sam are walking back to their offices from the Oval Office.
+
+SAM
+Can I just say this about Mandy’s representing Mike Brace?
+
+TOBY
+No.
+
+SAM
+Okay.
+
+TOBY
+I feel like I should say something to C.J.
+
+SAM
+Don’t.
+
+TOBY
+You think?
+
+SAM
+It would be patronizing. If you don’t say anything, that’ll tell her that you think 
+she’s a professional.
+
+TOBY
+I’m gonna go see her.
+
+SAM
+See what you do? You ask me my advice and then you ignore it.
+
+TOBY
+Yeah.
+
+SAM
+Okay. 
+
+CUT TO: INT. C.J.’S OFFICE - DAY
+C.J. is reviewing press releases.
+
+C.J.
+Carol?
+
+CAROL
+[enters] Yes?
+
+C.J.
+In the next few weeks, it’s going to be important that the White House reassure 
+Americans and the world that the President has a firm grip on the crisis and is 
+working hard to defuse it.
+
+CAROL
+Yes.
+
+C.J.
+They’re misspelling ‘New Delhi.’
+
+CAROL
+They put the ‘h’ in the wrong place?
+
+C.J.
+Hey, I’m happy when they use an ‘h’ at all.
+
+CAROL
+We’ll fix it.
+
+TOBY
+[arrives] Hey, Carol.
+
+CAROL
+[leaving] We’re fixing the ‘h.’
+
+TOBY
+Okay. [to C.J.] I was warned that coming to talk to you might be insulting to your 
+professionalism.
+
+C.J.
+Well, you wouldn’t want to do that.
+
+TOBY
+I wasn’t ready for the press yet.
+
+C.J.
+Could've told me that before sending me in there.
+
+TOBY
+C.J.
+
+C.J.
+I flatly denied it. I said I was in the Oval Office ten minutes ago and nothing’s going on.
+
+TOBY
+They don’t think you lied to them.
+
+C.J.
+I know that. They think you lied to me, which is what happened. They don’t know me. 
+I’m from nowhere. I was just starting to get credible. I was just starting to get 
+their respect. You know how long it’s going to take me to get it back?
+
+TOBY
+There’s a concern.
+
+C.J.
+Don’t ask C.J., she doesn’t know anything.
+
+TOBY
+There is a concern that you’re too friendly with the press.
+
+C.J.
+Really.
+
+TOBY
+We know it’s important that you have a friendly relationship with them-
+
+C.J.
+It’s important for all of us.
+
+TOBY
+I don’t disagree.
+
+C.J.
+Does this have to do with Danny Concannon?
+
+TOBY
+People see you with Danny.
+
+C.J.
+This is outrageous.
+
+TOBY
+This is one time, and if we erred, it’s on the side of trying to-
+
+C.J.
+You sent me in there uninformed so that I’d lie to the press-
+
+TOBY
+We sent you in there uninformed because we thought there was a chance you couldn’t.
+
+C.J.
+Okay. I have all this work to do.
+
+TOBY
+Okay. [leaves]
+
+CUT TO: INT. HALLWAY - DAY
+Toby is coming from C.J.’s office when he meets Josh returning to the office.
+
+TOBY
+Hey. How’d it go?
+
+JOSH
+It was fine.
+
+TOBY
+Got to go back tomorrow?
+
+JOSH
+Yeah.
+
+TOBY
+Take a lawyer.
+
+JOSH
+You get 450 bucks an hour?
+
+TOBY
+No.
+
+JOSH
+Then mind your own business.
+
+TOBY
+Take Sam.
+
+JOSH
+It’s nothing. It’s this guy.
+
+TOBY
+Sam’s going with you.
+
+JOSH
+Oh, absolutely, ‘cause in the middle of an international crisis, what better place 
+to put our resources?
+
+TOBY
+It’s two hours, just do it.
+
+JOSH
+C.J. pissed?
+
+TOBY
+Yeah.
+
+CUT TO: INT. THE OVAL OFFICE - NIGHT
+Bartlet is reading when Charlie enters.
+
+CHARLIE
+Mr. President.
+
+BARTLET
+Yeah.
+
+CHARLIE
+The Chinese ambassador’s at the gate and he’ll be in the Mural Room in a moment.
+
+BARTLET
+This ought to be delightful.
+
+CHARLIE
+Yes sir.
+
+BARTLET
+Thanks for staying late, Charlie.
+
+CHARLIE
+Mmm hmm. Mr. President, I was wondering if I could ask you a question.
+
+BARTLET
+Sure.
+
+CHARLIE
+I was wondering how you would feel about my going out on a date with Zoey.
+
+BARTLET
+I’m sorry?
+
+CHARLIE
+Well, Zoey was talking to me before, and she mentioned that if I had a free night-
+
+BARTLET
+My daughter asked you out?
+
+CHARLIE
+Yes sir.
+
+BARTLET
+I should have locked her in the dungeon.
+
+CHARLIE
+I don’t think you’ve got one, sir.
+
+BARTLET
+I could have built one.
+
+CHARLIE
+Sir, if it’s not too much-
+
+BARTLET
+Charlie, you have picked the absolute worst time in the world to talk to me about this.
+
+LEO
+[enters] I think he’s here.
+
+BARTLET
+Okay.
+
+CHARLIE
+Thank you, sir. [leaves]
+
+BARTLET
+Yes. [to Leo] He wants to go out with Zoey.
+
+Leo starts to smile.
+
+BARTLET
+Shut up!
+
+CUT TO: INT. THE MURAL ROOM - NIGHT
+The CHINESE AMBASSADOR is in the room when Bartlet and Leo enter. They meet and shake hands.
+
+BARTLET
+Mr. Ambassador.
+
+CHINESE AMBASSADOR
+Good evening, Mr. President.
+
+BARTLET
+Thank you for seeing us so late, and on such short notice.
+
+CHINESE AMBASSADOR
+Thank you. Good evening, Leo.
+
+LEO
+Good evening.
+
+BARTLET
+Please sit down.
+
+CHINESE AMBASSADOR
+Thank you.
+
+BARTLET
+Mr. Ambassador, it is crucial that we join together to bring about a cease-fire and 
+then a pullback, in Kashmir, before this conflict takes another escalating step.
+
+CHINESE AMBASSADOR
+Mr. President, we have every hope for your success.
+
+BARTLET
+You do.
+
+CHINESE AMBASSADOR
+Yes sir.
+
+BARTLET
+Thank you.
+
+CHINESE AMBASSADOR
+However, I’ve been instructed by Beijing to inform you that under no circumstances 
+will China allow India’s aggression against Kashmir, as it only intensifies the threat 
+of Indian aggressors on our own border.
+
+LEO
+David? Are you suggesting that China might intervene?
+
+CHINESE AMBASSADOR
+The Indians must be stopped, Leo. Of course China would like to see a peaceful solution. 
+But we are prepared to use whatever force is necessary.
+
+BARTLET
+Well, this just keeps getting better and better.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: INT. OUTSIDE SAM’S OFFICE - DAY
+Mandy catches Sam as he’s leaving his office.
+
+MANDY
+Did you speak to him?
+
+SAM
+Toby?
+
+MANDY
+Yes.
+
+SAM
+I did.
+
+MANDY
+And?
+
+SAM
+Mandy, uh...
+
+MANDY
+He didn’t go for it.
+
+SAM
+It wasn’t the reaction you were hoping for.
+
+MANDY
+Did you tell him about education and women’s issues?
+
+SAM
+Yes.
+
+MANDY
+Did you tell him enthusiastically?
+
+SAM
+Yes.
+
+MANDY
+Did you tell him about...?
+
+SAM
+I told him everything there is to tell him. He did not warm to the idea.
+
+JOSH
+Let’s go.
+
+SAM
+I’m ready.
+
+MANDY
+Talk to him.
+
+SAM
+I will.
+
+MANDY
+Do it enthusiastically.
+
+SAM
+Okay.
+
+JOSH
+Talk to me about what?
+
+SAM
+Mandy wants to take on Mike Brace as a client.
+
+JOSH
+Is there another Mike Brace?
+
+SAM
+Not in the House of Representatives, no.
+
+JOSH
+She understands he’s a Republican right?
+
+SAM
+Yeah, she’s a pretty bright girl.
+
+JOSH
+Oh, I’m gonna kill her.
+
+SAM
+So you’re saying no way?
+
+JOSH
+Yeah, that’s a big 10-4.
+
+SAM
+Yeah.
+
+CUT TO: INT. LEO’S OFFICE - DAY
+The PAKISTANI AMBASSADOR is seated when Bartlet and Leo enter. There are two Pakistani
+aides present as well.
+
+BARTLET
+Mr. Ambassador.
+
+PAKISTANI AMBASSADOR
+Mr. President.
+
+BARTLET
+You know Leo McGarry?
+
+PAKISTANI AMBASSADOR
+Yes sir.
+
+LEO
+Good to see you again.
+
+PAKISTANI AMBASSADOR
+Terrible circumstances.
+
+BARTLET
+Please, sit down. We’ve been trying to phone your Prime Minister without any luck. 
+Can you help us out there?
+
+PAKISTANI AMBASSADOR
+The Prime Minister, naturally, is preoccupied organizing our response to this latest 
+unprovoked aggression by India, but I’ll do my best to help you.
+
+BARTLET
+Mr. Ambassador, I stood at a podium this morning, and I publicly condemned the incursion 
+by Indian forces.
+
+PAKISTANI AMBASSADOR
+We felt your condemnation could have been stronger.
+
+BARTLET
+My condemnation might have been stronger if my State Department didn’t feel that the 
+Indian action was provoked.
+
+PAKISTANI AMBASSADOR
+I think you’re being misinformed, Mr. President.
+
+BARTLET
+You deny there has been Pakistani movement in the Neutral Zone?
+
+PAKISTANI AMBASSADOR
+The people of Kashmir are simply demanding their human rights guaranteed by the U.N. 
+Charter for Self Determination. The unrest of the past few months is entirely the 
+result of the cruel oppression of a defenseless people.
+
+LEO
+The people the President’s talking about aren’t defenseless, Mr. Ambassador. They’re 
+carrying the M-16s we sold them.
+
+PAKISTANI AMBASSADOR
+Mr. McGarry...
+
+BARTLET
+Hang on. Look. The U.S. is committed to finding a reasonable solution to the dispute.
+
+PAKISTANI AMBASSADOR
+With all due respect, Mr. President, it is not a dispute, but an illegal occupation by 
+the Indian state.
+
+BARTLET
+Whatever the language, I know that you will agree with me that we have to find a way 
+for these two countries to exist together in a global community.
+
+PAKISTANI AMBASSADOR
+That sounds very nice, Mr. President, but the people of Pakistan do not wish to exist 
+in a global community with criminals.
+
+BARTLET
+I’d imagine the Indian ambassador is going to say roughly the same thing about you.
+
+PAKISTANI AMBASSADOR
+Be that as it may.
+
+BARTLET
+Yes. [standing] Thank you for coming.
+
+PAKISTANI AMBASSADOR
+Yes, Mr. President.
+
+BARTLET
+[shaking hands with aides as they leave] Thank you.
+
+CHARLIE
+[enters] Mr. President?
+
+BARTLET
+I’ll take the Indian ambassador in the Oval Office.
+
+CHARLIE
+Yes sir.
+
+BARTLET
+And then if you could just ask the Secret Service to step in and kill me, please.
+
+CHARLIE
+Yes sir.
+
+Leo and Bartlet head across the hall to THE OVAL OFFICE.
+
+BARTLET
+Zoey just walked right up to him and asked him out.
+
+LEO
+She’s a very outgoing girl.
+
+BARTLET
+See, but a dungeon would have put an end to that.
+
+LEO
+We learn these lessons the hard way.
+
+BARTLET
+I think you’re trying to cover up the fact that you’re enjoying this.
+
+LEO
+I’m not trying to cover it up at all.
+
+BARTLET
+I’m a father in pain.
+
+LEO
+Well, really you’re just a pain.
+
+BARTLET
+Leo.
+
+LEO
+Got a racial problem?
+
+BARTLET
+A racial problem?
+
+LEO
+It’s okay to admit it.
+
+BARTLET
+I don’t!
+
+LEO
+Okay.
+
+BARTLET
+I don’t have a racial problem.
+
+LEO
+Okay.
+
+BARTLET
+I’m Spencer Tracy at the end of “Guess Who’s Coming to Dinner.”
+
+LEO
+Okay.
+
+BARTLET
+Racial problem!
+
+LEO
+I’m just saying...
+
+BARTLET
+My problem is not that she’s white, he’s black, it’s that she’s a girl and he’s not. 
+To say nothing of he’s older than she is.
+
+LEO
+She’s 19. He’s 21.
+
+BARTLET
+Yeah, but a guy learns a lot in those two years.
+
+LEO
+Okay.
+
+BARTLET
+Tracy was good in that movie.
+
+LEO
+Yeah.
+
+Charlie shows in the INDIAN AMBASSADOR.
+
+CHARLIE
+Mr. President?
+
+BARTLET
+Thank you.
+
+INDIAN AMBASSADOR
+Mr. President.
+
+BARTLET
+Mr. Ambassador.
+
+INDIAN AMBASSADOR
+You look well, Mr. President.
+
+BARTLET
+I was looking a lot better before your country breached about fourteen cease-fire 
+conditions without so much as a phone call, so let’s sit down and talk. Charlie, 
+please close the door.
+
+Charlie exits.
+
+CUT TO: INT. DEPOSITION ROOM - DAY
+Claypool is seated opposite Josh and Sam, continuing the deposition. There are 
+several other people in the room.
+
+CLAYPOOL
+And you didn’t make a single note?
+
+JOSH
+No.
+
+CLAYPOOL
+You’re asking me to believe...
+
+JOSH
+This is the seventh lawsuit you’ve brought against the White House and the fourth time 
+you’ve deposed me and demanded to see documents that don’t exist.
+
+CLAYPOOL
+In your investigation in which you wrote nothing down - and it’s nice to see that the 
+White House is taking the matter so seriously - in your investigation did you find any 
+evidence of staff drug use?
+
+JOSH
+No.
+
+CLAYPOOL
+I’d like to remind you that you’re under oath.
+
+SAM
+And I’d like to remind you that that’s the seventh time that you’ve reminded him since 
+he sat down.
+
+CLAYPOOL
+Are there alcoholics working in the White House?
+
+JOSH
+I would imagine that there are.
+
+CLAYPOOL
+You would imagine?
+
+JOSH
+Statistics suggest...
+
+CLAYPOOL
+Do you know for sure that there are?
+
+JOSH
+Yes.
+
+CLAYPOOL
+What are their names?
+
+JOSH
+What, are you crazy?
+
+CLAYPOOL
+You don’t think the public has the right to know?
+
+JOSH
+Drinking isn’t against the law.
+
+CLAYPOOL
+I’m speaking of a higher standard.
+
+SAM
+He’s not going to tell you the names of people he knows to be alcoholics, move on.
+
+CLAYPOOL
+Is Leo McGarry an alcoholic?
+
+JOSH
+I won’t answer that.
+
+CLAYPOOL
+Has he received treatment at a facility for alcoholism?
+
+JOSH
+I won’t answer that.
+
+CLAYPOOL
+Has he received treatment at a facility for Valium addiction?
+
+SAM
+He’s not obligated to answer that question. 
+
+CLAYPOOL
+Why not?
+
+SAM
+It’s irrelevant to your cause of action under the Freedom of Information Act in which 
+you are seeking any and all documents relating to Joshua Lyman’s investigation of 
+illegal drug use in the White House. We go see the judge right now, she’ll sustain 
+my objection.
+
+CLAYPOOL
+Mr. Lyman, in the course of your investigation, did you look at Secret Service files 
+of the people you were investigating?
+
+JOSH
+There was no investigation.
+
+CLAYPOOL
+Did you look at any Secret Service files?
+
+JOSH
+Yes.
+
+CLAYPOOL
+Including Leo McGarry’s?
+
+JOSH
+Yes.
+
+CLAYPOOL
+Now, I have a record here which you would have had access to as well. It says...
+
+JOSH
+How did you get that?
+
+CLAYPOOL
+It says Leo McGarry spent twenty-eight days in an alcohol and substance abuse treatment 
+center called Sierra Tucson.
+
+JOSH
+This is a piece of paper obtained illegally.
+
+CLAYPOOL
+That’s my problem. Your problem is to answer this question. In your investigation of 
+Leo McGarry, did you discover that he was not only treated for alcohol addiction, he 
+was treated for Valium addiction as well? Now, should we take that question to the 
+judge and ask her about relevancy?
+
+SAM
+We’re going to postpone this deposition.
+
+CLAYPOOL
+I’m not nearly finished.
+
+SAM
+We’re postponing. You have a problem with it, cite us for contempt.
+
+Sam and Josh rise to leave. Claypool rises and pursues them.
+
+CLAYPOOL
+I would think that you would be concerned with your own reputations. And the notion 
+of you standing up for a man so egregiously unqualified...
+
+Josh suddenly turns on Claypool and pushes him up against the wall. Sam quickly turns 
+back into the room.
+
+SAM
+Josh!
+
+Josh recovers himself.
+
+SAM 
+Go.
+
+JOSH leaves the room.
+
+SAM
+[to Claypool] You’re a cheap hack. And if you come after Leo I’m gonna bust you like 
+a piñata.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet, Leo, and the Indian ambassador are in mid-conversation.
+
+INDIAN AMBASSADOR
+Your frustration, Mr. President, is because you can no longer control us with the threat 
+of economic sanctions.
+
+BARTLET
+My frustration, Mr. Ambassador, is that both you and the Pakistanis have nuclear weapons 
+and a tendency to get cranky.
+
+INDIAN AMBASSADOR
+India must and will be a nuclear power, Mr. President. That way, we’ll never be dictated 
+to again.
+
+BARTLET
+Well, it was nice spending this time with you.
+
+INDIAN AMBASSADOR
+Thank you Mr. President.
+
+BARTLET
+Thank you.
+
+LEO
+[showing out the ambassador] Thank you.
+
+BARTLET
+Every time he talks about colonial Western imperialism, I always want to remind him 
+that the United States is also a revolutionary country that threw off its colonial masters.
+
+LEO
+Why don’t you?
+
+BARTLET
+I keep forgetting.
+
+CHARLIE
+[sticks his head in] Mr. President?
+
+BARTLET
+Is he here?
+
+CHARLIE
+Yes sir.
+
+BARTLET
+Send him in please.
+
+LEO
+Oh, God help me.
+
+LORD JOHN MARBURY enters, looking disheveled.
+
+BARTLET
+John!
+
+MARBURY
+Mr. President.
+
+BARTLET
+Thank you for coming. How was your flight?
+
+MARBURY
+Intoxicating.
+
+LEO
+Oh, I see.
+
+MARBURY
+[to Leo] Allow me to present myself, Lord John Marbury, I was summoned by your President.
+
+LEO
+Yes. We’ve met, ten or twelve times. I’m Leo McGarry.
+
+MARBURY
+I thought you were the butler.
+
+LEO
+No, I’m the White House Chief of Staff.
+
+MARBURY
+Nonetheless, would you have something with which to light my cigarette?
+
+LEO
+Oh, I’m afraid we don’t allow smoking in this part of the world.
+
+MARBURY
+Really? 
+
+LEO
+Yes sir.
+
+MARBURY
+In this part over here, we encourage it.
+
+LEO
+Sir.
+
+MARBURY
+It’s “Your Lordship,” as a matter of fact, but it couldn’t possibly make the least 
+difference. So, tell me, how can I be of service to you? If it’s within my power to 
+give, you shall have it.
+
+BARTLET
+We need your take on the situation, John.
+
+MARBURY
+What is your “take” on the situation?
+
+BARTLET
+The world is coming apart at the seams.
+
+MARBURY
+Well, then... [hands his coat to Leo, imperiously] ...thank God you sent for me!
+
+LEO
+Yes.
+ 
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT. C.J.’S OFFICE - DAY
+C.J. is talking on the phone.
+
+C.J.
+[into the phone] -- the Earl of Sherbourne, he is the great great grandson of a former 
+Viceroy and for thirteen years served as the Queen’s minister to either India or 
+Pakistan. Lord Marbury is here to council the President, and if you think this is 
+all starting to sound like a Gilbert and Sullivan operetta, I don’t blame you a bit. 
+
+Carol and Toby appear in the doorway.
+
+CAROL
+C.J.?
+
+C.J.
+[into the phone] Thank you. [to Carol] Yes.
+
+CAROL
+Toby’s here.
+
+C.J.
+Okay. [To Toby] Hello.
+
+TOBY
+I feel that I didn’t have the opportunity to properly articulate my argument.
+
+C.J.
+Either I’m a trusted member of the communications staff or I’m not, Toby, what was your 
+argument?
+
+TOBY
+That was my argument.
+
+C.J.
+That wasn’t your argument.
+
+TOBY
+[sitting on the couch] It was my argument a little while ago, when I was arguing in my head.
+
+C.J.
+Are you apologizing?
+
+TOBY
+Yes. [long pause]
+
+C.J.
+Well?
+
+TOBY
+What?
+
+C.J.
+Apologize!
+
+TOBY
+[peevishly] I’m sorry!
+
+C.J.
+God!
+
+TOBY
+I was trying to do it nicer than that.
+
+C.J.
+[sitting next to him on the couch] Whose idea was it?
+
+TOBY
+Mine.
+
+C.J.
+You were the one who said “India’s invaded Pakistan, let’s not tell C.J.?”
+
+TOBY
+I didn’t say it like that.
+
+C.J.
+Well, how’d you say it?
+
+TOBY
+I said it nicer.
+
+Toby looks at C.J. and gives her a very small smile.
+
+CUT TO: INT. HALLWAY - DAY
+Josh is arriving back in the office. Donna greets him.
+
+DONNA
+Josh.
+
+JOSH
+Hi, Donna.
+
+DONNA
+I didn’t expect you back so soon.
+
+JOSH
+Yeah.
+
+DONNA
+Did everything go okay?
+
+JOSH
+[as she takes his coat] No, actually, it didn’t. Thanks.
+
+Toby and C.J. are coming out of her office and meet Josh in the hallway heading for 
+his office.
+
+TOBY
+You’re back.
+
+JOSH
+Yeah.
+
+C.J.
+Toby apologized to me.
+
+JOSH
+Listen...
+
+C.J.
+In his way.
+
+TOBY
+C.J....
+
+JOSH
+Listen, I need to tell you guys something.
+
+They all go into Josh’s office.
+
+CUT TO: INT. SAM’S OFFICE - DAY
+Sam is coming back to his office. He walks past a television monitor showing soldiers 
+fighting in Kashmir, sits at his desk, and stares into space. Mandy comes to his door.
+
+MANDY
+Sam? [No response.] Sam?
+
+SAM
+Yeah?
+
+MANDY
+Did you talk to him?
+
+SAM
+What?
+
+MANDY
+Did you talk to him?
+
+SAM
+It’s a bad idea, Mandy.
+
+MANDY
+Did you tell him about...?
+
+SAM
+No.
+
+MANDY
+I thought that you were the champion of bipartisan cooperation, and the spirit of...
+
+SAM
+Leo’s in trouble. You’re a political consultant. Your job isn’t to end the fight, it’s 
+to win it! Now you can work for us or you can work for them, but you can’t do both.
+
+Josh, Toby, and C.J. appear in the doorway.
+
+JOSH
+Sam?
+
+SAM
+Yeah.
+
+JOSH
+Let’s go.
+
+Josh, Sam, Toby, and C.J. leave.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet, Leo and Marbury are in the midst of a conversation.
+
+LEO
+Oh, I think that’s nonsense.
+
+MARBURY
+Oh, do you?
+
+LEO
+Yes. I think you’re dramatically over-estimating the possibility of escalation beyond 
+the point we’re at now.
+
+MARBURY
+Interesting.
+
+LEO
+Thank you.
+
+MARBURY
+What is your name again?
+
+LEO
+All right.
+
+MARBURY
+Happily ensconced in the cocoon of your Cold War victory, you are woefully ignorant 
+of the powerful historical agents in Asia. The global triumph of the economic free 
+market has created an illusory assumption that the world is drawing itself closer 
+together. Your Congress has been pathetically inept at halting the proliferation of 
+nuclear weapons in this region, and your intelligence gathering is weak. India and 
+Pakistan have fought three wars in the half-century since they have gained their 
+independence, with God knows how many skirmishes in between. It is about religion, 
+and I can assure you, they do not share our fear of the bomb.
+
+Charlie enters with a message and hands it to Lord Marbury.
+
+MARBURY 
+Oh, I have a telephone call. Mr. President, may I take it please in your foyer?
+
+BARTLET
+Yeah, go ahead.
+
+MARBURY
+Thank you. [leaves with Charlie]
+
+LEO
+[to Bartlet] I don’t even think the accent’s real.
+
+BARTLET
+I want to ask him to stay a little bit and help us out.
+
+LEO
+For how long?
+
+BARTLET
+You two are going to become good friends.
+
+LEO
+He thinks I’m the butler.
+
+BARTLET
+For the first couple of weeks, so did I.
+
+There is a knock at the door and Margaret enters.
+
+MARGARET
+Excuse me, Mr. President.
+
+BARTLET
+Hello, Margaret.
+
+LEO
+What do you need?
+
+Margaret whispers in Leo’s ear.
+
+LEO
+Yeah. [to Bartlet] Would you excuse me for a moment?
+
+BARTLET
+Yeah.
+
+CUT TO: INT. LEO’S OFFICE - DAY
+Josh, Toby, C.J., and Sam are gathered. Leo enters, followed by Margaret.
+
+LEO
+What’s going on?
+
+JOSH
+It didn’t go well. Claypool’s got a copy of your records from rehab. Either he got 
+‘em from Lillienfield or the other way around. I was in a position where I was gonna 
+perjure myself, so SAM ended the deposition. Claypool’s next step is to call a reporter, 
+so I’m pretty sure you’re going to be read about this soon, so I wanted to ask you, 
+does your family know?
+
+LEO
+Yes.
+
+JOSH
+‘Cause if they don’t, Leo...
+
+LEO
+They know.
+
+JOSH
+And the President?
+
+LEO
+Yes.
+
+JOSH
+You ready for this?
+
+LEO
+Yes.
+
+JOSH
+Then we’re here for whatever you need. We just wanted to come in and tell you that.
+
+Leo looks from one to the other of them.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+Bartlet is seated as Charlie enters.
+
+BARTLET
+Is he still on the phone?
+
+CHARLIE
+Yes sir.
+
+BARTLET
+Okay.
+
+CHARLIE
+Do you need anything?
+
+BARTLET
+[going to his desk] There’s a quote from Revelations I’m trying to remember.
+
+CHARLIE
+[following him] I can’t help you out there, sir.
+
+BARTLET
+It’s about a horse.
+
+CHARLIE
+I’ve never read Revelations.
+
+BARTLET
+Why not?
+
+CHARLIE
+Never got around to it.
+
+BARTLET
+Say, listen. My hesitation about your going out with Zoey before, you know, it’s not 
+‘cause you’re black.
+
+CHARLIE
+[sits] I didn’t think it was.
+
+BARTLET
+It’s not.
+
+CHARLIE
+I thought it was ‘cause I’m a guy.
+
+BARTLET
+It is.
+
+CHARLIE
+I understand.
+
+BARTLET
+Still, I want you to go out with her if that’s what you both want to do.
+
+CHARLIE
+I’d like to.
+
+BARTLET
+That’s fine.
+
+CHARLIE
+Thank you, sir.
+
+BARTLET
+Just remember these two things: She’s nineteen years old, and the 82nd Airborne works for me.
+
+CHARLIE
+Yes sir.
+
+BARTLET
+Also this - no kidding. You go out with Zoey, you’re gonna get your picture taken. 
+There’s gonna be a lot of people not wild about the sight of you and the President’s 
+daughter. You know what to do with the mail, right?
+
+CHARLIE
+Yes sir.
+
+BARTLET
+[standing] All right. You keep your head up.
+
+CHARLIE
+Yes sir.
+
+BARTLET
+Should have built a dungeon.
+
+CHARLIE
+Yes sir.
+
+BARTLET
+[now searching for something in his desk drawer] Revelations. It’s about a horse, 
+and Death was riding on it maybe.
+
+CHARLIE
+Really, I haven’t read it, Mr. President.
+
+BARTLET
+Okay.
+
+CHARLIE
+Should I go check it out?
+
+BARTLET
+Yes, please.
+
+CHARLIE
+Okay.
+
+BARTLET
+Thank you, Charlie.
+
+Bartlet finds what he’s been looking for in his desk drawer - a cigarette lighter. 
+Leo, Josh, C.J., Sam, and Toby enter.
+
+BARTLET
+Ah, good, I want you all to meet John.
+
+LEO
+Mr. President, before Lord Fauntleroy...
+
+BARTLET
+Lord Marbury.
+
+LEO
+Whatever. Before he comes back in the room, I wanted to tell you that Josh’s deposition 
+did not go well, and that the story will probably break soon.
+
+BARTLET
+How you doing?
+
+LEO
+I’m fine.
+
+BARTLET
+Don’t you ever forget the battles you’ve fought and won.
+
+LEO
+Yes sir.
+
+MARBURY
+[enters] I’m back... and I believe there are many more people in the room.
+
+LEO
+Excellent deducing, your Lordship.
+
+MARBURY
+Mr. President, the telephone call was from the British ambassador to the United Nations. 
+He believes there’ll be a cease-fire resolution within a few hours.
+
+BARTLET
+That’s what I’d heard. But all they got was two weeks.
+
+MARBURY 
+It’s two weeks better than nothing.
+
+BARTLET
+John, I was hoping you’d stick around for a couple of days and help us out.
+
+MARBURY
+A few days, a few months, however long it takes is as long as I shall serve.
+
+LEO
+Well, let’s play it by ear.
+
+MARBURY
+You’re all frightened. As well you should be. Not since the Protestant-Catholic wars 
+in the 16th century has Western society known anything remotely comparable to the 
+subcontinent’s religious malevolence. To a lesser observer, the intensity of the 
+emotional frenzy is so illogical as to border on mass psychosis. But, as has been 
+said by kings and queens, I am not a lesser observer.
+
+BARTLET
+John, there’s a quote from Revelations...
+
+MARBURY
+“And I looked, and I beheld a pale horse, and the name that sat on him was Death, and 
+Hell followed with him.”
+
+BARTLET
+Are you frightened, John?
+
+MARBURY
+Do you mean do I think we can stop a war in the next two weeks?
+
+BARTLET
+Yes.
+
+MARBURY
+Yes.
+
+BARTLET
+Good.
+
+MARBURY
+But -- 
+
+Bartlet turns to him expectantly. Marbury takes a cigarette from his pocket.
+
+MARBURY [cont.]
+-- I shall require a light.
+
+Marbury catches the lighter Bartlet has tossed him, smiles, and lights his cigarette.
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+
+The West Wing and all its characters are properties of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television, and NBC. No copyright infringement is intended.
+
+Episode 1.11 -- “Lord John Marbury”
+Original Airdate: January 5, 2000, 9:00 PM EST
+
+Transcript By: Jenn Dungan

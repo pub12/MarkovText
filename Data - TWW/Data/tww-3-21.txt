@@ -1,0 +1,2312 @@
+THE WEST WING
+"POSSE COMITATUS"
+WRITTEN BY: AARON SORKIN
+DIRECTED BY: ALEX GRAVES
+
+TEASER
+
+FADE IN: INT. THE BRIEFING ROOM - DAY
+The reporters laugh and chat as C.J. holds a briefing.
+
+C.J.
+We're leaving exactly one hour later than we planned. At 5:00, he'll board Marine One for 
+the trip to Andrews, where he'll board Air Force One for the trip to New York. We're just 
+trying to be helpful because we understand that a Presidential motorcade rolling through 
+midtown Manhattan around 6:00, 6:30 really helps keep things well-lubed out there. As a 
+matter of fact, we apologize to New Yorkers for the inconvenience, but the delay was 
+inevitable.
+
+The reporters chuckle.
+
+C.J.
+I meant to say 'unavoidable.' The delay was unavoidable. The President will make a short 
+visit at City Hall and be in his feet at 7:30.
+
+ARTHUR
+Why is this such an early curtain?
+
+C.J.
+The play is 19 hours long.
+
+The reporters laugh.
+
+C.J.
+It's long. It's five and a half hours.
+
+KATIE
+Do you have a nose count yet this morning?
+
+C.J.
+On the welfare bill?
+
+KATIE
+Yeah. I heard there was more movement last night.
+
+C.J.
+Yeah, there's movement. It's close.
+
+KATIE
+How close?
+
+C.J.
+Look at the color of Josh Lyman's hair.
+
+STEVE
+How much of at least the summer plan for the campaign depends on winning the vote?
+
+C.J.
+I'd go beyond that. I'd say the future of the entire world depends on it.
+
+More laughter.
+
+C.J.
+I don't want to scare anybody, but I'd call your Congressman. Mark?
+
+MARK
+Seriously, 50 dollars if you give me a straight answer. Are they gonna meet tonight?
+
+C.J.
+The President and Governor Ritchie?
+
+MARK
+Yes.
+
+C.J.
+I don't know.
+
+MARK
+Now, I'm just gonna blow it on booze and women.
+
+More laughter.
+
+C.J.
+Anything else? I'll see you in New York.
+
+CHRIS
+Uh, wait. You never told us why the delay.
+
+C.J.
+I'm sorry?
+
+CHRIS
+Why is the President leaving an hour later?
+
+C.J.
+He scheduled a last-minute meeting.
+
+CHRIS
+With who?
+
+C.J.
+Good question.
+
+C.J. flips through her copy of the President's schedule, runs her index finger on the 
+second page until she sees the name.
+
+C.J.
+Qumari Defense Minister Abdul Shareef.
+
+SMASH CUT TO: MAIN TITLES.
+END TEASER
+* * *
+
+ACT ONE
+
+FADE IN: INT. THE SITUATION ROOM - DAY
+Leo, the Joint Chiefs of Staff, and intelligence personnel are already settled inside, 
+waiting on the President.
+
+LEO
+Where'd we get the wires crossed? How'd the Pentagon put it on the schedule?
+
+FITZWALLACE
+We didn't get the wires crossed.
+
+LEO
+He's meeting with the guy. He's gonna be in the Oval Office.
+
+FITZWALLACE
+He was always gonna do that.
+
+LEO
+It wasn't cancelled?
+
+FITZWALLACE
+No way.
+
+LEO
+Fitz...
+
+FITZWALLACE
+The White House cancels a meeting at the last minute, he's gonna have somebody tasting 
+his food for a month. I don't want him thinking.
+
+LEO
+I don't want the President... All right. I was gonna say I don't want him putting a voice 
+to the guy. I take my daughter to a seafood place, the first thing she does is name all 
+the lobsters in the tank, so I can't eat them.
+
+The doors fly open for Bartlet, and everyone stands.
+
+OFFICER
+Ten-hut.
+
+BARTLET
+Hello.
+
+LEO
+Good morning, sir.
+
+Everyone else greets the President before they all sit.
+
+MAN
+Mr. President, we wanted to lay out some of the rules.
+
+BARTLET
+There are rules for these things?
+
+MAN
+[pause] Uh, yes sir. The first one being the National Security Act, which says basically 
+that only the President can trigger a covert action. This isn't a situation where you 
+need to know as little as possible. The law requires that you know everything.
+
+BARTLET
+Doesn't the law also require that I not assassinate someone?
+
+MAN 2
+Yes. Political assassination is banned by Executive Order. Two Executive Orders, as a 
+matter of fact.
+
+BARTLET
+I know. One of them was mine.
+
+LEO
+The E.O. is law, but it was made up by the Executive, and the Executive can ignore it.
+
+BARTLET
+Assume for a second I say yes. How do we do it? Fitz walks up to him with a gun?
+
+FITZWALLACE
+No, it can't be military.
+
+BARTLET
+Why?
+
+FITZWALLACE
+The Posse Comitatus Act of 1878 prohibits the military from civilian law enforcement, and 
+it can't happen on American soil.
+
+BARTLET
+The things we choose to care about.
+
+MAN 3
+Mr. President, I should mention that if you give the order, the law insists that you 
+inform what we call the gang of eight. That's the leadership on both parties and both 
+houses and the chairpeople and ranking members of the two intelligence committees.
+
+BARTLET
+If it can't happen here, then why'd we care that Shareef was delivering himself?
+
+Fitzwallace has already walked next to the computer display.
+
+FITZWALLACE
+He's flying back tonight in his gulfstream. The pilot will be one of our people. They'll 
+experience a mechanical failure about 90 minutes into the flight and set down in a remote 
+RAF strip in Bermuda. It's really not much more than a road in the grass.
+
+BARTLET
+The British say yes?
+
+FITZWALLACE
+Yes, sir.
+
+BARTLET
+How many over there know about this?
+
+FITZWALLACE
+Three.
+
+BARTLET
+And some people in Bermuda?
+
+FITZWALLACE
+Yes, sir.
+
+LEO
+[to everyone] This is as big as the club gets, all right?
+
+BARTLET
+[uneasily] Okay. Well... surely, this is the most absurd meeting I ever sat in, and 
+friends, that is saying something.
+
+As Bartlet rises, everyone else does.
+
+MAN 3
+Sir, will you be exchanging gifts with Shareef when you meet this afternoon?
+
+BARTLET
+Yeah, I imagine.
+
+MAN 3
+We'd like you to give him this.
+
+He nods to the man next to him. The man walks over to Bartlet while pulling out a pen 
+from his jacket pocket. He hands the pen to the President.
+
+BARTLET
+What does the pen do? Squirts poison?
+
+MAN 3
+It's got a small recording device in there. He'll probably throw it in the trash, but you 
+never know. You might get lucky. He sticks it in his pocket on the flight home.
+
+From him, Bartlet looks down at the pen on his hand. He glances at Leo and drops the pen 
+on the table. He starts to walk out.
+
+MAN 3
+Sir?
+
+BARTLET
+We give him it boxed. Tell them to put it in a box.
+
+Bartlet walks out.
+
+CUT TO: INT. TULLY'S BREAKFAST PLACE - DAY
+Josh and Amy are giving their orders to the waitress.
+
+AMY
+Can I get an egg-white omelet and some toast that's badly burnt?
+
+JOSH
+Just coffee, thanks.
+
+WAITRESS
+Yes.
+
+The waitress leaves. Josh turns to Amy.
+
+JOSH
+That doesn't give you cancer?
+
+AMY
+Burnt toast?
+
+JOSH
+Yeah.
+
+AMY
+They're not sure. That's why I have the egg-white omelet.
+
+JOSH
+Welfare is a core issue with swing and independent voters. They use it as a barometer to 
+measure a President's values on work and responsibility.
+
+AMY
+Yeah.
+
+JOSH
+We're gonna win the vote.
+
+AMY
+We'll see.
+
+JOSH
+We will... but we're gonna. I have a nine-point margin.
+
+AMY
+I think you're gonna lose Burnet, Bristol and Keith.
+
+JOSH
+They're on that fence?
+
+AMY
+Yeah.
+
+JOSH
+You understand we have to authorize welfare one way or another. You got to do it every 
+six years.
+
+AMY
+Have I done something to make you think I'm dumb?
+
+JOSH
+Amy...
+
+AMY
+Doesn't the fact that you have to re-authorize it means that Republicans...?
+
+JOSH
+You have an extra billion in child care.
+
+AMY
+That's great, but the marriage incentives are terrible.
+
+JOSH
+We don't like the marriage incentives, either. Don't be ridiculous, but independent 
+voters...
+
+AMY
+Please say "white men" instead of "independent voters," and if you're serious about 
+making welfare a second chance and not a way of life, then you have to give people job 
+training.
+
+JOSH
+Call off the hunt, and I'll see to it that you guys can make up with The White House.
+
+AMY
+Why?
+
+JOSH
+'Cause we're gonna win.
+
+CUT TO: INT. A QUIET HOME - DAY
+Charlie rings the doorbell. Nobody answers. He peeks in the side window and knocks on the 
+door. A woman opens the door slightly and looks at Charlie.
+
+MS. DEBORAH FIDERER
+Yes?
+
+CHARLIE
+Mrs. DiLaguardia?
+
+MS. FIDERER
+Yes?
+
+CHARLIE
+It's Charlie. I think there's trouble with your phone line. We kept getting disconnected.
+
+MS. FIDERER
+No...
+
+CHARLIE
+I hope you don't mind I just drove on out.
+
+MS. FIDERER
+No. Yes, I... We weren't getting disconnected. I was hanging up.
+
+CHARLIE
+Why?
+
+MS. FIDERER
+I wasn't interested in the job.
+
+CHARLIE
+Why didn't you just say so?
+
+MS. FIDERER
+You would have asked why.
+
+CHARLIE
+Yeah.
+
+MS. FIDERER
+My way was faster.
+
+CHARLIE
+Why aren't you interested...?
+
+She slams the door before Charlie could finish. Charlie knocks again. She opens the door.
+
+MS. FIDERER
+So you have my address. What other corners of my personal life have you rooted out?
+
+CHARLIE
+You worked at The White House. We know where you live.
+
+MS. FIDERER
+I bet you do.
+
+CHARLIE
+May I come inside for one minute?
+
+MS. FIDERER
+You're not allowed to park there.
+
+CHARLIE
+Yes, I am.
+
+MS. FIDERER
+All right.
+
+She finally lets Charlie inside. They walk to the living room.
+
+CHARLIE
+Mrs. DiLaguardia.
+
+MS. FIDERER
+I'm not married to Mr. DiLaguardia anymore. My name is Debbie Fiderer.
+
+CHARLIE
+Fidler?
+
+MS. FIDERER
+Fiderer.
+
+CHARLIE
+Ms. Fiderer, you've worked as executive assistant to Terrance Hunt: managing editor of 
+Gannet News, Jack Kent Cooke: former owner of the Washington Redskins, Jordan Williams: 
+founding partner at Cutler, Williams, Rossi, and the White House Office of Presidential 
+Personnel, and I'd like you to come meet with the President today to discuss filling 
+Delores Landingham's job.
+
+MS. FIDERER
+No.
+
+CHARLIE
+Why?
+
+MS. FIDERER
+Oh, this is so much worse than the phone call would have been.
+
+CHARLIE
+Why?
+
+MS. FIDERER
+Because I don't work for anyone, Charlie. I'm my own boss. I set my sail and go that 
+particular direction. [points]
+
+CHARLIE
+You do?
+
+MS. FIDERER
+Yes.
+
+CHARLIE
+How's the sailing been?
+
+MS. FIDERER
+I beg your pardon?
+
+CHARLIE
+How's business?
+
+MS. FIDERER
+I'll admit I got off to a rocky start.
+
+CHARLIE
+What'd you try?
+
+MS. FIDERER
+Gambling.
+
+CHARLIE
+Didn't work out?
+
+MS. FIDERER
+No, but all that's changed.
+
+CHARLIE
+'Cause now you're...?
+
+MS. FIDERER
+I'm an alpaca farmer.
+
+CHARLIE
+Are you serious?
+
+MS. FIDERER
+It's the world's finest livestock investment, Charlie.
+
+CHARLIE
+You're talking about those sheep they show on late-night T.V.?
+
+MS. FIDERER
+Well, they're alpacas, and if you knew that, you'd know that the textiles made from their 
+fiber are coveted by the best fashion houses.
+
+CHARLIE
+You swallowed a brochure?
+
+MS. FIDERER
+I have two of the Huacaya variety.
+
+CHARLIE
+You were Executive to the head of the U.S. Olympic Organizing Committee, 
+
+MS. FIDERER
+Yes.
+
+CHARLIE
+I'm sending a car for you in 90 minutes. [heads for the door]
+
+MS. FIDERER
+I was fired from The White House, Charlie.
+
+CHARLIE
+I know you were.
+
+Charlie opens the door. Ms. Fiderer watches him leave.
+
+CUT TO: INT. THE WHITE HOUSE NORTHWEST LOBBY - DAY
+Agent Simon Donovan, in casual clothes, walks in with a young black man, Anthony.
+
+SIMON
+You know what you should do? You should bring your mom a souvenir from The White House. 
+Everyday, you should show your mom some expression of love. A smile. "You look pretty 
+today, mom." A good smack on the ass they always like.
+
+Anthony chuckles.
+
+SIMON
+You know why you should give your mom an expression of love everyday?
+
+ANTHONY
+'Cause she raised me?
+
+SIMON
+Well, okay. I was gonna say just to make things easier.
+
+Simon pushes the doors to JOSH'S BULLPEN AREA, where he starts getting coffee.
+
+ANTHONY
+So, you're gonna be careful in New York, right?
+
+SIMON
+We're only going for a few hours.
+
+ANTHONY
+No, I mean when the crazy guy shows up.
+
+SIMON
+You don't think I can handle myself?
+
+ANTHONY
+Well...
+
+SIMON
+What?
+
+ANTHONY
+You got skills. I don't deny that. You can shoot, and you're athletic.
+
+SIMON
+But?
+
+ANTHONY
+You're slow-witted.
+
+SIMON
+Let the beatings begin.
+
+ANTHONY
+[laughs] You're not very bright, and the criminals can sense this about you.
+
+Simon taps Anthony's face a couple of times and grabs his head for a headlock.
+
+SIMON
+Come here.
+
+C.J.
+Good morning.
+
+C.J. is standing in the middle of the hallway, watching them. Simon lets Anthony go and 
+almost dutifully stands to the side.
+
+SIMON
+Good morning.
+
+C.J.
+I thought you weren't on 'til this afternoon.
+
+SIMON
+I'm not. I arranged this for my friend Anthony here. Anthony, this is Ms. Cregg.
+
+ANTHONY
+Hi.
+
+C.J.
+Hey. [They shake hands.]
+
+SIMON
+You think it's possible for Anthony to get a souvenir he can give to his mom?
+
+C.J.
+Sure, it is. [calls] Carol? [to Anthony] That's really sweet, Anthony. Doing something 
+nice for your mom. [taps Simon on the shoulder] You should be like that.
+
+SIMON
+Yes.
+
+Carol walks up.
+
+C.J.
+Could you set this gentleman up with a keychain?
+
+CAROL
+Yup. [walks off]
+
+C.J.
+It'll have the Seal of the President on it, and President Bartlet's signature, and you 
+can tell your mom that you can't buy this in a souvenir shop. In fact, you can't buy it 
+anywhere 'cause it's against the law to sell the Seal of the President. You can only get 
+it here.
+
+ANTHONY
+Yeah, but if the cops stopped me, aren't they gonna think I stole it?
+
+C.J.
+If the cops stopped you, they're gonna think you're an important person.
+
+SIMON
+Stop you for what?
+
+ANTHONY
+Whatever.
+
+SIMON
+Wait outside a second, will you?
+
+ANTHONY
+Yeah.
+
+C.J.
+Nice meeting you.
+
+Anthony heads to the lobby. Simon and C.J. go inside C.J.'S OFFICE.
+
+C.J.
+Is he your nephew?
+
+SIMON
+No. I'm a Big Brother. We've been together about three years.
+
+C.J.
+Are you good at it?
+
+SIMON
+I don't know. He says he wants to be a Big Brother when he gets older, so you know, 
+I guess...
+
+C.J.
+Listen. I was thinking there's really no reason for you to make the trip to New York.
+
+SIMON
+Yeah?
+
+C.J.
+I'm gonna be traveling with the President the whole time.
+
+SIMON
+Can I say something?
+
+C.J.
+Sure.
+
+SIMON
+I'm not allowed to date a protectee.
+
+C.J.
+Who's trying to date you?
+
+SIMON
+I'm not allowed to kiss a protectee.
+
+C.J.
+Who's trying to kiss you?
+
+SIMON
+You did.
+
+C.J.
+No, I didn't.
+
+SIMON
+C.J., I'm trusted with a serious job.
+
+C.J.
+Aren't you not allowed to call a protectee by their first name?
+
+SIMON
+Yes, ma'am. I'm gonna take Anthony home.
+
+C.J.
+There's really no reason for you to come to New York.
+
+SIMON
+See you on the plane.
+
+C.J. watches Simon go.
+
+CUT TO: INT. THE PRESIDENT'S PRIVATE STUDY - DAY
+Bartlet is in another session with the psychiatrist, Dr. Stanley Keyworth.
+
+BARTLET
+It's "The War of the Roses." All the Henrys, and all the Richards, for that matter.
+
+STANLEY
+In some kind of condensed form?
+
+BARTLET
+Yeah.
+
+STANLEY
+'Cause you'd be there for weeks, right, if...?
+
+BARTLET
+Yeah. There's also singing.
+
+STANLEY
+Oh, it's a musical?
+
+BARTLET
+No, but they're gonna sing from time to time, and one of the songs is a song I love. 
+I can't think of the name now, but it's an Edwardian... It always reminds me... It makes 
+me think of college, like, I don't know, like they should be singing it in the dining 
+hall at Christ College at Cambridge. The chorus is, "And victorious in war shall be made 
+glorious in peace." I was just singing it this morning.
+
+A moment of silence.
+
+STANLEY
+How have you been sleeping?
+
+BARTLET
+Good. Yeah. Let me ask you something. Is there a crime, which if it wasn't illegal, you 
+would do?
+
+STANLEY
+I'd park anywhere I want.
+
+BARTLET
+Right, but you wouldn't rob a bank?
+
+STANLEY
+No.
+
+BARTLET
+Connecticut had a law prohibiting the use of contraceptives. It was written out of rage 
+against adultery. But in the age of AIDS, don't Connecticut residents do more for the 
+general welfare by flagrantly breaking the law?
+
+STANLEY
+There was a law against... contraceptives?
+
+BARTLET
+Yeah.
+
+STANLEY
+Can I ask, sir, how somebody used to get caught?
+
+BARTLET
+Stanley...
+
+STANLEY
+What's on your mind, Mr. President?
+
+BARTLET
+I can't tell you.
+
+STANLEY
+Yeah, but you can.
+
+Bartlet pauses, looks away and thinks.
+
+BARTLET
+No, I really can't. It's high security. To say nothing of... [sighs heavily]
+
+STANLEY
+To say nothing of what?
+
+BARTLET
+If I tell you I intend to commit a crime, you're required by law to report it. [beat] 
+I have a strange meeting coming up. [beat] I'm gonna go. It's good seeing you.
+
+Bartlet stands, grabs his jacket, and leaves Stanley inside.
+
+FADE OUT.
+END ACT ONE
+* * *
+
+ACT TWO
+
+FADE IN: INT. THE ROOSEVELT ROOM - DAY
+Sam and Toby are meeting with a Congressman. Toby paces.
+
+CONGRESSMAN
+Go ahead without the governors. You're asking for trouble.
+
+SAM
+You co-sponsored the bill.
+
+CONGRESSMAN
+Yeah. I'm saying if you increase the work hours, for example, what would the governors do 
+if there aren't enough jobs?
+
+SAM
+I don't even understand that.
+
+TOBY
+I don't think the congressman is here as a co-sponsor of the bill, Sam. I think he's here 
+as the leader of Florida's Republican Delegation.
+
+CONGRESSMAN
+The President should meet with Ritchie tonight.
+
+SAM
+That's not gonna happen
+
+CONGRESSMAN
+They should walk in the door together.
+
+SAM
+Walk in the door together?
+
+TOBY
+It's a Catholic fundraiser, Ted. It's not a network debate.
+
+CONGRESSMAN
+They should walk in the door together. They should go in a room and talk, and then they 
+should watch the play. And there are five congressmen who would be interested in the 
+outcome of that meeting.
+
+SAM
+We get the votes... if the President meets with Ritchie?
+
+CONGRESSMAN
+Yes.
+
+TOBY
+Ted, the President enters the room with his wife and the President of China. He doesn't 
+do it with the governor of Florida.
+
+CUT TO: INT. THE MURAL ROOM - DAY
+Josh is meeting with three no votes on the welfare bill.
+
+MAN 1
+Can I ask why you guys are taking on a Broadway show during a vote like this?
+
+JOSH
+It was a scheduling error.
+
+MAN 1
+[sits] It was.
+
+JOSH
+Nonetheless...
+
+MAN 1
+I've got a primary.
+
+JOSH
+I know.
+
+MAN 2
+I'm spending money already.
+
+JOSH
+We can help you raise money.
+
+MAN 3
+So can Amy Gardner.
+
+JOSH
+Look, there's a billion more for child care. This isn't a bad bill. We're fixing ten 
+things...
+
+MAN 1
+How are the women...?
+
+JOSH
+...that were wrong with welfare. Transportation subsidies...
+
+MAN 1
+How are the women supposed to train for life after welfare when they're required to work 
+38 hours a week?
+
+MAN 3
+Forget the work hours. It's the marriage incentives. I can't run without women.
+
+JOSH
+[pause] All right. These are three 'no' votes, right?
+
+MAN 1
+Yeah.
+
+JOSH
+[stands] Okay. The President's gonna call you.
+
+MAN 1
+Do you know when?
+
+JOSH
+[walking out] No. Sometime during the first intermission.
+
+CUT TO: INT. THE OVAL OFFICE - DAY
+In the hands of ABDUL SHAREEF is the box containing Bartlet's gift. Standing in the middle 
+of the room, Bartlet listens to Shareef's Arabic, while the translator waits by the side. 
+Leo and Fitzwallace stand by the corner, while two men stand just by the doorway.
+The translator speaks when Shareef is finished.
+
+TRANSLATOR
+And that the friendship established long ago between the United States and the nation of 
+Qumar is based on frankness and serves the interests of both the American and Qumari people.
+
+BARTLET
+[indicating the men by the door] Who are these men?
+
+The translator asks Shareef, who responds.
+
+TRANSLATOR
+Bodyguards.
+
+BARTLET
+Okay.
+
+Shareef speaks again.
+
+TRANSLATOR
+And I would personally like to congratulate you, Mr. President, on the renewal of your 
+ten-year lease on the Air Base in Tiaret.
+
+BARTLET
+Yeah, I'm feeling particularly proud of that today.
+
+The translator interprets.
+
+BARTLET
+We're happy you visited us, Mr. Defense Minister. You're welcome here anytime, and please, 
+send the best regards of the President of the United States to the Royal Sultan.
+
+The translator interprets again. Shareef offers his hand. Bartlet just looks at him.
+
+BARTLET
+Not in the Oval Office.
+
+TRANSLATOR
+Sir?
+
+BARTLET
+Tell him I have a rash on my hand. Make sure you apologize.
+
+He translates. A little confused, Shareef slowly drops his hand. He says a word before leaving 
+with his bodyguards.
+
+BARTLET
+Yeah. [to the translator] Thanks.
+
+TRANSLATOR
+Yes, sir. [leaves]
+
+A moment of silence after the guests leave. Bartlet looks down at Shareef's gift.
+
+BARTLET
+It's a hand-carved incense burner. Gypsum and sandalwood.
+
+He throws the incense burner in Fitzwallace's direction. Before he catches it, we--
+
+CUT TO: INT. TOBY'S OFFICE - DAY
+Toby's pink ball bounces off the window, catching Sam's attention. Sam walks to the window 
+to look through from his office. Toby bounces the ball on the window again. Sam walks to 
+Toby's door.
+
+SAM
+What's up?
+
+TOBY
+A.P. called with a quote from Kevin Kahn. [reads from a note] "Governor Ritchie is looking 
+forward to meeting with the President tonight so he could talk about the Federal Government's 
+plan for the Everglades, which would tax sugar farmers into unemployment."
+
+SAM
+It wouldn't.
+
+TOBY
+Yeah, but now he's got another "What's Bartlet hiding from us today?" spot.
+
+SAM
+What about this? Call A.P. and tell them that Governor Ritchie is mistaken and that he is not 
+on the President's schedule, and go further. Say the President would love to meet with Ritchie, 
+but he's gonna be busy tonight passing a vote...
+
+TOBY
+...that's being hung up by the Florida delegation.
+
+Toby sees Josh passing by.
+
+TOBY
+Josh?
+
+JOSH
+[walking up] Yeah?
+
+TOBY
+In response to a tactical leak from Kevin Kahn, I'm gonna let A.P. know that Florida's messing 
+with the welfare vote. You all right with that?
+
+JOSH
+Yeah.
+
+TOBY
+I'm asking 'cause if we lose the vote then we've just said that he's the one that brought 
+us down.
+
+JOSH
+Yeah.
+
+TOBY
+You all right with this?
+
+JOSH
+Yeah.
+
+CUT TO: INT. OUTER OVAL OFFICE - DAY
+From the sign next to the doorway that says, "PRIVATE, OFFICE OF THE PRESIDENT," the camera 
+pans to a view inside, just as Ms. Fiderer walks in. She looks over the empty desk of the 
+President's personal secretary. Charlie walks in.
+
+MS. FIDERER
+Oh, hello.
+
+CHARLIE
+Good. I was worried you were gonna be late.
+
+MS. FIDERER
+No.
+
+CHARLIE
+You want some water or something?
+
+MS. FIDERER
+No. No, thanks. [reveals a bottle of water from her purse]
+
+CHARLIE
+Have you met him before?
+
+MS. FIDERER
+We shook hands for a second before a group picture.
+
+CHARLIE
+You'll be fine.
+
+MS. FIDERER
+Yeah. [drinks]
+
+CHARLIE
+You seem a little better than you were before.
+
+MS. FIDERER
+I took a pill.
+
+CHARLIE
+Why?
+
+MS. FIDERER
+Because I was a little nervous about coming back to the White House.
+
+CHARLIE
+You took a pill?
+
+MS. FIDERER
+I took a couple.
+
+NANCY
+She can go on in now.
+
+Nancy and several other staffers march their way out of THE OVAL OFFICE. Charlie walks in.
+Ms. Fiderer tries not to bump to the exiting staffers, shifting left and right, as she 
+walks in. Bartlet walks to his desk. Ms. Fiderer stands in front.
+
+CHARLIE
+Mr. President, this is Deborah Fiderer. I'll be right outside. [exits]
+
+BARTLET
+It's Fiderer?
+
+MS. FIDERER
+Fideler. Fiderer. It's Fiderer.
+
+BARTLET
+[while signing papers] I saw your resume, so we don't need to talk about that. What have you 
+been doing recently?
+
+MS. FIDERER
+I'm an alpaca farmer.
+
+BARTLET
+Like the sweaters?
+
+MS. FIDERER
+Before they're sweaters.
+
+BARTLET
+Uh-huh. And before that?
+
+MS. FIDERER
+[rolls her eyes] Craps and blackjack.
+
+BARTLET
+You're a professional gambler.
+
+MS. FIDERER
+I like the way that sounds.
+
+BARTLET
+Whereabouts?
+
+MS. FIDERER
+Bally's... mostly.
+
+BARTLET
+Okay. Why did you leave the White House?
+
+MS. FIDERER
+Well, Mr. President, if you want to talk about getting screwed with your pants on...
+
+She drops her bottled water, bends down and picks it up.
+
+BARTLET
+Charlie!
+
+MS. FIDERER
+I guess I... I got pretty-pretty well-doinked.
+
+CHARLIE
+[walks in] Yes, sir.
+
+BARTLET
+Can I have a minute?
+
+CHARLIE
+Yes, sir.
+
+BARTLET
+[to Ms. Fiderer] Would you mind waiting outside just a moment?
+
+MS. FIDERER
+[as she walks out] No, not at all.
+
+BARTLET
+[to Charlie] Is this a joke? If it's a joke, it's both funny and well-executed, but I think 
+you and I both know that it's not. I send you out to replace Delores Landingham, and that's 
+what you came home with?
+
+CHARLIE
+Was she...?
+
+BARTLET
+She was an alpaca farmer who needed two tries to get her own name.
+
+CHARLIE
+Well, sir, maybe...
+
+BARTLET
+Don't worry about it. I'm gonna get the Personnel Office on it. I got to go change for 
+New York.
+
+Bartlet rushes out to the portico. Charlie walks out to the OUTER OVAL OFFICE, shaking his 
+head. Ms. Fiderer is waiting.
+
+CHARLIE
+Okay. Okay, that was my fault. I didn't properly prepare you for the meeting. That was bad 
+staff work. Before your next job interview with the President, I'm gonna remind you that you 
+probably don't want to be stoned.
+
+MS. FIDERER
+There's gonna be a second interview?
+
+CHARLIE
+There's gonna be as many as it takes. We're gonna get this right.
+
+They start to walk out.
+
+MS. FIDERER
+Well, let me back you up a second. Have we done the first one yet?
+
+CHARLIE
+I'm calling a cab now.
+
+MS. FIDERER
+Okay. [beat] Whatever happened to the Swingle Singers?
+
+CHARLIE
+I don't know.
+
+CUT TO: INT. CONFERENCE ROOM - DAY
+A number of politicians are gathered around a round table. Each have a copy of a file in front 
+of them. Two seats are left empty. They are for Leo and Fitzwallace, both of whom walk inside.
+
+LEO
+Good afternoon.
+
+Everyone sits. Leo starts.
+
+LEO
+After being presented with overwhelming evidence, provided by foreign and domestic 
+intelligence agencies, the President requested the intelligence finding you have in your 
+hands right now. That finding has been prepared and signed off by the directors of the 
+NSA and Central Intelligence.
+
+FITZWALLACE
+It was subsequently submitted for review and approval by the National Security Advisor, the 
+Secretaries of State and Defense, Attorney General, White House Counsel, and finally, myself, 
+and I submit it to you for notification.
+
+MAN 1
+How are you getting around 1-1-9-0-5?
+
+LEO
+The President's rescinding his own Executive Order.
+
+MAN 2
+He's on U.S. soil right now. Why can't the FBI act on this?
+
+LEO
+The FBI's role is investigatory. They're not allowed to engage in a police action.
+
+MAN 3
+And the military?
+
+LOBELL
+Posse Comitatus. You're killing Shareef?
+
+LEO
+[pause] I don't know.
+
+MAN 1
+Leo, when does the President give the green light?
+
+LEO
+At the last possible minute. Consider yourselves notified. Thank you. I have theater tickets.
+
+They all rise as Leo walks out.
+
+FADE OUT.
+END ACT TWO
+* * *
+
+ACT THREE
+
+FADE IN: EXT. TIMES SQUARE, NEW YORK CITY - NIGHT
+The bright lights illuminate the night sky, as two security vans equipped with police lights 
+drive by. Sirens are heard everywhere.
+
+CUT TO: EXT. OUTSIDE THE BROADWAY THEATER - CONTINUOUS
+The camera pans down from the sign "The Wars of the Roses" to the street below, where the two 
+security vans pass by. A number of policemen and agents are on toll, as theater patrons, 
+church officials and reporters are gathered near the entrance. The camera continues down to 
+an open security van parked nearby. The agents inside are looking over a detailed map.
+
+RON
+The secure exits are indicated in red. The site agents are standing post.
+
+MALE AGENT
+Yes, sir.
+
+RON
+And the U.D.?
+
+FEMALE AGENT
+Yeah.
+
+RON
+They can bring the dogs in. Thank you.
+
+Ron turns to the street and calls on Simon, who approaches.
+
+RON
+Simon?
+
+SIMON
+Yes, sir.
+
+RON
+We've got a lead. I think I'm gonna have news for you in a few minutes.
+
+SIMON
+Is that right?
+
+RON
+Yeah.
+
+SIMON
+Thank you.
+
+Ron walks away. Simon turns to the entrance, where he sees C.J. come out of the theater. 
+She walks over to a few reporters, just as Simon immediately heads her direction.
+
+REPORTER 1
+C.J.!
+
+REPORTER 2
+Hey C.J.
+
+C.J.
+How you guys doing?
+
+REPORTER 1
+C.J., the President running on time?
+
+C.J.
+Just about.
+
+Simon nonchalantly whisks C.J. away and pulls her to a deserted alley. The wind blows hard.
+
+SIMON
+I asked you to wait with an agent.
+
+C.J.
+I wanted to get some air.
+
+SIMON
+That's fine, but I asked you to wait with an agent.
+
+C.J.
+Simon...
+
+SIMON
+You can say to the agent, "I'd like to go outside and get some air," and he'll go with you.
+
+C.J.
+I'm standing in the middle of the President's security detail. What do you think's gonna 
+happen to me?
+
+SIMON
+[raises voice] I don't know what's gonna happen to you. If I did, this would be easy!
+
+C.J.
+Maybe if we didn't shout so much.
+
+SIMON
+I have spent my adult life protecting people. You're the first person who's got me seriously 
+thinking about switching sides.
+
+C.J.
+Oh, I'm sorry you feel that way. I think I've been a treat.
+
+SIMON
+[sarcastic] Oh, yes you have. A little Easter treat. Just for me.
+
+C.J.
+You seem a little riled.
+
+SIMON
+[angry] From the first day, you've acted like this is all my fault, when that's a pretty tough 
+case to make.
+
+C.J.
+I don't think any of it's your fault, and I appreciate everything you've done.
+
+SIMON
+I got to say, there are times when it seems like you like me.
+
+C.J.
+I do like you.
+
+SIMON
+Then you just walk off to stick it to me, and forget the personalities. It's just stupid!
+
+C.J.
+I said I do like you.
+
+SIMON
+I meant the other way!
+
+C.J.
+So did I. I tried to kiss you.
+
+SIMON
+You said you didn't!
+
+C.J.
+I was lying, you idiot.
+
+SIMON
+All right. I'm switching sides now.
+
+C.J.
+I was embarrassed. I fumbled it.
+
+SIMON
+You didn't. I told you. I'm not allowed!
+
+C.J.
+It sounded like an excuse.
+
+SIMON
+It's not. Somebody is threatening to kill you. I can't be... I watched you for three seconds 
+trying on dresses in Barney's, and the guy shows up... I can't be...
+
+C.J.
+You watched me at Barney's?
+
+SIMON
+You're like the girl in Driver's Ed. who won't watch the prom night movie becuase it's gross, 
+and so ends up missing an important lesson about drinking and driving.
+
+Simon's phone rings. He starts to answer it.
+
+C.J.
+[laughs] What in God's name are you talking about?
+
+SIMON
+[into phone] Simon Donovan.
+
+He walks. C.J. follows.
+
+C.J.
+You're saying I need to take my protection more seriously? 'Cause Simon, this is happening 
+to me. I think I take the situation plenty seriously, but I have to live my life, so maybe...
+
+SIMON
+[stops] I have a phone to my ear. What does that mean to you?
+
+C.J.
+I shouldn't be talking.
+
+SIMON
+[into phone] Yes, sir. [listens] Thank you.
+
+Simon hangs up and turns to C.J.
+
+SIMON
+They've got him.
+
+C.J.
+What do you mean?
+
+SIMON
+We have him in custody. It's him. [into wrist mic] 10-50. It's Donovan. They got my guy.
+
+C.J.
+They have him?
+
+SIMON
+They stopped his train in Trenton.
+
+C.J.
+Where was he going?
+
+SIMON
+Here. He wasn't gonna do anything to you.
+
+C.J.
+This is over.
+
+SIMON
+There's paperwork.
+
+C.J.
+I meant for me.
+
+SIMON
+Yeah.
+
+C.J.
+Thank you.
+
+SIMON
+You're welcome.
+
+C.J.
+Seriously.
+
+C.J. leans in to kiss Simon on the cheek. They get comfortably close. Without resistance, they 
+kiss passionately. It was a kiss weeks in the making. Well worth the wait. A long savored 
+moment passes before they let go. They stay close, as if they can't get enough of each other.
+They speak softly.
+
+C.J.
+Thanks.
+
+SIMON
+You can drive your car, walk in a crowd, eat a grapefruit, do what you want.
+
+C.J.
+How about a drink?
+
+SIMON
+Sure, you can drink.
+
+C.J.
+Can you meet me after the play?
+
+SIMON
+Yes.
+
+C.J.
+Good.
+
+SIMON
+Where?
+
+C.J.
+Anywhere you want.
+
+SIMON
+How about right here?
+
+Nearby, the sirens announce the arrival of the President's motorcade.
+
+C.J.
+I have to go to work.
+
+C.J. turns and walks back, a big smile on her face. The crowd start to applaud and cheer as 
+Bartlet comes out of his limo. Leo, Toby, Sam and the rest of the staff come out too. Bartlet 
+shakes hands with several Catholic church officials and waves to the crowd across the street. 
+The camera pans up to the sign again: "The Wars of the Roses."
+
+CUT TO: INT. BROADWAY THEATER - NIGHT
+The stage lights are dim as a man speaks.
+
+MAN
+Hung be the heavens with black, yield day and night.
+
+The audience applauds as the trumpets play, marking the start of the Shakespeare Company play. 
+The curtain rises for the first scene. The stage actors, all in periodic clothing, stay 
+frozen, as a man center stage raises his sword and starts his monologue. While he does, 
+the camera pans up to the theater balconies, passes by the President's, and into the rearmost, 
+where Sam walks up and pokes Toby on the shoulder.
+
+MAN
+Comets, importing changes of time and states, brandish your crystal tresses in the sky, and 
+with them scourge the bad revolting stars that have consented unto Henry's death. King Henry 
+the fifth, too famous to live long, virtue he had, deserving to command. He ne'er lift up his 
+hand, but conquered.
+
+In the back balcony, Toby stands and follows Sam outside.
+
+CUT TO: INT. THEATER HALLWAY - CONTINUOUS
+Sam and Toby walk down a small flight of stairs into a well-decorated hallway.
+
+SAM
+He went to the Yankee game.
+
+TOBY
+Ritchie?
+
+SAM
+Yes.
+
+TOBY
+He's at the Yankee game right now?
+
+SAM
+Local news covered it. He said this was how ordinary Americans got their entertainment.
+
+TOBY
+I've been to 441 baseball games in Yankee Stadium. There's not a single person there who's 
+ordinary.
+
+SAM
+I know.
+
+TOBY
+You making fun of the Yankees?
+
+SAM
+No.
+
+TOBY
+Now?
+
+SAM
+I'm not.
+
+TOBY
+They went to the Yankee game.
+
+SAM
+He's coming at intermission.
+
+TOBY
+Well, I'm not sure that suits me.
+
+SAM
+I know what you mean.
+
+TOBY
+Making an entrance after the President. That's just not how we play bridge. It's not how 
+we say cricket.
+
+SAM
+Okay, but you're starting to freak me out a little bit.
+
+TOBY
+Just talk to me a minute.
+
+SAM
+How many people are at the game?
+
+TOBY
+It's a good game. About 40,000 probably.
+
+SAM
+There was an incumbent President, who was facing a primary challenge, and on the day of the 
+primary, his staff sent his motorcade into a district that was heavily favored by his 
+opponent in order to tie up traffic. Now I would like it plain that I would never do anything 
+to temper an election, but...
+
+Toby pats Sam's cheek a few times and squishes his mouth.
+
+TOBY
+I am so... proud of you.
+
+SAM
+You're really very much freaking me out.
+
+Toby starts to fish his pocket for his cell phone.
+
+CUT TO: INT. JOSH'S OFFICE - NIGHT
+Donna appears at the door.
+
+DONNA
+It's Toby on One.
+
+She leaves. Josh picks up the phone and presses a button.
+
+JOSH
+Hey.
+
+TOBY
+Hey.
+
+CUT TO: INT. THEATER HALLWAY - CONTINUOUS
+Toby continues talking to Josh on the phone, while Sam paces in front of him.
+
+TOBY
+Listen, I'm gonna send the motorcade up to Major Deegan. Is that okay with you?
+
+JOSH
+Why?
+
+TOBY
+[to Sam] Josh has a good point. We should think of a reason.
+
+JOSH
+Why don't you guys get back to me?
+
+TOBY
+How's it going?
+
+CUT TO: INT. JOSH'S OFFICE - CONTINUOUS
+
+JOSH
+They'll start voting in about half an hour.
+
+TOBY
+You bringing in Brenda?
+
+JOSH
+Yeah.
+
+TOBY
+I didn't hear you.
+
+JOSH
+Yeah, we're bringing in Brenda. We're gonna make her Chairman of the Platform Committee.
+
+TOBY
+Hey, did I put too much pressure on you with the vote?
+
+JOSH
+No.
+
+TOBY
+With the Ritchie meeting and the A.P. quote?
+
+JOSH
+No.
+
+TOBY
+And I understand the President jumped up and down on you pretty hard last week.
+
+JOSH
+It's over, Toby. We won.
+
+TOBY
+Amy's incredibly employable, Josh.
+
+JOSH
+[chuckles lightly] All right.
+
+TOBY
+All right.
+
+Josh hangs up the phone. An expression of guilt and exhaustion is on his face, even though 
+he won the vote. Donna has been leaning on the doorway, listening.
+
+DONNA
+You did all right, okay?
+
+JOSH
+I bought her boss.
+
+DONNA
+Yeah, that's how you had to win this one. You think her job's really in jeopardy?
+
+JOSH
+No, she'll lose it for sure. Anyway, good job. [stands] See you tomorrow.
+
+DONNA
+You're not gonna stick around for the vote?
+
+JOSH
+We won by eight.
+
+Donna watches Josh leave the office. After a moment, she leaves as well.
+
+FADE OUT.
+END ACT THREE
+* * *
+
+ACT FOUR
+
+FADE IN: INT. SECURITY VAN - NIGHT
+An agent watches the surveillance monitors. Shown on all three screens, Toby and Sam talks 
+to some reporters in the designated press area.
+
+REPORTER 1 [VO]
+Toby, it's already intermission, and Governor Ritchie's stuck in traffic. He won't get here 
+until the middle of the second act.
+
+CUT TO: EXT. PRESS AREA - CONTINUOUS
+
+TOBY
+He should have take the Cross Bronx to the West Side.
+
+REPORTER 2
+Sam?
+
+SAM
+I don't know... but I want to tell you some good facts. $1.8 million raised for the Catholic 
+charities tonight. Thanks to the people who made it. While we're talking, the House is passing 
+the President's welfare reform bill, and he appreciates all the governors who worked the vote.
+
+TOBY
+And the Yankees are about to snap a 12-game winning streak. Thanks a lot.
+
+SAM
+What Toby means to say that if 90% of success is showing up, we're just happy that someone's 
+standing up for the other ten.
+
+Sam and Toby turn to leave.
+
+TOBY
+I love the theater.
+
+SAM
+I know what you mean.
+
+CUT TO: INT. THEATER HALLWAY - NIGHT
+Bartlet is posing for pictures with a couple, while Charlie waits. When finished, the couple 
+say their thanks. Bartlet walks with Charlie.
+
+BARTLET
+What's going on?
+
+CHARLIE
+Nothing, sir. [beat] I'll be arranging a second meeting with Deborah Fiderer when we get 
+back to town.
+
+BARTLET
+From this afternoon?
+
+CHARLIE
+Yes, sir.
+
+BARTLET
+Are you pledging a fraternity or something, 'cause this would be a good one.
+
+CHARLIE
+Sir? [stops]
+
+BARTLET
+What's with you and this woman?
+
+CHARLIE
+She hired me. That's why she was fired.
+
+Bartlet, a little surprised, just nods in agreement. They walk again.
+
+CUT TO: INT. A CONVENIENCE STORE - NIGHT
+A sharp-dressed, supposedly off-duty Simon Donovan walks in happily inside the convenience 
+store. He walks past the bright flowers on the side and straight to the candy stand. The 
+Korean grocer behind the counter stands still, while a customer by the corner browses the 
+fruit stand. Simon grabs a Milky Way bar.
+
+SIMON
+[to the grocer] You happen to know if a Milky Way bar has red in it?
+
+He turns to the counter. The grocer, with his thick glasses, stays still, looking down.
+
+SIMON
+Sorry. Kidding. I'm gonna buy this, and... [looks at the flowers] ...and a flower.
+
+GROCER
+[quietly] No, no. We don't have that.
+
+SIMON
+No, I mean I'm gonna buy this. How much is it?
+
+GROCER
+No. It-It's okay.
+
+SIMON
+No. How much is it?
+
+GROCER
+You can go.
+
+Simon sees the open drawer of the cash machine. It's empty. The grocer is still in shock 
+after the robbery.
+
+SIMON
+It's all right.
+
+The grocer backs a little when Simon pulls out his pistol from his concealed holster. 
+He quickly cocks the gun and turns around, pointing the loaded weapon to the suspicious 
+guy by the fruit stand.
+
+SIMON
+Don't move at all. I'm a Federal officer.
+
+The suspected man in the plain gray sweatshirt moves his hand.
+
+SIMON
+Don't reach. I'm Secret Service. You know you'll never get there. Put your hands in the air.
+
+The man complies as Simon steps closer. His gun is still aimed at the culprit.
+
+SIMON
+That's it. I want you to lie down face first on the floor. Let's go.
+
+The man nervously lies down on his stomach. Simon reaches him and puts both of the man's hands 
+behind the back.
+
+SIMON
+Keep it up. You're doing great.
+
+Simon confiscates the man's weapon. He takes off his bow tie and uses it to cuff the man's 
+hands. The grocer watches carefully behind his counter.
+
+SIMON
+You shouldn't get down on yourself. A Secret Service agent walking in the middle of an armed 
+robbery -- that's just bad luck. You lie still, okay?
+
+Simon stands and speaks to his wrist mic, while slowly making his way back to the counter.
+
+SIMON
+This is Donovan. I need NYPD at a Korean grocery at 98th and Broadway. [to the grocer] Sir, 
+I hate to be a problem customer, but if I don't get a Milky Way bar pretty soon...
+
+He is interrupted by movement and did not have time to react. Simon is immediately thrown 
+backward by three deafening shots. A second robber has been hiding in the back aisle. The 
+long-haired goon runs outside after shooting Simon. The grocer panics. He looks at Simon's 
+body and runs out as well. In the background, a melancholy tune starts to play.
+
+CUT TO: INT. BROADWAY THEATER - NIGHT
+The play continues. Bartlet watches from his balcony.
+
+WOMAN
+Too... too unpardonable. Off with the crown, and with the crown, his head. And whilst we 
+breathe, take time to do him dead.
+
+YOUNG MAN
+That is my office for my father's sake.
+
+WOMAN
+Nay. Stay. Let's hear the orisons he makes.
+
+OLDER MAN
+She-wolf of France! But worse than wolves of France, whose tongue more poisons...
+
+Bartlet stands and leaves. In the other balcony, Ron gets C.J.'s attention. They walk out.
+
+CUT TO: INT. THEATER ENTRANCE - NIGHT
+Ron delivers the horrible news. C.J. listens attentively. Outside, a barrage of lights shine.
+The song "Hallelujah" continues.
+
+	I heard there was a secret chord
+	That David played and it pleased the Lord
+	But you don't really care for music, do you?
+
+C.J.
+Somebody's made a mistake. He was just on his way to the field office...
+
+RON
+No.
+
+C.J. tries hard to accept the news, putting her hand on her forehead. The song drains out 
+their conversation.
+
+	It goes like this, the fourth, the fifth
+	The minor fall, the major lift
+	The baffled king composing hallelujahs.
+	Hallelujah...
+
+C.J.
+Excuse me.
+
+CUT TO: INT. CONVENIENCE STORE - NIGHT
+The police have arrived, taking pictures of Simon's body. He is still down on the ground, 
+beside the many flowers.
+
+	Hallelujah...
+
+CUT TO: EXT. TIMES SQUARE - NIGHT
+C.J. is teary-eyed. She walks amongst the people, the lights, the confusion. She bumps into 
+someone, who just walks on.
+
+	Well, your faith was strong, but you needed proof
+	You saw her bathing on the roof
+	Her beauty in the moonlight overthrew you
+	She tied you to a kitchen chair
+	She broke your throne, she cut your hair
+	And from your lips, she drew the hallelujah.
+	Hallelujah, Hallelujah...
+
+C.J. finds a bench to sit on. She gazes up and ahead, still crying.
+
+CUT TO: INT. CONVENIENCE STORE - NIGHT
+Ron sees the fallen agent, and kneels down beside him.
+
+	Hallelujah, Hallelujah...
+
+CUT TO: INT. AMY'S APARTMENT - NIGHT
+Josh and Amy walk to the kitchen. The same song is faintly heard in the background.
+
+JOSH
+What'd you think I was gonna do?
+
+AMY
+I thought you were gonna do this.
+
+JOSH
+And?
+
+AMY
+And I didn't think it was gonna work.
+
+JOSH
+Are you fired?
+
+AMY
+I'm resigning on Monday.
+
+JOSH
+Do you have to?
+
+AMY
+I had an entire policy initiative reversed in an hour. Weren't you given the chance to get 
+the votes you needed by setting up a meeting with Ritchie?
+
+JOSH
+I'm not a dating service.
+
+AMY
+[slams the fridge] What is wrong with you?!
+
+JOSH
+Every serious Democrat is gonna unite behind this President, and I'm not kidding around.
+
+AMY
+Every serious Democrat should be thinking about leading and not following.
+
+JOSH
+Yeah? How's it going so far?
+
+AMY
+Matter of fact, it's going all right, and I'd do it again.
+
+JOSH
+That's what's scaring the hell out of me.
+
+AMY
+Good. It's about time.
+
+The phone in the living room rings.
+
+JOSH
+You can't win the White House while the middle class thinks you disdain work and responsibility.
+
+AMY
+I would hope not, and I congratulate you for punishing poor women as the symbol of the 
+strength of mainstream values.
+
+JOSH
+That's not what we did.
+
+Amy walks to the phone and picks it up.
+
+AMY
+Hello?
+
+JOSH
+Do you not consider it relevant that it would be worse with Rob Ritchie in the White House? 
+Why is that not part of the equation?
+
+AMY
+Honey, Simon Donovan was shot and killed.
+
+Josh stops and reaches to answer the phone.
+
+	And the holy dove was moving too
+	And every breath we drew was hallelujah.
+
+CUT TO: INT. THEATER HALLWAY - NIGHT
+
+	Hallelujah...
+
+It's the play's first intermission. Leo walks along the dark terrace hallway. He sees Bartlet 
+by the corner, peering downstairs. They meet and talk quietly.
+
+BARTLET
+Civilians get trials.
+
+LEO
+I'd argue he's not a civilian. So would the Attorney General.
+
+BARTLET
+They're gonna find out it's us. We could make it look like the plane went down, but they're 
+gonna find out it's us, and I'm gonna be running for reelection while I'm fighting a war 
+against Qumar.
+
+LEO
+That's why you want to say no?
+
+BARTLET
+I want him tried.
+
+LEO
+That can't happen.
+
+BARTLET
+I understand.
+
+LEO
+I was talking this morning about how Mallory names all the lobsters in the tank.
+
+BARTLET
+Yeah.
+
+LEO
+Would it be helpful if I brought you a list of names of Shareef's victims?
+
+BARTLET
+What do you want from me?
+
+LEO
+Who was the monk who wrote, "I always don't know the right thing to do, Lord, but I think 
+the fact that I want to please you pleases you." [beat] You have two minutes, sir.
+
+BARTLET
+This isn't a matter of religion.
+
+LEO
+Yes, sir.
+
+BARTLET
+I recognize that there's evil in the world.
+
+LEO
+What is your objection exactly, sir?
+
+BARTLET
+Doesn't this mean we join the league of ordinary nations?
+
+LEO
+That's your objection? I'm not gonna have trouble saying the Pledge of Allegiance tomorrow.
+
+BARTLET
+That's not my objection.
+
+LEO
+Sir...
+
+BARTLET
+It's just wrong. It's absolutely wrong.
+
+LEO
+I know, but you have to do it anyway.
+
+BARTLET
+Why?
+
+LEO
+'Cause you won.
+
+Bartlet pauses. He starts to walk away, but he stops right in front of Leo's shoulder.
+
+BARTLET
+Take him.
+
+He continues on his way. Silent. Leo grabs his phone and dials.
+
+CUT TO: INT. THEATER MESS - NIGHT
+Bartlet walks down a flight of stairs, past the men's bathroom. A shadow of a man is cast 
+on the bathroom door, while the man washes his hands. Bartlet lights his cigarette in the 
+mess. A female employee spots him.
+
+BARTLET
+[smiling] Caught me.
+
+Behind Bartlet, Governor ROBERT RITCHIE exits the bathroom. Ritchie sees the President and 
+approaches.
+
+ROBERT RITCHIE
+Mr. President.
+
+BARTLET
+Governor.
+
+RITCHIE
+You enjoying the play?
+
+BARTLET
+I am. How about you?
+
+RITCHIE
+We just got here. We were at the Yankee game. We were, you know, hung up in traffic.
+
+BARTLET
+Yeah, I know. Listen, politics aside, and I don't want to make a big deal out of it, but 
+you probably insulted the church, and you can head it off at the pass if you speak to the 
+Cardinal tonight.
+
+RITCHIE
+Well, I didn't mean to insult anybody.
+
+BARTLET
+No.
+
+RITCHIE
+And it's a baseball game. It's how ordinary Americans...
+
+BARTLET
+Yeah. [beat] No, I don't understand that. The center fielder for the Yankees is an accomplished 
+classical guitarist. People who like baseball can't like books?
+
+RITCHIE
+Are you taking this personally?
+
+BARTLET
+No. Something horrible happened about an hour ago.
+
+The two find a place to sit across each other.
+
+BARTLET
+C.J. Cregg was getting threats so we put an agent on her. He's a good guy. He was on my 
+detail for a while, and he was in Rosslyn. He walked in the middle of an armed robbery, 
+and was shot and killed after detaining one of the suspects.
+
+RITCHIE
+Oh. Crime. Boy, I don't know.
+
+BARTLET
+[sighs] We should have a great debate, Rob. We owe it to everyone. When I was running as a 
+governor, I didn't know anything. I made them start Bartlet college in my dining room. 
+Two hours every morning on foreign affairs and the military. You can do that.
+
+RITCHIE
+How many different ways you think you're gonna find to call me dumb?
+
+BARTLET
+I wasn't, Rob. But you've turned being un-engaged into a Zen-like thing, and you shouldn't 
+enjoy it so much is all, and if it appears at times as if I don't like you, that's the 
+reason why.
+
+RITCHIE
+You're what my friends call a superior sumbitch. You're an academic elitist and a snob. 
+You're, uh, Hollywood, you're weak, you're liberal, and you can't be trusted. And if it 
+appears from time to time as if I don't like you, well, those are just a few of the many 
+reasons why.
+
+The start of a great tune is played inside the theater.
+
+BARTLET
+They're playing my song.
+
+Bartlet stands and heads to the stairs, but he turns to Ritchie before reaching them.
+
+BARTLET
+In the future, if you're wondering, "Crime. Boy, I don't know" is when I decided to kick 
+your ass.
+
+Ritchie can't help but smile as Bartlet heads upstairs.
+
+CUT TO: INT. BROADWAY THEATER - NIGHT
+A bright, young boy runs center stage. He starts to sing.
+
+	England arise. Join in the chorus.
+	This is a new made song,
+	You should be... singing.
+	See in the skies, fluttering before us,
+	What the bright bird of peace is bringing
+	Ah...
+
+Other actors walk on stage, joining the boy in the chorus.
+
+	See upon a smiling land
+	Where the wealth of nations stand.
+
+CUT TO: EXT. REMOTE LANDING STRIP IN BERMUDA - NIGHT
+A man distributes loaded rifles to each sniper. The chorus song is still heard aloud.
+
+	Where prosperity and industry
+	Walk ever hand in hand.
+	Where so many blessings crowd
+	'Tis our duty to be proud.
+	Up and answer English yeoman
+	
+CUT TO: INT. SITUATION ROOM - NIGHT
+Fitzwallace is alone in the room, waiting by the phone. The song continues.
+
+	Sing it joyfully aloud!
+
+Back in the LANDING STRIP, a private plane lands. A sniper watches via night vision.
+
+	Every garner filled with grain
+	Every meadow blessed with rain.
+
+Abdul Shareef and his two bodyguards exit the plane. They look around unknowingly. The 
+snipers take aim and fire, sending Shareef and the bodyguards down on the ground. Dead.
+
+	Rich and fertile is the golden corn
+	That bears and bears again.
+
+Bartlet stares at the stage THEATER. In the LANDING STRIP, one of the snipers takes the pen 
+recorder from Shareef and attaches it to a compatible phone. Fitzwallace picks up the phone 
+in the SITUATION ROOM.
+
+	Where so many blessings crowd
+	'Tis our duty to be proud.
+
+In the theater HALLWAY, Leo answers his phone. Bartlet turns his head to look.
+
+	Up and answer English yeoman
+	Sing it joyfully aloud!
+
+The actors in the stage are now waving several flags. From behind them, the lights get 
+blocked from time to time. In the hallway, Leo hangs up. Bartlet stands.
+
+	Upon our country
+	God will pour his rich increase,
+
+Bartlet and Leo meet. Bled out by the loud singing, Leo relays the news before walking away.
+
+	And victorious in war
+	Shall be made glorious in peace.
+	Glorious in peace.
+	Glorious in peace.
+	Glorious in peace.
+	Glorious... 
+
+Bartlet steps behind a curtain, casting a silhouette. For a while, Bartlet's shadow just 
+stands out, and it is the only thing we see.
+
+	...in peace!
+	In peace! In peace!
+
+DISSOLVE TO: END TITLES.
+FADE TO BLACK.
+THE END
+* * *
+
+The West Wing and all its characters are a property of Aaron Sorkin, John Wells 
+Production, Warner Brothers Television and NBC. No copyright infringement is intended.
+
+Episode 3.21 -- "Posse Comitatus"
+Original Airdate: May 22, 2002, 9:00 PM EST
+
+Transcript by: Giorgio
+June 24, 2002
